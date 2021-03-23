@@ -19,8 +19,6 @@
 .env.production.local
 *.idea
 *.iml
-package.json
-package-lock.json
 
 npm-debug.log*
 yarn-debug.log*
