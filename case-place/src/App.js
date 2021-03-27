@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import './styles/App.scss';
 import ButtonModal from "./components/ButtonModal";
-import WelcomeModal from "./components/WelcomeModal";
+import Button from "./components/Button";
 
 function App() {
     // #TODO: Assign into local storage to prevent refire
@@ -9,7 +9,6 @@ function App() {
     const [welcomeInfoData, setWelcomeInfoData] = useState('');
     return (
         <div className={"App"}>
-            <WelcomeModal setShowWelcomeModal = {setShowWelcomeModal}/>
             {showWelcomeModal && (
                 <ButtonModal showWelcomeModal={showWelcomeModal} setShowWelcomeModal={setShowWelcomeModal}
                              buttonTitles={['Parent or Prospective Student', 'Guest', 'Current Student']}
