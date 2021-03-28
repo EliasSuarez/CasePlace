@@ -1,15 +1,15 @@
 import logo from './logo.svg';
+import {Ionicons} from "react-icons/io"
 import GoogleMapReact from 'google-map-react';
-import React, { useState, Component} from 'react';
+import React, { useState, setState, Component} from 'react';
 import './App.css';
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
 import ToggleButton from 'react-bootstrap/ToggleButton'
-
+import places from './places.json'
 
 function App() {
   const [value, setValue] = useState(1);
   const handleChange = (val) => setValue(val);
-  const AnyReactComponent = ({ text }) => <div>{text}</div>;
   return (
     <div>
     <ToggleButtonGroup type="checkbox" value={value} exclusive onChange={handleChange}>
@@ -24,11 +24,12 @@ function App() {
           defaultCenter={{lat:41.508186,lng:-81.608665}}
           defaultZoom={17}
         >
-          <AnyReactComponent
-            lat={41.508186}
-            lng={-81.608665}
-            text="My Marker"
-          />
+              <ion-icon name="locate-outline"
+              lat={places[1].latitude}
+              lng={places[1].longitude}
+              text= {places[1].name}
+            />
+          
         </GoogleMapReact>
       </div>
     </div>

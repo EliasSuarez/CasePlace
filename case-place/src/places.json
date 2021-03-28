@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Glennan",
+        "latitude": "41.499200",
+        "longitude": "-81.606920",
+        "category": "CSE"
+    },
+    {
+        "id": 2,
+        "name": "Millis Hall",
+        "latitude": "41.504080",
+        "longitude": "-81.607360",
+        "category": "CAS"
+    },
+    {
+        "id": 3,
+        "name": "Peter B. Lewis",
+        "latitude": "41.510290",
+        "longitude": "-81.607950",
+        "category": "WSOM"
+    }
+    ]
