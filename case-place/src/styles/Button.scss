@@ -1,0 +1,13 @@
+.mybutton {
+    display: flex;
+    flex-direction: column;
+    background-color: #0A304E;
+    width: 300px
+}
+
+.mybutton:hover {
+    display: flex;
+    flex-direction: column;
+    background-color: #051824;
+    width: 300px;
+}
