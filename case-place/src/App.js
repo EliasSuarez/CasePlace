@@ -10,6 +10,16 @@ import places from './places.json'
 function App() {
   const [value, setValue] = useState(1);
   const handleChange = (val) => setValue(val);
+
+  const AnyReactComponent = ({ text }) => <div>{text}</div>;
+  const locations = places.map(data =>
+      <AnyReactComponent
+         lat = {data.latitude}
+          lng = {data.longitude}
+          text = {data.name} ></AnyReactComponent>
+    )
+
+
   return (
     <div>
     <ToggleButtonGroup type="checkbox" value={value} exclusive onChange={handleChange}>
@@ -24,12 +34,11 @@ function App() {
           defaultCenter={{lat:41.508186,lng:-81.608665}}
           defaultZoom={17}
         >
-              <ion-icon name="locate-outline"
-              lat={places[1].latitude}
-              lng={places[1].longitude}
-              text= {places[1].name}
-            />
-          
+            <AnyReactComponent
+         lat = {places[1].latitude}
+          lng = {places[1].longitude}
+          text = {places[1].name} ></AnyReactComponent>
+              {locations}
         </GoogleMapReact>
       </div>
     </div>
