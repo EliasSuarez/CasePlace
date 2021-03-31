@@ -2,13 +2,13 @@ import React from "react";
 
 const ButtonModal = ({setShowWelcomeModal, buttonTitles, welcomeInfoData, setWelcomeInfoData}) => {
     const onButtonClickHandler = (title) => {
-        console.log(title);
         setShowWelcomeModal(false);
-        setWelcomeInfoData(title);
+        setWelcomeInfoData({title: welcomeInfoData.title, selection: title});
     }
 
     return (
         <div className={"buttonContainer"}>
+        <h1>{welcomeInfoData.title}</h1>
             {buttonTitles.map((title) => {
                 return (
                     <button onClick={() => onButtonClickHandler(title)} key={title}>
@@ -17,6 +17,7 @@ const ButtonModal = ({setShowWelcomeModal, buttonTitles, welcomeInfoData, setWel
             })}
         </div>
 
-    );}
+    );
+}
 
-    export default ButtonModal;
+export default ButtonModal;
