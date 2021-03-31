@@ -1,0 +1,23 @@
+.buttonContainer {
+  align-items: center;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  text-align: center;
+  width: 80%;
+  left: 10%;
+  top: 25%;
+  border-radius: 24px;
+  padding-bottom: 5%;
+
+  @media screen and (max-width: 768px) {
+    top: revert;
+    left: revert;
+    width: 100%;
+    bottom: 0;
+    min-height: 40vh;
+    border-radius: 24px 24px 0 0;
+  }
+}

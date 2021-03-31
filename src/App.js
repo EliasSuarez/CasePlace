@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from "react";
+import './styles/App.scss';
+import ButtonModal from "./components/ButtonModal";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    // #TODO: Assign into local storage to prevent refire
+    const [showWelcomeModal, setShowWelcomeModal] = useState(true);
+    const [welcomeInfoData, setWelcomeInfoData] = useState('');
+
+    return (
+        <div className={"App"}>
+            <div className={showWelcomeModal ? 'dim-background' : ''}/>
+            {showWelcomeModal && (
+                <ButtonModal modalTitle={'I am a'} showWelcomeModal={showWelcomeModal}
+                             setShowWelcomeModal={setShowWelcomeModal}
+                             buttonTitles={['Parent or Prospective Student', 'Guest', 'Current Student']}
+                             welcomeInfoData={welcomeInfoData}
+                             setWelcomeInfoData={setWelcomeInfoData}/>
+            )}
+        </div>
+    );
 }
 
 export default App;
