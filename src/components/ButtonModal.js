@@ -1,9 +1,13 @@
 import React from "react";
+import {ProspyWelcome, GuestWelcome, CurrentStudentWelcome} from "../util/ButtonTitles.js";
 
-const ButtonModal = ({modalTitle, setShowWelcomeModal, buttonTitles, welcomeInfoData, setWelcomeInfoData}) => {
+const ButtonModal = ({modalTitle, setShowWelcomeModal, buttonTitles, welcomeInfoData, setWelcomeInfoData, setShowProspySeekingModal}) => {
     const onButtonClickHandler = (title) => {
         setShowWelcomeModal(false);
-        setWelcomeInfoData(title);
+        //setWelcomeInfoData(title);
+        if(title === ProspyWelcome){
+            setShowProspySeekingModal(true);
+        }
     }
 
     return (
