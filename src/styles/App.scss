@@ -13,6 +13,10 @@ button {
   padding: 0.7rem;
   text-align: center;
   width: 50%;
+
+  &:hover {
+    background-color: #051825;
+  }
 }
 
 .dim-background {
