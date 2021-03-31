@@ -19,7 +19,10 @@ const Map = () => {
       return (
         <div>
         <ToggleButtonGroup type = "checkbox" exclusive>
-            <ToggleButton value = "Explore"></ToggleButton>
+            <ToggleButton value = "Explore">Explore</ToggleButton>
+            <ToggleButton value = "Transportation">Transportation</ToggleButton>
+            <ToggleButton value = "Directions">Directions</ToggleButton>
+            <ToggleButton value = "Food">Food</ToggleButton>
         </ToggleButtonGroup>
         <div style={{ height: '100vh', width: '100%' }}>
             <GoogleMapReact
