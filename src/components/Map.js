@@ -1,7 +1,7 @@
 import React, { useState, setState, Component}  from "react";
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
 import ToggleButton from 'react-bootstrap/ToggleButton'
-import places from './places.json'
+import places from './locations.json'
 import GoogleMapReact from 'google-map-react';
 const Map = () => {
     
