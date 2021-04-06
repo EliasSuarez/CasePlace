@@ -1,12 +1,12 @@
 import React, { useState, setState, Component}  from "react";
-import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
-import ToggleButton from 'react-bootstrap/ToggleButton'
 import places from './locations.json'
 import GoogleMapReact from 'google-map-react';
+import customRadioButton from "./customRadioButton";
 
 const Map = () => {
-  
-  var [loc, setLoc] = useState("CSE");
+    const cwruBlue  = "#0A304E";
+
+    const [loc, setLoc] = useState("CSE");
 
 
     const AnyReactComponent = ({ text }) => <div>{text}</div>;
@@ -98,15 +98,18 @@ const Map = () => {
 
       return (
         <div>
-        <div onChange={radioHandle}>
-          <input type="radio" value="Housing" name = "select"/> Housing
-          <input type="radio" value="Food" name = "select" /> Food
-          <input type="radio" value="Medical" name = "select" /> Medical
-          <input type="radio" value="Phys" name = "select"  /> Phys
-          <input type="radio" value="Services" name = "select"  /> Services
-          <input type="radio" value="Business"   name = "select"/> Business
-          <input type="radio" value="CSE"   name = "select"/> Engineering
-          <input type="radio" value="CAS"  name = "select"/> Arts and Sciences
+            <div style={{backgroundColor: cwruBlue}}>
+                <customRadioButton inValue={"Test"} inName = {"select"} inSetLoc ={setLoc}></customRadioButton> Test
+            </div>
+        <div onChange={radioHandle} >
+            <input type="radio" value=<text style={{color: '#efeaea'}}/> name = "select"/> Housing
+            <input type="radio" value="Food" name = "select" /> Food
+            <input type="radio" value="Medical" name = "select" /> Medical
+            <input type="radio" value="Phys" name = "select"  /> Phys
+            <input type="radio" value="Services" name = "select"  /> Services
+            <input type="radio" value="Business"   name = "select"/> Business
+            <input type="radio" value="CSE"   name = "select"/> Engineering
+            <input type="radio" value="CAS"  name = "select"/> Arts and Sciences
         </div>
         <div style={{ height: '100vh', width: '100%' }}>
             <GoogleMapReact
@@ -128,6 +131,6 @@ const Map = () => {
           </div>
         </div>
       )
-    }
+    };
 
 export default Map;
