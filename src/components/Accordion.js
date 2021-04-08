@@ -21,12 +21,12 @@ function Accordion({ pins }) {
 
     return (
         <div className = "renderedAccordionItems">
-            {pins.map((pin, i) => {
+            {pins.map((pin, i) => (
                 <AccordionItem mapPin = {pin} index = {i} toggleCurrentPin = {toggleCurrentPin} />
-            }
+            )
             )}
         </div>
     )
-
-    export default Accordion
 }
+
+export default Accordion

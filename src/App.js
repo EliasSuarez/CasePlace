@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./styles/App.scss";
 import ButtonModal from "./components/ButtonModal";
+import Accordion from "./components/Accordion";
 import * as ButtonTitle from "./util/ButtonTitles.js";
 import { PinData } from "./util/SampleMapPinData.js";
 
@@ -14,26 +15,28 @@ function App() {
   const [showAccordion, setShowAccordion] = useState(true);
   const [locations, setLocations] = useState(PinData);
 
+  /*
   useEffect(() => {
     // eslint-disable-next-line default-case
     switch (modalSelection) {
       case ButtonTitle.ProspyWelcome:
-        setShowProspySeekingModal(true);
+        setShowProspySeekingModal(false);
         break;
       case ButtonTitle.GuestWelcome:
-        setShowGuestSeekingModal(true);
+        setShowGuestSeekingModal(false);
         break;
       case ButtonTitle.CurrentStudentWelcome:
-        setShowStudentSeekingModal(true);
+        setShowStudentSeekingModal(false);
         break;
       case "":
-        setShowWelcomeModal(true);
+        setShowWelcomeModal(false);
         break;
       default:
         // Eventually we want default to go to the map
-        setShowWelcomeModal(true);
+        setShowWelcomeModal(false);
     }
   }, [modalSelection]);
+  */
 
   const modalActive =
     showWelcomeModal ||
@@ -103,6 +106,7 @@ function App() {
 
       {showAccordion && (
         <Accordion pins = {locations} />
+
         )
       }
     </div>
