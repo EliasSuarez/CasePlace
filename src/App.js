@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./styles/App.scss";
 import ButtonModal from "./components/ButtonModal";
 import * as ButtonTitle from "./util/ButtonTitles.js";
+import { PinData } from "./util/SampleMapPinData.js";
 
 function App() {
   // #TODO: Assign into local storage to prevent refire
@@ -10,6 +11,8 @@ function App() {
   const [showProspySeekingModal, setShowProspySeekingModal] = useState(false);
   const [showStudentSeekingModal, setShowStudentSeekingModal] = useState(false);
   const [showGuestSeekingModal, setShowGuestSeekingModal] = useState(false);
+  const [showAccordion, setShowAccordion] = useState(true);
+  const [locations, setLocations] = useState(PinData);
 
   useEffect(() => {
     // eslint-disable-next-line default-case
@@ -97,6 +100,11 @@ function App() {
           setModalSelection={setModalSelection}
         />
       )}
+
+      {showAccordion && (
+        <Accordion pins = {locations} />
+        )
+      }
     </div>
   );
 }
