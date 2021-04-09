@@ -15,7 +15,7 @@ function App() {
   const [showAccordion, setShowAccordion] = useState(true);
   const [locations, setLocations] = useState(PinData);
 
-  /*
+  
   useEffect(() => {
     // eslint-disable-next-line default-case
     switch (modalSelection) {
@@ -36,7 +36,7 @@ function App() {
         setShowWelcomeModal(false);
     }
   }, [modalSelection]);
-  */
+  
 
   const modalActive =
     showWelcomeModal ||

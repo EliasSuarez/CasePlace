@@ -7,7 +7,7 @@ function AccordionItem({mapPin, index, toggleCurrentPin}) {
             key = {index}
             onClick = {() => toggleCurrentPin(index)}
         >
-            <div className = "mapPin_name">
+            <div className = "mapPin_name" style = {{fontWeight: "bold"}}>
                 {mapPin.name}
             </div>
 

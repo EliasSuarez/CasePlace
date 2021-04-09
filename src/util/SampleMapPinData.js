@@ -3,8 +3,8 @@ import React from "react"
 export const PinData = [
     {
         name: "Veale Center",
-        info: "A cool gym near southside",
-        open: true
+        info: "A cool gym near southside. It has some really cool amenities. You should check it out!",
+        open: false
     },
     {
         name: "Leutner",
