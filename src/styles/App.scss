@@ -85,6 +85,7 @@ button {
   transition: all 0.1s ease-out;
 }
 
+//idk how to fix this bug where the minus sign only goes to the right place for the 1st element
 .renderedAccordionItems .mapPinopen .mapPin_name::after {
   content: '';
   position: absolute;
