@@ -1,32 +1,35 @@
-import React, { useState } from "react"
-import AccordionItem from "./AccordionItem"
+import React, { useState } from "react";
+import AccordionItem from "./AccordionItem";
 
+const Accordion = ({ pins }) => {
+  const [pinData, setPinData] = useState(pins);
 
-function Accordion({ pins }) {
-    const [pinData, setPinData] = useState(pins)
+  //method to open the accordion item to see its info if it is clicked
 
-    //method to open the accordion item to see its info if it is clicked
+  const toggleCurrentPin = (index) => {
+    setPinData(
+      pinData.map((pin, i) => {
+        if (i === index) {
+          pin.open = !pin.open;
+        } else {
+          pin.open = false;
+        }
+        return pin;
+      })
+    );
+  };
 
-    const toggleCurrentPin = index => {
-        setPinData(pinData.map((pin, i) => {
-            if (i === index) {
-                pin.open = !pin.open
-            } else {
-                pin.open = false;
-            }
+  return (
+    <div className="accordionItems">
+      {pins.map((pin, i) => (
+        <AccordionItem
+          mapPin={pin}
+          index={i}
+          toggleCurrentPin={toggleCurrentPin}
+        />
+      ))}
+    </div>
+  );
+};
 
-            return pin
-        }))
-    }
-
-    return (
-        <div className = "renderedAccordionItems">
-            {pins.map((pin, i) => (
-                <AccordionItem mapPin = {pin} index = {i} toggleCurrentPin = {toggleCurrentPin} />
-            )
-            )}
-        </div>
-    )
-}
-
-export default Accordion
+export default Accordion;
