@@ -98,11 +98,11 @@ const Map = () => {
 
       return (
         <div>
-            <div style={{backgroundColor: cwruBlue}}>
-                <customRadioButton inValue={"Test"} inName = {"select"} inSetLoc ={setLoc}></customRadioButton> Test
-            </div>
+            {/*<div style={{backgroundColor: cwruBlue}}>*/}
+            {/*    <customRadioButton inValue={"Test"} inName = {"select"} inSetLoc ={setLoc}></customRadioButton> Test*/}
+            {/*</div>*/}
         <div onChange={radioHandle} >
-            <input type="radio" value=<text style={{color: '#efeaea'}}/> name = "select"/> Housing
+            <input type="radio" value="Housing" name = "select"/> Housing
             <input type="radio" value="Food" name = "select" /> Food
             <input type="radio" value="Medical" name = "select" /> Medical
             <input type="radio" value="Phys" name = "select"  /> Phys
