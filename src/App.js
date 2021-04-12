@@ -42,70 +42,71 @@ function App() {
     showStudentSeekingModal;
 
   return (
-      <div className={"App"}>
-            {<Map></Map>}
-        </div>);
 
-  //   <div className={"App"}>
-  //     <div className={modalActive ? "dim-background" : ""} />
-  //     {showWelcomeModal && (
-  //       <ButtonModal
-  //         modalTitle={"I am a"}
-  //         setShowModal={setShowWelcomeModal}
-  //         buttonTitles={[
-  //           ButtonTitle.ProspyWelcome,
-  //           ButtonTitle.GuestWelcome,
-  //           ButtonTitle.CurrentStudentWelcome,
-  //         ]}
-  //         setModalSelection={setModalSelection}
-  //       />
-  //     )}
-  //
-  //     {showProspySeekingModal && (
-  //       <ButtonModal
-  //         modalTitle={"What Would You Like to Do?"}
-  //         setShowModal={setShowProspySeekingModal}
-  //         buttonTitles={[
-  //           ButtonTitle.CampusSeeking,
-  //           ButtonTitle.FoodSeeking,
-  //           ButtonTitle.DirectionsSeeking,
-  //           ButtonTitle.TransportationSeeking,
-  //         ]}
-  //         setModalSelection={setModalSelection}
-  //       />
-  //     )}
-  //
-  //     {showStudentSeekingModal && (
-  //       <ButtonModal
-  //         modalTitle={"I'm looking for"}
-  //         setShowModal={setShowStudentSeekingModal}
-  //         buttonTitles={[
-  //           ButtonTitle.CampusBuildingSeeking,
-  //           ButtonTitle.ClubsSeeking,
-  //           ButtonTitle.HealthServicesSeeking,
-  //           ButtonTitle.StudentServicesSeeking,
-  //           ButtonTitle.ShoppingSeeking,
-  //           ButtonTitle.StudySeeking,
-  //         ]}
-  //         setModalSelection={setModalSelection}
-  //       />
-  //     )}
-  //
-  //     {showGuestSeekingModal && (
-  //       <ButtonModal
-  //         modalTitle={"What Would You Like to Do?"}
-  //         setShowModal={setShowGuestSeekingModal}
-  //         buttonTitles={[
-  //           ButtonTitle.CampusSeeking,
-  //           ButtonTitle.FoodSeeking,
-  //           ButtonTitle.DirectionsSeeking,
-  //           ButtonTitle.TransportationSeeking,
-  //         ]}
-  //         setModalSelection={setModalSelection}
-  //       />
-  //     )}
-  //   </div>
-  // );
+
+    <div className={"App"}>
+      <div className={"Map"}>
+        {<Map></Map>}
+      </div>,
+      <div className={modalActive ? "dim-background" : ""} />
+      {showWelcomeModal && (
+        <ButtonModal
+          modalTitle={"I am a"}
+          setShowModal={setShowWelcomeModal}
+          buttonTitles={[
+            ButtonTitle.ProspyWelcome,
+            ButtonTitle.GuestWelcome,
+            ButtonTitle.CurrentStudentWelcome,
+          ]}
+          setModalSelection={setModalSelection}
+        />
+      )}
+
+      {showProspySeekingModal && (
+        <ButtonModal
+          modalTitle={"What Would You Like to Do?"}
+          setShowModal={setShowProspySeekingModal}
+          buttonTitles={[
+            ButtonTitle.CampusSeeking,
+            ButtonTitle.FoodSeeking,
+            ButtonTitle.DirectionsSeeking,
+            ButtonTitle.TransportationSeeking,
+          ]}
+          setModalSelection={setModalSelection}
+        />
+      )}
+
+      {showStudentSeekingModal && (
+        <ButtonModal
+          modalTitle={"I'm looking for"}
+          setShowModal={setShowStudentSeekingModal}
+          buttonTitles={[
+            ButtonTitle.CampusBuildingSeeking,
+            ButtonTitle.ClubsSeeking,
+            ButtonTitle.HealthServicesSeeking,
+            ButtonTitle.StudentServicesSeeking,
+            ButtonTitle.ShoppingSeeking,
+            ButtonTitle.StudySeeking,
+          ]}
+          setModalSelection={setModalSelection}
+        />
+      )}
+
+      {showGuestSeekingModal && (
+        <ButtonModal
+          modalTitle={"What Would You Like to Do?"}
+          setShowModal={setShowGuestSeekingModal}
+          buttonTitles={[
+            ButtonTitle.CampusSeeking,
+            ButtonTitle.FoodSeeking,
+            ButtonTitle.DirectionsSeeking,
+            ButtonTitle.TransportationSeeking,
+          ]}
+          setModalSelection={setModalSelection}
+        />
+      )}
+    </div>
+  );
 }
 
 export default App;
