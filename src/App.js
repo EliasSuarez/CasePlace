@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./styles/App.scss";
 import ButtonModal from "./components/ButtonModal";
 import * as ButtonTitle from "./util/ButtonTitles.js";
-import "./App.css";
 import Map from "./components/Map.js";
 
 function App() {
