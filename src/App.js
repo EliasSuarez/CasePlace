@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./styles/App.scss";
 import ButtonModal from "./components/ButtonModal";
 import * as ButtonTitle from "./util/ButtonTitles.js";
+import Map from "./components/Map.js";
 
 function App() {
   // #TODO: Assign into local storage to prevent refire
@@ -10,6 +11,7 @@ function App() {
   const [showProspySeekingModal, setShowProspySeekingModal] = useState(false);
   const [showStudentSeekingModal, setShowStudentSeekingModal] = useState(false);
   const [showGuestSeekingModal, setShowGuestSeekingModal] = useState(false);
+  const [loc, setLoc] = useState("CSE");
 
   useEffect(() => {
     // eslint-disable-next-line default-case
@@ -23,12 +25,12 @@ function App() {
       case ButtonTitle.CurrentStudentWelcome:
         setShowStudentSeekingModal(true);
         break;
-      case "":
+      case "Welcome":
         setShowWelcomeModal(true);
         break;
       default:
-        // Eventually we want default to go to the map
-        setShowWelcomeModal(true);
+        setLoc(modalSelection);
+        break;
     }
   }, [modalSelection]);
 
@@ -40,6 +42,7 @@ function App() {
 
   return (
     <div className={"App"}>
+      <Map loc={loc} setLoc={setLoc} />
       <div className={modalActive ? "dim-background" : ""} />
       {showWelcomeModal && (
         <ButtonModal
