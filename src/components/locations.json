@@ -4,13 +4,16 @@
     "address": "2130 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.5030233",
     "longitude": "-81.60552799999999",
-    "category": "Phys"
+    "inf"
+    "info"
+:"",    "category": "Phys"
   },
   {
     "name": "Tinkham Veale University Center",
     "address": "11038 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.508027999999996",
     "longitude": "-81.608667",
+    "info": "",
     "category": "Main"
   },
   {
@@ -18,6 +21,7 @@
     "address": "2102 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.50296",
     "longitude": "-81.60686",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -25,6 +29,7 @@
     "address": "10900 Euclid Ave Cleveland, OH 44106",
     "latitude": "41.504598",
     "longitude": "-81.6098",
+    "info": "",
     "category": "Services"
   },
   {
@@ -32,6 +37,7 @@
     "address": "2128 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.5031",
     "longitude": "-81.60592",
+    "info": "",
     "category": "Phys"
   },
   {
@@ -39,6 +45,7 @@
     "address": "2040 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504813888889004",
     "longitude": "-81.608216666667",
+    "info": "",
     "category": "Services"
   },
   {
@@ -46,6 +53,7 @@
     "address": "2080 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504011",
     "longitude": "-81.60690799999999",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -53,6 +61,7 @@
     "address": "2080 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504183",
     "longitude": "-81.607106",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -60,6 +69,7 @@
     "address": "2074 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504166",
     "longitude": "-81.607494",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -67,6 +77,7 @@
     "address": "11000 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.50597",
     "longitude": "-81.60844",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -74,6 +85,7 @@
     "address": "2345 Murray Hill Road Cleveland, OH 44106",
     "latitude": "41.500582",
     "longitude": "-81.60242199999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -81,6 +93,7 @@
     "address": "10940 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.50492",
     "longitude": "-81.60906",
+    "info": "",
     "category": ""
   },
   {
@@ -88,6 +101,7 @@
     "address": "1728 East 116 Street 1720 - Cleveland, OH 44106",
     "latitude": "41.5116",
     "longitude": "-81.60354799999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -95,6 +109,7 @@
     "address": "1719 East 116 Street Cleveland, OH 44106",
     "latitude": "41.510551",
     "longitude": "-81.60354799999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -102,6 +117,7 @@
     "address": "1727 East 116 Street Cleveland, OH 44106",
     "latitude": "41.5116",
     "longitude": "-81.60315",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -109,6 +125,7 @@
     "address": "1680 East 117 Street Cleveland, OH 44106",
     "latitude": "41.5118",
     "longitude": "-81.6029",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -116,6 +133,7 @@
     "address": "1715 East 115 Street Cleveland, OH 44106",
     "latitude": "41.511506",
     "longitude": "-81.60417699999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -123,6 +141,7 @@
     "address": "2215 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.501881999999995",
     "longitude": "-81.60307399999999",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -130,6 +149,7 @@
     "address": "11111 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.507356",
     "longitude": "-81.60836599999999",
+    "info": "",
     "category": "Main"
   },
   {
@@ -137,6 +157,7 @@
     "address": "11130 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.50897",
     "longitude": "-81.60749",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -144,6 +165,7 @@
     "address": "null Cleveland, OH 44106",
     "latitude": "41.505680999999996",
     "longitude": "-81.6090149",
+    "info": "",
     "category": "Main"
   },
   {
@@ -151,6 +173,7 @@
     "address": "2104 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.502500000000005",
     "longitude": "-81.60694",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -158,6 +181,7 @@
     "address": "2124 Cornell Road Cleveland, OH 44106",
     "latitude": "41.505359999999996",
     "longitude": "-81.603173",
+    "info": "",
     "category": "Research"
   },
   {
@@ -165,6 +189,7 @@
     "address": "2109 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.505006",
     "longitude": "-81.604407",
+    "info": "",
     "category": "Research"
   },
   {
@@ -172,6 +197,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.505102",
     "longitude": "-81.605791",
+    "info": "",
     "category": "Health"
   },
   {
@@ -179,6 +205,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.505624999999995",
     "longitude": "-81.60472899999999",
+    "info": "",
     "category": "Health"
   },
   {
@@ -186,6 +213,7 @@
     "address": "2109 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.505006",
     "longitude": "-81.604407",
+    "info": "",
     "category": "Research"
   },
   {
@@ -193,6 +221,7 @@
     "address": "11901 Carlton Road Cleveland, OH 44106",
     "latitude": "41.50111",
     "longitude": "-81.60119",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -200,6 +229,7 @@
     "address": "11892 Carlton Road Cleveland, OH 44106",
     "latitude": "41.5002572",
     "longitude": "-81.6017622",
+    "info": "",
     "category": "Food"
   },
   {
@@ -207,6 +237,7 @@
     "address": "11920 Carlton Road Cleveland, OH 44106",
     "latitude": "41.501169999999995",
     "longitude": "-81.5998",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -214,6 +245,7 @@
     "address": "2121 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.50404166666701",
     "longitude": "-81.6096",
+    "info": "",
     "category": "Services"
   },
   {
@@ -221,6 +253,7 @@
     "address": "10620 Cedar Avenue Cleveland, OH 44106",
     "latitude": "41.498509999999996",
     "longitude": "-81.61247",
+    "info": "",
     "category": "Services"
   },
   {
@@ -228,6 +261,7 @@
     "address": "11205 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.508333",
     "longitude": "-81.607079",
+    "info": "",
     "category": ""
   },
   {
@@ -235,6 +269,7 @@
     "address": "1596 East 115 Street Cleveland, OH 44106",
     "latitude": "41.514500000000005",
     "longitude": "-81.6055",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -242,6 +277,7 @@
     "address": "11030 East Boulevard Cleveland, OH 44106",
     "latitude": "41.510988",
     "longitude": "-81.609524",
+    "info": "",
     "category": ""
   },
   {
@@ -249,6 +285,7 @@
     "address": "1819 East 101 Street Cleveland, OH 44106",
     "latitude": "41.509167999999995",
     "longitude": "-81.617633",
+    "info": "",
     "category": ""
   },
   {
@@ -256,6 +293,7 @@
     "address": "11635 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.511742",
     "longitude": "-81.60208999999999",
+    "info": "",
     "category": ""
   },
   {
@@ -263,6 +301,7 @@
     "address": "11141 East Boulevard Cleveland, OH 44106",
     "latitude": "41.509",
     "longitude": "-81.6097",
+    "info": "",
     "category": ""
   },
   {
@@ -270,6 +309,7 @@
     "address": "11021 East Boulevard Cleveland, OH 44106",
     "latitude": "41.5123",
     "longitude": "-81.6087",
+    "info": "",
     "category": ""
   },
   {
@@ -277,6 +317,7 @@
     "address": "11150 East Boulevard Cleveland, OH 44106",
     "latitude": "41.508849999999995",
     "longitude": "-81.61200000000001",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -284,6 +325,7 @@
     "address": "1 Wade Oval Drive Cleveland, OH 44106",
     "latitude": "41.51157",
     "longitude": "-81.6134",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -291,6 +333,7 @@
     "address": "8500 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.503",
     "longitude": "-81.62786",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -298,6 +341,7 @@
     "address": "11300 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51152",
     "longitude": "-81.607175",
+    "info": "",
     "category": ""
   },
   {
@@ -305,6 +349,7 @@
     "address": "11300 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51152",
     "longitude": "-81.607175",
+    "info": "",
     "category": "Food"
   },
   {
@@ -312,6 +357,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.50781",
     "longitude": "-81.60504",
+    "info": "",
     "category": "Health"
   },
   {
@@ -319,6 +365,7 @@
     "address": "Juniper Drive 11310  (rear) Cleveland, OH 44106",
     "latitude": "41.511469999999996",
     "longitude": "-81.60672",
+    "info": "",
     "category": ""
   },
   {
@@ -326,6 +373,7 @@
     "address": "2021 Cornell Road Cleveland, OH 44106",
     "latitude": "41.507818",
     "longitude": "-81.60540499999999",
+    "info": "",
     "category": ""
   },
   {
@@ -333,6 +381,7 @@
     "address": "1616 East 115 Street Cleveland, OH 44106",
     "latitude": "41.51424",
     "longitude": "-81.6053",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -340,6 +389,7 @@
     "address": "11301 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.512319999999995",
     "longitude": "-81.60795",
+    "info": "",
     "category": ""
   },
   {
@@ -347,6 +397,7 @@
     "address": "Carlton Road 11915/11913  Cleveland, OH 44106",
     "latitude": "41.5015",
     "longitude": "-81.60095",
+    "info": "",
     "category": ""
   },
   {
@@ -354,6 +405,7 @@
     "address": "1650 East 115 Street Cleveland, OH 44106",
     "latitude": "41.513059999999996",
     "longitude": "-81.60510000000001",
+    "info": "",
     "category": ""
   },
   {
@@ -361,6 +413,7 @@
     "address": "9601 Chester Avenue Cleveland, OH 44106",
     "latitude": "41.505803",
     "longitude": "-81.62033699999999",
+    "info": "",
     "category": "Health"
   },
   {
@@ -368,6 +421,7 @@
     "address": "2124 Cornell Road Cleveland, OH 44106",
     "latitude": "41.505359999999996",
     "longitude": "-81.603173",
+    "info": "",
     "category": ""
   },
   {
@@ -375,6 +429,7 @@
     "address": "11377 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.511979",
     "longitude": "-81.60600099999999",
+    "info": "",
     "category": ""
   },
   {
@@ -382,6 +437,7 @@
     "address": "2095 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.502559999999995",
     "longitude": "-81.6079",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -389,6 +445,7 @@
     "address": "2070 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.50402",
     "longitude": "-81.60781999999999",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -396,6 +453,7 @@
     "address": "2138 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.501394",
     "longitude": "-81.60549",
+    "info": "",
     "category": "Phys"
   },
   {
@@ -403,6 +461,7 @@
     "address": "12200 Fairhill Road Cleveland, OH 44120",
     "latitude": "41.492141",
     "longitude": "-81.59761",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -410,6 +469,7 @@
     "address": "2061 Cornell Road Cleveland, OH 44106",
     "latitude": "41.507191",
     "longitude": "-81.604106",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -417,6 +477,7 @@
     "address": "2315 Murray Hill Road Cleveland, OH 44106",
     "latitude": "41.50111",
     "longitude": "-81.60267999999999",
+    "info": "",
     "category": "Food"
   },
   {
@@ -424,6 +485,7 @@
     "address": "11303 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.508579",
     "longitude": "-81.60634999999999",
+    "info": "",
     "category": "Services"
   },
   {
@@ -431,6 +493,7 @@
     "address": "11001 Cedar Avenue Cleveland, OH 44106",
     "latitude": "41.500105",
     "longitude": "-81.60857999999999",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -438,6 +501,7 @@
     "address": "11900 Carlton Road Cleveland, OH 44106",
     "latitude": "41.5005826",
     "longitude": "-81.60048544",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -445,6 +509,7 @@
     "address": "2123 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.50157",
     "longitude": "-81.60719",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -452,6 +517,7 @@
     "address": "1901 Ford Drive Cleveland, OH 44106",
     "latitude": "41.511106",
     "longitude": "-81.60757699999999",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -459,6 +525,7 @@
     "address": "10000 Cedar Avenue Cleveland, OH null",
     "latitude": "41.499325",
     "longitude": "-81.61818799999999",
+    "info": "",
     "category": "Research"
   },
   {
@@ -466,6 +533,7 @@
     "address": "1 St Clair Ave NE  Cleveland, OH 44114",
     "latitude": "41.501776",
     "longitude": "-81.69473699999999",
+    "info": "",
     "category": "Research"
   },
   {
@@ -473,6 +541,7 @@
     "address": "11112 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.508545",
     "longitude": "-81.60815099999999",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -480,6 +549,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.50542",
     "longitude": "-81.60725",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -487,6 +557,7 @@
     "address": "11200 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.509339999999995",
     "longitude": "-81.60750999999999",
+    "info": "",
     "category": "Services"
   },
   {
@@ -494,6 +565,7 @@
     "address": "11118 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.50863",
     "longitude": "-81.60770000000001",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -501,6 +573,7 @@
     "address": "2145 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.503329",
     "longitude": "-81.604981",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -508,6 +581,7 @@
     "address": "11201 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.507861999999996",
     "longitude": "-81.60786",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -515,6 +589,7 @@
     "address": "11105 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.507173",
     "longitude": "-81.608307",
+    "info": "",
     "category": "Services"
   },
   {
@@ -522,6 +597,7 @@
     "address": "1626 East 115 Street Cleveland, OH 44106",
     "latitude": "41.51392",
     "longitude": "-81.60502",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -529,6 +605,7 @@
     "address": "2335 Murray Hill Road Cleveland, OH 44106",
     "latitude": "41.5009482",
     "longitude": "-81.6021323",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -536,6 +613,7 @@
     "address": "11055 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.507269444440006",
     "longitude": "-81.60950277777",
+    "info": "",
     "category": "Main"
   },
   {
@@ -543,6 +621,7 @@
     "address": "2100 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.503344",
     "longitude": "-81.60656",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -550,6 +629,7 @@
     "address": "11904 Carlton Road Cleveland, OH 44106",
     "latitude": "41.500864",
     "longitude": "-81.60002947",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -557,6 +637,7 @@
     "address": "1619 Mistletoe Drive Cleveland, OH 44106",
     "latitude": "41.51357",
     "longitude": "-81.60602",
+    "info": "",
     "category": "Food"
   },
   {
@@ -564,6 +645,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.505362999999996",
     "longitude": "-81.606166",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -571,6 +653,7 @@
     "address": "9620 Carnegie Avenue Cleveland, OH 44106",
     "latitude": "41.500775999999995",
     "longitude": "-81.61868199999999",
+    "info": "",
     "category": "Research"
   },
   {
@@ -578,6 +661,7 @@
     "address": "11310 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.511669999999995",
     "longitude": "-81.60690000000001",
+    "info": "",
     "category": "Services"
   },
   {
@@ -585,6 +669,7 @@
     "address": "11310 Juniper Road Cleveland, OH 44212",
     "latitude": "41.511899",
     "longitude": "-81.60677199999999",
+    "info": "",
     "category": "Services"
   },
   {
@@ -592,6 +677,7 @@
     "address": "1942 Martin Luther King Jr. Boulevard Cleveland, OH 44106",
     "latitude": "41.50119",
     "longitude": "-81.60754",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -599,6 +685,7 @@
     "address": "2049 Martin Luther King Boulevard Cleveland, OH 44106",
     "latitude": "41.50315",
     "longitude": "-81.609111",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -606,6 +693,7 @@
     "address": "11116 Magnolia Drive Cleveland, OH 44106",
     "latitude": "41.513852",
     "longitude": "-81.6076952",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -613,6 +701,7 @@
     "address": "2386 Murray Hill Cleveland, OH 44106",
     "latitude": "41.501743999999995",
     "longitude": "-81.602175",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -620,6 +709,7 @@
     "address": "11318 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.510421",
     "longitude": "-81.60624",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -627,6 +717,7 @@
     "address": "11201 Cedar Avenue Cleveland, OH 44106",
     "latitude": "41.5002532",
     "longitude": "-81.6060859",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -634,6 +725,7 @@
     "address": "10524 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.502261999999995",
     "longitude": "-81.61340799999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -641,6 +733,7 @@
     "address": "2060 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504568",
     "longitude": "-81.607556",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -648,6 +741,7 @@
     "address": "2035 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.505300999999996",
     "longitude": "-81.608188",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -655,6 +749,7 @@
     "address": "1819 East 101 Street Cleveland, OH 44106",
     "latitude": "41.510512999999996",
     "longitude": "-81.61856",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -662,6 +757,7 @@
     "address": "2074 University Hospitals Drive Cleveland, OH 44106",
     "latitude": "41.506029999999996",
     "longitude": "-81.60630599999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -669,6 +765,7 @@
     "address": "11380 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.50828",
     "longitude": "-81.60494899999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -676,6 +773,7 @@
     "address": "2060 Circle Drive Cleveland, OH 44106",
     "latitude": "41.508300000000006",
     "longitude": "-81.601789",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -683,6 +781,7 @@
     "address": "2041 Cornell Cleveland, OH 44106",
     "latitude": "41.5080631",
     "longitude": "-81.6049755",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -690,6 +789,7 @@
     "address": "2250 Circle Drive Cleveland, OH 44106",
     "latitude": "41.503949999999996",
     "longitude": "-81.604396",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -697,6 +797,7 @@
     "address": "11118 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.508919999999996",
     "longitude": "-81.6071963",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -704,6 +805,7 @@
     "address": "11021 East Boulevard Cleveland, OH 44106",
     "latitude": "41.512932",
     "longitude": "-81.6079849",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -711,6 +813,7 @@
     "address": "2036 Murray Hill Road Cleveland, OH 44106",
     "latitude": "41.501239999999996",
     "longitude": "-81.603546",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -718,6 +821,7 @@
     "address": "2210 Adelbert Road, Arey Road Cleveland, OH 44106",
     "latitude": "41.502168999999995",
     "longitude": "-81.603455",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -725,6 +829,7 @@
     "address": "11000 Cedar Avenue Cleveland, OH 44106",
     "latitude": "41.49873446",
     "longitude": "-81.607883",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -732,6 +837,7 @@
     "address": "11000 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.505812",
     "longitude": "-81.60825299999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -739,6 +845,7 @@
     "address": "Bellflower Road Cleveland, OH 44106",
     "latitude": "41.511666",
     "longitude": "-81.6057372",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -746,6 +853,7 @@
     "address": "11235 Bellflower Cleveland, OH 44106",
     "latitude": "41.510888",
     "longitude": "-81.606832",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -753,6 +861,7 @@
     "address": "1596 East 115 Street Cleveland, OH 44106",
     "latitude": "41.514615",
     "longitude": "-81.605288",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -760,6 +869,7 @@
     "address": "11301 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.512035999999995",
     "longitude": "-81.60782999999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -767,6 +877,7 @@
     "address": "East 115 Street Cleveland, OH 44106",
     "latitude": "41.514365999999995",
     "longitude": "-81.606622",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -774,6 +885,7 @@
     "address": "11900 Carlton Road Cleveland, OH 44106",
     "latitude": "41.500856",
     "longitude": "-81.59976",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -781,6 +893,7 @@
     "address": "10900 Magnolia Drive Cleveland, OH 44106",
     "latitude": "41.5149844",
     "longitude": "-81.6106242",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -788,6 +901,7 @@
     "address": "10838 Deering Cleveland, OH 44106",
     "latitude": "41.5026517",
     "longitude": "-81.6103774",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -795,6 +909,7 @@
     "address": "10600 Frank Avenue Cleveland, OH 44106",
     "latitude": "41.497448999999996",
     "longitude": "-81.613784",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -802,6 +917,7 @@
     "address": "Cedar Avenue10620 Cleveland, OH 44106",
     "latitude": "41.4990278",
     "longitude": "-81.612995",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -809,6 +925,7 @@
     "address": "1725 East 115th Street Cleveland, OH 44106",
     "latitude": "41.5112",
     "longitude": "-81.60370999999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -816,6 +933,7 @@
     "address": "12511 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.517289999999996",
     "longitude": "-81.596752",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -823,6 +941,7 @@
     "address": "11455 Mayfield Cleveland, OH 44106",
     "latitude": "41.508852",
     "longitude": "-81.603539",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -830,6 +949,7 @@
     "address": "1890 East 101 Cleveland, OH 44106",
     "latitude": "41.506341",
     "longitude": "-81.617164",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -837,6 +957,7 @@
     "address": "11327 Bellflower Cleveland, OH 44106",
     "latitude": "41.511058",
     "longitude": "-81.606276",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -844,6 +965,7 @@
     "address": "11414 Fairchild Cleveland, OH 44106",
     "latitude": "41.500751",
     "longitude": "-81.604236",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -851,6 +973,7 @@
     "address": "93 East Cleveland, OH 44106",
     "latitude": "41.506645",
     "longitude": "-81.621184",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -858,6 +981,7 @@
     "address": "Ford Drive Cleveland, OH 44106",
     "latitude": "41.509377",
     "longitude": "-81.60537243",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -865,6 +989,7 @@
     "address": "10900 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.5049055",
     "longitude": "-81.6095352",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -872,6 +997,7 @@
     "address": "1 Mount Sinai Drive Cleveland, OH 44106",
     "latitude": "41.510481",
     "longitude": "-81.61729199999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -879,6 +1005,7 @@
     "address": "11001 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.50689",
     "longitude": "-81.60961999999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -886,6 +1013,7 @@
     "address": "2033 Cornell Road Cleveland, OH 44106",
     "latitude": "41.5079225",
     "longitude": "-81.6043639",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -893,6 +1021,7 @@
     "address": "1630 East 118 Street Cleveland, OH 44106",
     "latitude": "41.513321",
     "longitude": "-81.6026956",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -900,6 +1029,7 @@
     "address": "11235 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.510839",
     "longitude": "-81.6068745",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -907,6 +1037,7 @@
     "address": "2158 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.502185999999995",
     "longitude": "-81.6048521",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -914,6 +1045,7 @@
     "address": "2242 Circle Drive Cleveland, OH 44106",
     "latitude": "41.504273999999995",
     "longitude": "-81.603551",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -921,6 +1053,7 @@
     "address": "2200 Circle Drive Cleveland, OH 44106",
     "latitude": "41.507937",
     "longitude": "-81.602111",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -928,6 +1061,7 @@
     "address": "11487 Mayfield Road Cleveland, OH 44106",
     "latitude": "41.509674",
     "longitude": "-81.602679",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -935,6 +1069,7 @@
     "address": "2105 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504261",
     "longitude": "-81.60563499999999",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -942,6 +1077,7 @@
     "address": "1855 Ansel Road Cleveland, OH 44106",
     "latitude": "41.508063",
     "longitude": "-81.615715",
+    "info": "",
     "category": "Services"
   },
   {
@@ -949,6 +1085,7 @@
     "address": "11235 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.510433",
     "longitude": "-81.607218",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -956,6 +1093,7 @@
     "address": "11402 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.511",
     "longitude": "-81.60560000000001",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -963,6 +1101,7 @@
     "address": "2120 Cornell Road Cleveland, OH 44106",
     "latitude": "41.50542",
     "longitude": "-81.6039187",
+    "info": "",
     "category": "Research"
   },
   {
@@ -970,6 +1109,7 @@
     "address": "11040 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.50823",
     "longitude": "-81.60815",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -977,6 +1117,7 @@
     "address": "11220 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.509557",
     "longitude": "-81.607078",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -984,6 +1125,7 @@
     "address": "1644 Mistletoe Drive Cleveland, OH 44106",
     "latitude": "41.514703",
     "longitude": "-81.606692",
+    "info": "",
     "category": "Phys"
   },
   {
@@ -991,6 +1133,7 @@
     "address": "4229 Pearl Road Cleveland, OH 44109",
     "latitude": "41.439662",
     "longitude": "-81.704942",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -998,6 +1141,7 @@
     "address": "11896 Carlton Road Cleveland, OH 44106",
     "latitude": "41.5004058",
     "longitude": "-81.60101116",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1005,6 +1149,7 @@
     "address": "2090 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.504000000000005",
     "longitude": "-81.607",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -1012,6 +1157,7 @@
     "address": "11400 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.508842",
     "longitude": "-81.604911",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -1019,6 +1165,7 @@
     "address": "1639 East 115 Street Cleveland, OH 44106",
     "latitude": "41.514747",
     "longitude": "-81.604467",
+    "info": "",
     "category": "Phys"
   },
   {
@@ -1026,6 +1173,7 @@
     "address": "11443 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.5131",
     "longitude": "-81.6057",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1033,6 +1181,7 @@
     "address": "2120 Cornell Road Cleveland, OH 44106",
     "latitude": "41.50542",
     "longitude": "-81.6039187",
+    "info": "",
     "category": "Research"
   },
   {
@@ -1040,6 +1189,7 @@
     "address": "2101 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.50224",
     "longitude": "-81.60777999999999",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -1047,6 +1197,7 @@
     "address": "3609 Park East Drive Beachwood, OH 44122",
     "latitude": "41.461853",
     "longitude": "-81.492559",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1054,6 +1205,7 @@
     "address": "2085 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.505",
     "longitude": "-81.60600000000001",
+    "info": "",
     "category": "Research"
   },
   {
@@ -1061,6 +1213,7 @@
     "address": "11119 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.50983",
     "longitude": "-81.6079",
+    "info": "",
     "category": "Business"
   },
   {
@@ -1068,6 +1221,7 @@
     "address": "11317 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.5109",
     "longitude": "-81.6066",
+    "info": "",
     "category": "Greek"
   },
   {
@@ -1075,6 +1229,7 @@
     "address": "11016 Magnolia Drive Cleveland, OH 44106",
     "latitude": "41.514211111111",
     "longitude": "-81.61",
+    "info": "",
     "category": "Greek"
   },
   {
@@ -1082,6 +1237,7 @@
     "address": "1636 East 115 Street Cleveland, OH 44106",
     "latitude": "41.51387",
     "longitude": "-81.60544999999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1089,6 +1245,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.504394999999995",
     "longitude": "-81.60584399999999",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1096,6 +1253,7 @@
     "address": "11447 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.512589999999996",
     "longitude": "-81.60524",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1103,6 +1261,7 @@
     "address": "2076 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.50364",
     "longitude": "-81.60784",
+    "info": "",
     "category": "CAS"
   },
   {
@@ -1110,6 +1269,7 @@
     "address": "9501 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.505469999999995",
     "longitude": "-81.619743",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1117,6 +1277,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.506729",
     "longitude": "-81.605115",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1124,6 +1285,7 @@
     "address": "2083 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.502733333333005",
     "longitude": "-81.608183333333",
+    "info": "",
     "category": "Services"
   },
   {
@@ -1131,6 +1293,7 @@
     "address": "11001 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.506319999999995",
     "longitude": "-81.60934999999999",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -1138,6 +1301,7 @@
     "address": "11439 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51273",
     "longitude": "-81.60578",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1145,6 +1309,7 @@
     "address": "11311 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51227",
     "longitude": "-81.60743",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1152,6 +1317,7 @@
     "address": "2365 Murray Hill Road Cleveland, OH 44106",
     "latitude": "41.500023999999996",
     "longitude": "-81.6027573",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1159,6 +1325,7 @@
     "address": "1576 East 115 Street Cleveland, OH 44106",
     "latitude": "41.515178999999996",
     "longitude": "-81.60491999999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1166,6 +1333,7 @@
     "address": "11321 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51274",
     "longitude": "-81.60767",
+    "info": "",
     "category": "Services"
   },
   {
@@ -1173,6 +1341,7 @@
     "address": "1615 Mistletoe Drive Cleveland, OH 44106",
     "latitude": "41.51415",
     "longitude": "-81.60601",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1180,6 +1349,7 @@
     "address": "2125 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.5032985",
     "longitude": "-81.6074699",
+    "info": "",
     "category": "Main"
   },
   {
@@ -1187,6 +1357,7 @@
     "address": "11341 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.512522",
     "longitude": "-81.607046",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1194,6 +1365,7 @@
     "address": "11331 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.512969999999996",
     "longitude": "-81.6072",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1201,6 +1373,7 @@
     "address": "East 101 Street Cleveland, OH 44106",
     "latitude": "41.507137",
     "longitude": "-81.61684199999999",
+    "info": "",
     "category": "Parking"
   },
   {
@@ -1208,6 +1381,7 @@
     "address": "1728 East 116 Street 1720 - Cleveland, OH 44106",
     "latitude": "41.5116",
     "longitude": "-81.60354799999999",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1215,6 +1389,7 @@
     "address": "2355 Murray Hill Road Cleveland, OH 44106",
     "latitude": "41.5005886",
     "longitude": "-81.6029182",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1222,6 +1397,7 @@
     "address": "11412 Euclid Cleveland, OH 44106",
     "latitude": "41.509298",
     "longitude": "-81.604199",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -1229,6 +1405,7 @@
     "address": "11457 Mayfield Road Cleveland, OH 44106",
     "latitude": "41.508959",
     "longitude": "-81.603527",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1236,6 +1413,7 @@
     "address": "11477 Mayfield Road Cleveland, OH 44106",
     "latitude": "41.509493",
     "longitude": "-81.603479",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1243,6 +1421,7 @@
     "address": "10660 Carnegie Avenue Cleveland, OH 44106",
     "latitude": "41.500616",
     "longitude": "-81.612825",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1250,6 +1429,7 @@
     "address": "11435 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51275",
     "longitude": "-81.60614",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1257,6 +1437,7 @@
     "address": "1990 Ford Drive Cleveland, OH 44106",
     "latitude": "41.508793999999995",
     "longitude": "-81.605764",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1264,6 +1445,7 @@
     "address": "1919 East 107 Street Cleveland, OH 44106",
     "latitude": "41.505913",
     "longitude": "-81.612595",
+    "info": "",
     "category": "Services"
   },
   {
@@ -1271,6 +1453,7 @@
     "address": "11460 Euclid Avenue11440-11500 / Uptown Avenue Cleveland, OH 44106",
     "latitude": "41.510072",
     "longitude": "-81.603377",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1278,6 +1461,7 @@
     "address": "11435-11473 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.510382",
     "longitude": "-81.603977",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1285,6 +1469,7 @@
     "address": "1701 East Boulevard Cleveland, OH 44106",
     "latitude": "41.513458",
     "longitude": "-81.614369",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1292,6 +1477,7 @@
     "address": "1551 East 105 Street Cleveland, OH 44106",
     "latitude": "41.515507",
     "longitude": "-81.61511999999999",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1299,6 +1485,7 @@
     "address": "null Cleveland , OH 44106",
     "latitude": "41.501827999999996",
     "longitude": "-81.606166",
+    "info": "",
     "category": "Phys"
   },
   {
@@ -1306,6 +1493,7 @@
     "address": "1672 East 117 Street Cleveland, OH 44106",
     "latitude": "41.5125261",
     "longitude": "-81.6031945",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1313,6 +1501,7 @@
     "address": "1697 East 116 Street Cleveland, OH 44106",
     "latitude": "41.512084",
     "longitude": "-81.6032749",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1320,6 +1509,7 @@
     "address": "1681 East 116 Street Cleveland, OH 44106",
     "latitude": "41.512357",
     "longitude": "-81.60372",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1327,6 +1517,7 @@
     "address": "1677 East 115 Street Cleveland, OH 44106",
     "latitude": "41.5125421",
     "longitude": "-81.60418689",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1334,6 +1525,7 @@
     "address": "1665 East 115 Street Cleveland, OH 44106",
     "latitude": "41.512859999999996",
     "longitude": "-81.6044337",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1341,6 +1533,7 @@
     "address": "1641 East 115 Street Cleveland, OH 44106",
     "latitude": "41.5134781",
     "longitude": "-81.60444975",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1348,6 +1541,7 @@
     "address": "1623 East 115 Street Cleveland, OH 44106",
     "latitude": "41.5140565",
     "longitude": "-81.604455",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1355,6 +1549,7 @@
     "address": "1611 East 115 Street Cleveland, OH 44106",
     "latitude": "41.514441999999995",
     "longitude": "-81.60412252",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1362,6 +1557,7 @@
     "address": "10524 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.503062",
     "longitude": "-81.613962",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1369,6 +1565,7 @@
     "address": "11451 Juniper Drive Cleveland, OH 44106",
     "latitude": "41.51304",
     "longitude": "-81.60525",
+    "info": "",
     "category": "Services"
   },
   {
@@ -1376,6 +1573,7 @@
     "address": "1975 Taylor Road Cleveland, OH 44112",
     "latitude": "41.536100999999995",
     "longitude": "-81.56839",
+    "info": "",
     "category": "Research"
   },
   {
@@ -1383,6 +1581,7 @@
     "address": "11100 Euclid Avenue Cleveland, OH 44106",
     "latitude": "41.505817",
     "longitude": "-81.605721",
+    "info": "",
     "category": "Medical"
   },
   {
@@ -1390,6 +1589,7 @@
     "address": "10825 East Boulevard Cleveland, OH 44106",
     "latitude": "41.51339",
     "longitude": "-81.61071",
+    "info": "",
     "category": "Fun"
   },
   {
@@ -1397,6 +1597,7 @@
     "address": "2111 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.50197",
     "longitude": "-81.60746",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -1404,6 +1605,7 @@
     "address": "2071 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.503086111111",
     "longitude": "-81.608452777778",
+    "info": "",
     "category": "CSE"
   },
   {
@@ -1411,6 +1613,7 @@
     "address": "11318 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.51066",
     "longitude": "-81.60593999999999",
+    "info": "",
     "category": "Services"
   },
   {
@@ -1418,6 +1621,7 @@
     "address": "2103 Cornell Road Cleveland, OH 44106",
     "latitude": "41.506403999999996",
     "longitude": "-81.603168",
+    "info": "",
     "category": "Research"
   },
   {
@@ -1425,6 +1629,7 @@
     "address": "2109 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.5042305634194",
     "longitude": "-81.60465359687801",
+    "info": "",
     "category": "Research"
   },
   {
@@ -1432,6 +1637,7 @@
     "address": "2123 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.50406986525601",
     "longitude": "-81.605007648468",
+    "info": "",
     "category": "Research"
   },
   {
@@ -1439,6 +1645,7 @@
     "address": "37125 Fairmount Boulevard Hunting Valley, OH 44022",
     "latitude": "41.492501",
     "longitude": "-81.422805",
+    "info": "",
     "category": ""
   },
   {
@@ -1446,6 +1653,7 @@
     "address": "1677 East 115 Street Cleveland, OH 44106",
     "latitude": "41.5125421",
     "longitude": "-81.60418689",
+    "info": "",
     "category": "Housing"
   },
   {
@@ -1453,6 +1661,7 @@
     "address": "1610 East 118 Street Cleveland, OH 44106",
     "latitude": "41.514345",
     "longitude": "-81.60341199999999",
+    "info": "",
     "category": "Phys"
   },
   {
@@ -1460,6 +1669,7 @@
     "address": "2049 Martin Luther King Jr. Drive Cleveland, OH 44106",
     "latitude": "41.503569444444004",
     "longitude": "-81.60897777777801",
+    "info": "",
     "category": "Services"
   }
 ]
