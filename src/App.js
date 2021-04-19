@@ -4,6 +4,7 @@ import ButtonModal from "./components/ButtonModal";
 import Accordion from "./components/Accordion";
 import * as ButtonTitle from "./util/ButtonTitles.js";
 import { PinData } from "./util/SampleMapPinData.js";
+import Map from "./components/Map.js";
 
 function App() {
   // #TODO: Assign into local storage to prevent refire
@@ -14,8 +15,9 @@ function App() {
   const [showGuestSeekingModal, setShowGuestSeekingModal] = useState(false);
   const [showAccordion, setShowAccordion] = useState(true);
   const [locations, setLocations] = useState(PinData);
+  const [loc, setLoc] = useState("CSE");
 
-  
+
   useEffect(() => {
     // eslint-disable-next-line default-case
     switch (modalSelection) {
@@ -28,15 +30,15 @@ function App() {
       case ButtonTitle.CurrentStudentWelcome:
         setShowStudentSeekingModal(false);
         break;
-      case "":
+      case "Welcome":
         setShowWelcomeModal(false);
         break;
       default:
-        // Eventually we want default to go to the map
-        setShowWelcomeModal(false);
+        setLoc(modalSelection);
+        break;
     }
   }, [modalSelection]);
-  
+
 
   const modalActive =
     showWelcomeModal ||
@@ -46,6 +48,7 @@ function App() {
 
   return (
     <div className={"App"}>
+      <Map loc={loc} setLoc={setLoc} />
       <div className={modalActive ? "dim-background" : ""} />
       {showWelcomeModal && (
         <ButtonModal

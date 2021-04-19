@@ -1,0 +1,1465 @@
+[
+  {
+    "name": "1-2-1 Fitness Center",
+    "address": "2130 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.5030233",
+    "longitude": "-81.60552799999999",
+    "category": "Phys"
+  },
+  {
+    "name": "Tinkham Veale University Center",
+    "address": "11038 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.508027999999996",
+    "longitude": "-81.608667",
+    "category": "Main"
+  },
+  {
+    "name": "A.W. Smith",
+    "address": "2102 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.50296",
+    "longitude": "-81.60686",
+    "category": "CSE"
+  },
+  {
+    "name": "Crawford Hall",
+    "address": "10900 Euclid Ave Cleveland, OH 44106",
+    "latitude": "41.504598",
+    "longitude": "-81.6098",
+    "category": "Services"
+  },
+  {
+    "name": "Adelbert Gym",
+    "address": "2128 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.5031",
+    "longitude": "-81.60592",
+    "category": "Phys"
+  },
+  {
+    "name": "Adelbert Hall",
+    "address": "2040 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504813888889004",
+    "longitude": "-81.608216666667",
+    "category": "Services"
+  },
+  {
+    "name": "Agnar Pytte Science Center - Clapp Hall",
+    "address": "2080 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504011",
+    "longitude": "-81.60690799999999",
+    "category": "CAS"
+  },
+  {
+    "name": "Agnar Pytte Science Center - DeGrace Hall",
+    "address": "2080 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504183",
+    "longitude": "-81.607106",
+    "category": "CAS"
+  },
+  {
+    "name": "Agnar Pytte Science Center - Millis Hall",
+    "address": "2074 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504166",
+    "longitude": "-81.607494",
+    "category": "CAS"
+  },
+  {
+    "name": "Allen Memorial Medical Library",
+    "address": "11000 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.50597",
+    "longitude": "-81.60844",
+    "category": "CAS"
+  },
+  {
+    "name": "Alumni House",
+    "address": "2345 Murray Hill Road Cleveland, OH 44106",
+    "latitude": "41.500582",
+    "longitude": "-81.60242199999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Amasa Stone Chapel",
+    "address": "10940 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.50492",
+    "longitude": "-81.60906",
+    "category": ""
+  },
+  {
+    "name": "Apartment - 1720-28 East 116th The Noble",
+    "address": "1728 East 116 Street 1720 - Cleveland, OH 44106",
+    "latitude": "41.5116",
+    "longitude": "-81.60354799999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Apartment - East 116th 1719 ",
+    "address": "1719 East 116 Street Cleveland, OH 44106",
+    "latitude": "41.510551",
+    "longitude": "-81.60354799999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Apartment - East 116th 1727",
+    "address": "1727 East 116 Street Cleveland, OH 44106",
+    "latitude": "41.5116",
+    "longitude": "-81.60315",
+    "category": "Housing"
+  },
+  {
+    "name": "Apartment - East 117th 1680",
+    "address": "1680 East 117 Street Cleveland, OH 44106",
+    "latitude": "41.5118",
+    "longitude": "-81.6029",
+    "category": "Housing"
+  },
+  {
+    "name": "Apartment - Twin Gables",
+    "address": "1715 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.511506",
+    "longitude": "-81.60417699999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Art Studio",
+    "address": "2215 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.501881999999995",
+    "longitude": "-81.60307399999999",
+    "category": "CAS"
+  },
+  {
+    "name": "Thwing Center - Thwing Atrium",
+    "address": "11111 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.507356",
+    "longitude": "-81.60836599999999",
+    "category": "Main"
+  },
+  {
+    "name": "Clark Hall",
+    "address": "11130 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.50897",
+    "longitude": "-81.60749",
+    "category": "CAS"
+  },
+  {
+    "name": "Binary Walkway",
+    "address": "null Cleveland, OH 44106",
+    "latitude": "41.505680999999996",
+    "longitude": "-81.6090149",
+    "category": "Main"
+  },
+  {
+    "name": "Bingham",
+    "address": "2104 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.502500000000005",
+    "longitude": "-81.60694",
+    "category": "CAS"
+  },
+  {
+    "name": "Dental Research Building",
+    "address": "2124 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.505359999999996",
+    "longitude": "-81.603173",
+    "category": "Research"
+  },
+  {
+    "name": "Biomedical Research Building",
+    "address": "2109 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.505006",
+    "longitude": "-81.604407",
+    "category": "Research"
+  },
+  {
+    "name": "Bishop - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.505102",
+    "longitude": "-81.605791",
+    "category": "Health"
+  },
+  {
+    "name": "Bolwell - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.505624999999995",
+    "longitude": "-81.60472899999999",
+    "category": "Health"
+  },
+  {
+    "name": "Biomedical Research Building",
+    "address": "2109 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.505006",
+    "longitude": "-81.604407",
+    "category": "Research"
+  },
+  {
+    "name": "Carlton 11901 - Scholars House",
+    "address": "11901 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.50111",
+    "longitude": "-81.60119",
+    "category": "Housing"
+  },
+  {
+    "name": "Carlton Commons",
+    "address": "11892 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.5002572",
+    "longitude": "-81.6017622",
+    "category": "Food"
+  },
+  {
+    "name": "Carlton Road 11920 - Guest House",
+    "address": "11920 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.501169999999995",
+    "longitude": "-81.5998",
+    "category": "Housing"
+  },
+  {
+    "name": "Tomlinson Hall",
+    "address": "2121 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.50404166666701",
+    "longitude": "-81.6096",
+    "category": "Services"
+  },
+  {
+    "name": "Cedar Avenue Service Center",
+    "address": "10620 Cedar Avenue Cleveland, OH 44106",
+    "latitude": "41.498509999999996",
+    "longitude": "-81.61247",
+    "category": "Services"
+  },
+  {
+    "name": "Church of the Covenant",
+    "address": "11205 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.508333",
+    "longitude": "-81.607079",
+    "category": ""
+  },
+  {
+    "name": "Clarke Tower",
+    "address": "1596 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.514500000000005",
+    "longitude": "-81.6055",
+    "category": "Housing"
+  },
+  {
+    "name": "Cleveland Botanical Garden",
+    "address": "11030 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.510988",
+    "longitude": "-81.609524",
+    "category": ""
+  },
+  {
+    "name": "Cleveland Center for Membrane and Structural Biology",
+    "address": "1819 East 101 Street Cleveland, OH 44106",
+    "latitude": "41.509167999999995",
+    "longitude": "-81.617633",
+    "category": ""
+  },
+  {
+    "name": "Cleveland Hearing & Speech",
+    "address": "11635 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.511742",
+    "longitude": "-81.60208999999999",
+    "category": ""
+  },
+  {
+    "name": "Cleveland Institute of Art",
+    "address": "11141 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.509",
+    "longitude": "-81.6097",
+    "category": ""
+  },
+  {
+    "name": "Cleveland Institute of Music",
+    "address": "11021 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.5123",
+    "longitude": "-81.6087",
+    "category": ""
+  },
+  {
+    "name": "Cleveland Museum of Art",
+    "address": "11150 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.508849999999995",
+    "longitude": "-81.61200000000001",
+    "category": "Fun"
+  },
+  {
+    "name": "Cleveland Museum of Natural History",
+    "address": "1 Wade Oval Drive Cleveland, OH 44106",
+    "latitude": "41.51157",
+    "longitude": "-81.6134",
+    "category": "Fun"
+  },
+  {
+    "name": "Cleveland Play House",
+    "address": "8500 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.503",
+    "longitude": "-81.62786",
+    "category": "Fun"
+  },
+  {
+    "name": "Coffee House at University Circle",
+    "address": "11300 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51152",
+    "longitude": "-81.607175",
+    "category": ""
+  },
+  {
+    "name": "Coffee House at University Circle",
+    "address": "11300 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51152",
+    "longitude": "-81.607175",
+    "category": "Food"
+  },
+  {
+    "name": "Cornell Medical Building - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.50781",
+    "longitude": "-81.60504",
+    "category": "Health"
+  },
+  {
+    "name": "Cosmic Dave's Rock Club",
+    "address": "Juniper Drive 11310  (rear) Cleveland, OH 44106",
+    "latitude": "41.511469999999996",
+    "longitude": "-81.60672",
+    "category": ""
+  },
+  {
+    "name": "Courtyard Marriott University Circle",
+    "address": "2021 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.507818",
+    "longitude": "-81.60540499999999",
+    "category": ""
+  },
+  {
+    "name": "Cutler House",
+    "address": "1616 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.51424",
+    "longitude": "-81.6053",
+    "category": "Housing"
+  },
+  {
+    "name": "Cutter House",
+    "address": "11301 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.512319999999995",
+    "longitude": "-81.60795",
+    "category": ""
+  },
+  {
+    "name": "Carlton 11915/11913",
+    "address": "Carlton Road 11915/11913  Cleveland, OH 44106",
+    "latitude": "41.5015",
+    "longitude": "-81.60095",
+    "category": ""
+  },
+  {
+    "name": "Denison Hall",
+    "address": "1650 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.513059999999996",
+    "longitude": "-81.60510000000001",
+    "category": ""
+  },
+  {
+    "name": "Dental Clinic",
+    "address": "9601 Chester Avenue Cleveland, OH 44106",
+    "latitude": "41.505803",
+    "longitude": "-81.62033699999999",
+    "category": "Health"
+  },
+  {
+    "name": "Dental Research Building",
+    "address": "2124 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.505359999999996",
+    "longitude": "-81.603173",
+    "category": ""
+  },
+  {
+    "name": "Diner",
+    "address": "11377 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.511979",
+    "longitude": "-81.60600099999999",
+    "category": ""
+  },
+  {
+    "name": "Nord Hall",
+    "address": "2095 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.502559999999995",
+    "longitude": "-81.6079",
+    "category": "CSE"
+  },
+  {
+    "name": "Eldred Hall",
+    "address": "2070 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.50402",
+    "longitude": "-81.60781999999999",
+    "category": "CAS"
+  },
+  {
+    "name": "Veale Convocation, Recreation and Athletic Center",
+    "address": "2138 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.501394",
+    "longitude": "-81.60549",
+    "category": "Phys"
+  },
+  {
+    "name": "Fairhill Center for Aging - UH",
+    "address": "12200 Fairhill Road Cleveland, OH 44120",
+    "latitude": "41.492141",
+    "longitude": "-81.59761",
+    "category": "Medical"
+  },
+  {
+    "name": "Foley - UH",
+    "address": "2061 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.507191",
+    "longitude": "-81.604106",
+    "category": "Medical"
+  },
+  {
+    "name": "Fribley Commons",
+    "address": "2315 Murray Hill Road Cleveland, OH 44106",
+    "latitude": "41.50111",
+    "longitude": "-81.60267999999999",
+    "category": "Food"
+  },
+  {
+    "name": "Geller Hillel Building at CWRU, Albert & Norma",
+    "address": "11303 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.508579",
+    "longitude": "-81.60634999999999",
+    "category": "Services"
+  },
+  {
+    "name": "Gerber - UH",
+    "address": "11001 Cedar Avenue Cleveland, OH 44106",
+    "latitude": "41.500105",
+    "longitude": "-81.60857999999999",
+    "category": "Medical"
+  },
+  {
+    "name": "Glaser House",
+    "address": "11900 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.5005826",
+    "longitude": "-81.60048544",
+    "category": "Housing"
+  },
+  {
+    "name": "Glennan",
+    "address": "2123 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.50157",
+    "longitude": "-81.60719",
+    "category": "CSE"
+  },
+  {
+    "name": "Glidden House",
+    "address": "1901 Ford Drive Cleveland, OH 44106",
+    "latitude": "41.511106",
+    "longitude": "-81.60757699999999",
+    "category": "Fun"
+  },
+  {
+    "name": "Global Cardiovascular Innovation Center - CCF",
+    "address": "10000 Cedar Avenue Cleveland, OH null",
+    "latitude": "41.499325",
+    "longitude": "-81.61818799999999",
+    "category": "Research"
+  },
+  {
+    "name": "Global Center for Health Innovation",
+    "address": "1 St Clair Ave NE  Cleveland, OH 44114",
+    "latitude": "41.501776",
+    "longitude": "-81.69473699999999",
+    "category": "Research"
+  },
+  {
+    "name": "Guilford House",
+    "address": "11112 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.508545",
+    "longitude": "-81.60815099999999",
+    "category": "CAS"
+  },
+  {
+    "name": "Hanna Pavilion - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.50542",
+    "longitude": "-81.60725",
+    "category": "Medical"
+  },
+  {
+    "name": "Harkness Chapel",
+    "address": "11200 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.509339999999995",
+    "longitude": "-81.60750999999999",
+    "category": "Services"
+  },
+  {
+    "name": "Haydn Hall",
+    "address": "11118 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.50863",
+    "longitude": "-81.60770000000001",
+    "category": "CAS"
+  },
+  {
+    "name": "Health Services",
+    "address": "2145 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.503329",
+    "longitude": "-81.604981",
+    "category": "Medical"
+  },
+  {
+    "name": "Mather House",
+    "address": "11201 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.507861999999996",
+    "longitude": "-81.60786",
+    "category": "CAS"
+  },
+  {
+    "name": "Thwing Center - Hitchcock Hall",
+    "address": "11105 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.507173",
+    "longitude": "-81.608307",
+    "category": "Services"
+  },
+  {
+    "name": "Hitchcock House",
+    "address": "1626 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.51392",
+    "longitude": "-81.60502",
+    "category": "Housing"
+  },
+  {
+    "name": "Howe House",
+    "address": "2335 Murray Hill Road Cleveland, OH 44106",
+    "latitude": "41.5009482",
+    "longitude": "-81.6021323",
+    "category": "Housing"
+  },
+  {
+    "name": "Kelvin Smith Library",
+    "address": "11055 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.507269444440006",
+    "longitude": "-81.60950277777",
+    "category": "Main"
+  },
+  {
+    "name": "Kent Hale Smith",
+    "address": "2100 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.503344",
+    "longitude": "-81.60656",
+    "category": "CSE"
+  },
+  {
+    "name": "Kusch House",
+    "address": "11904 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.500864",
+    "longitude": "-81.60002947",
+    "category": "Housing"
+  },
+  {
+    "name": "Leutner Commons",
+    "address": "1619 Mistletoe Drive Cleveland, OH 44106",
+    "latitude": "41.51357",
+    "longitude": "-81.60602",
+    "category": "Food"
+  },
+  {
+    "name": "Lakeside Hospital - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.505362999999996",
+    "longitude": "-81.606166",
+    "category": "Medical"
+  },
+  {
+    "name": "Lerner Research Institute - CCF",
+    "address": "9620 Carnegie Avenue Cleveland, OH 44106",
+    "latitude": "41.500775999999995",
+    "longitude": "-81.61868199999999",
+    "category": "Research"
+  },
+  {
+    "name": "Linsalata Alumni Center - Alumni House",
+    "address": "11310 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.511669999999995",
+    "longitude": "-81.60690000000001",
+    "category": "Services"
+  },
+  {
+    "name": "Linsalata Alumni Center - Event Center",
+    "address": "11310 Juniper Road Cleveland, OH 44212",
+    "latitude": "41.511899",
+    "longitude": "-81.60677199999999",
+    "category": "Services"
+  },
+  {
+    "name": "Lot 01A",
+    "address": "1942 Martin Luther King Jr. Boulevard Cleveland, OH 44106",
+    "latitude": "41.50119",
+    "longitude": "-81.60754",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 01B",
+    "address": "2049 Martin Luther King Boulevard Cleveland, OH 44106",
+    "latitude": "41.50315",
+    "longitude": "-81.609111",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 04",
+    "address": "11116 Magnolia Drive Cleveland, OH 44106",
+    "latitude": "41.513852",
+    "longitude": "-81.6076952",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 05",
+    "address": "2386 Murray Hill Cleveland, OH 44106",
+    "latitude": "41.501743999999995",
+    "longitude": "-81.602175",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 06",
+    "address": "11318 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.510421",
+    "longitude": "-81.60624",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 07",
+    "address": "11201 Cedar Avenue Cleveland, OH 44106",
+    "latitude": "41.5002532",
+    "longitude": "-81.6060859",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 11",
+    "address": "10524 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.502261999999995",
+    "longitude": "-81.61340799999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 13",
+    "address": "2060 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504568",
+    "longitude": "-81.607556",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 13A",
+    "address": "2035 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.505300999999996",
+    "longitude": "-81.608188",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 14",
+    "address": "1819 East 101 Street Cleveland, OH 44106",
+    "latitude": "41.510512999999996",
+    "longitude": "-81.61856",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 19",
+    "address": "2074 University Hospitals Drive Cleveland, OH 44106",
+    "latitude": "41.506029999999996",
+    "longitude": "-81.60630599999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 22B",
+    "address": "11380 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.50828",
+    "longitude": "-81.60494899999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 23",
+    "address": "2060 Circle Drive Cleveland, OH 44106",
+    "latitude": "41.508300000000006",
+    "longitude": "-81.601789",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 24",
+    "address": "2041 Cornell Cleveland, OH 44106",
+    "latitude": "41.5080631",
+    "longitude": "-81.6049755",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 26",
+    "address": "2250 Circle Drive Cleveland, OH 44106",
+    "latitude": "41.503949999999996",
+    "longitude": "-81.604396",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 33",
+    "address": "11118 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.508919999999996",
+    "longitude": "-81.6071963",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 43B",
+    "address": "11021 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.512932",
+    "longitude": "-81.6079849",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 44",
+    "address": "2036 Murray Hill Road Cleveland, OH 44106",
+    "latitude": "41.501239999999996",
+    "longitude": "-81.603546",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 47",
+    "address": "2210 Adelbert Road, Arey Road Cleveland, OH 44106",
+    "latitude": "41.502168999999995",
+    "longitude": "-81.603455",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 48",
+    "address": "11000 Cedar Avenue Cleveland, OH 44106",
+    "latitude": "41.49873446",
+    "longitude": "-81.607883",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 51",
+    "address": "11000 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.505812",
+    "longitude": "-81.60825299999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 52A",
+    "address": "Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.511666",
+    "longitude": "-81.6057372",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 52B",
+    "address": "11235 Bellflower Cleveland, OH 44106",
+    "latitude": "41.510888",
+    "longitude": "-81.606832",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 56",
+    "address": "1596 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.514615",
+    "longitude": "-81.605288",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 56D",
+    "address": "11301 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.512035999999995",
+    "longitude": "-81.60782999999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 56E",
+    "address": "East 115 Street Cleveland, OH 44106",
+    "latitude": "41.514365999999995",
+    "longitude": "-81.606622",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 57",
+    "address": "11900 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.500856",
+    "longitude": "-81.59976",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 58A",
+    "address": "10900 Magnolia Drive Cleveland, OH 44106",
+    "latitude": "41.5149844",
+    "longitude": "-81.6106242",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 64",
+    "address": "10838 Deering Cleveland, OH 44106",
+    "latitude": "41.5026517",
+    "longitude": "-81.6103774",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 66",
+    "address": "10600 Frank Avenue Cleveland, OH 44106",
+    "latitude": "41.497448999999996",
+    "longitude": "-81.613784",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 66B",
+    "address": "Cedar Avenue10620 Cleveland, OH 44106",
+    "latitude": "41.4990278",
+    "longitude": "-81.612995",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 67",
+    "address": "1725 East 115th Street Cleveland, OH 44106",
+    "latitude": "41.5112",
+    "longitude": "-81.60370999999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 68",
+    "address": "12511 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.517289999999996",
+    "longitude": "-81.596752",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 75",
+    "address": "11455 Mayfield Cleveland, OH 44106",
+    "latitude": "41.508852",
+    "longitude": "-81.603539",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 77",
+    "address": "1890 East 101 Cleveland, OH 44106",
+    "latitude": "41.506341",
+    "longitude": "-81.617164",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 79",
+    "address": "11327 Bellflower Cleveland, OH 44106",
+    "latitude": "41.511058",
+    "longitude": "-81.606276",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 80",
+    "address": "11414 Fairchild Cleveland, OH 44106",
+    "latitude": "41.500751",
+    "longitude": "-81.604236",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot 86",
+    "address": "93 East Cleveland, OH 44106",
+    "latitude": "41.506645",
+    "longitude": "-81.621184",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot C-01",
+    "address": "Ford Drive Cleveland, OH 44106",
+    "latitude": "41.509377",
+    "longitude": "-81.60537243",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-10 - Crawford Garage",
+    "address": "10900 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.5049055",
+    "longitude": "-81.6095352",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-17 - West Campus Parking Garage",
+    "address": "1 Mount Sinai Drive Cleveland, OH 44106",
+    "latitude": "41.510481",
+    "longitude": "-81.61729199999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-29 - Campus Center Parking Garage",
+    "address": "11001 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.50689",
+    "longitude": "-81.60961999999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-34",
+    "address": "2033 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.5079225",
+    "longitude": "-81.6043639",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-46 - NRV Parking Garage",
+    "address": "1630 East 118 Street Cleveland, OH 44106",
+    "latitude": "41.513321",
+    "longitude": "-81.6026956",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-52B - MSASS Garage",
+    "address": "11235 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.510839",
+    "longitude": "-81.6068745",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-53 - Veale Parking Garage",
+    "address": "2158 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.502185999999995",
+    "longitude": "-81.6048521",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-55 - Health Sciences Garage",
+    "address": "2242 Circle Drive Cleveland, OH 44106",
+    "latitude": "41.504273999999995",
+    "longitude": "-81.603551",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-61",
+    "address": "2200 Circle Drive Cleveland, OH 44106",
+    "latitude": "41.507937",
+    "longitude": "-81.602111",
+    "category": "Parking"
+  },
+  {
+    "name": "Lot S-78 - Triangle Parking Garage",
+    "address": "11487 Mayfield Road Cleveland, OH 44106",
+    "latitude": "41.509674",
+    "longitude": "-81.602679",
+    "category": "Parking"
+  },
+  {
+    "name": "MacDonald Women's Hospital - UH",
+    "address": "2105 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504261",
+    "longitude": "-81.60563499999999",
+    "category": "Medical"
+  },
+  {
+    "name": "The Temple - Tifereth Israel",
+    "address": "1855 Ansel Road Cleveland, OH 44106",
+    "latitude": "41.508063",
+    "longitude": "-81.615715",
+    "category": "Services"
+  },
+  {
+    "name": "Mandel Building",
+    "address": "11235 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.510433",
+    "longitude": "-81.607218",
+    "category": "CAS"
+  },
+  {
+    "name": "Mandel Community Studies Center, Jack, Joseph and Morton ",
+    "address": "11402 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.511",
+    "longitude": "-81.60560000000001",
+    "category": "CAS"
+  },
+  {
+    "name": "Nursing Research Building",
+    "address": "2120 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.50542",
+    "longitude": "-81.6039187",
+    "category": "Research"
+  },
+  {
+    "name": "Mather Dance",
+    "address": "11040 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.50823",
+    "longitude": "-81.60815",
+    "category": "CAS"
+  },
+  {
+    "name": "Mather Memorial",
+    "address": "11220 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.509557",
+    "longitude": "-81.607078",
+    "category": "CAS"
+  },
+  {
+    "name": "Mather Park",
+    "address": "1644 Mistletoe Drive Cleveland, OH 44106",
+    "latitude": "41.514703",
+    "longitude": "-81.606692",
+    "category": "Phys"
+  },
+  {
+    "name": "MetroHealth - Old Brooklyn Health Center",
+    "address": "4229 Pearl Road Cleveland, OH 44109",
+    "latitude": "41.439662",
+    "longitude": "-81.704942",
+    "category": "Medical"
+  },
+  {
+    "name": "Michelson House",
+    "address": "11896 Carlton Road Cleveland, OH 44106",
+    "latitude": "41.5004058",
+    "longitude": "-81.60101116",
+    "category": "Housing"
+  },
+  {
+    "name": "Morley",
+    "address": "2090 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.504000000000005",
+    "longitude": "-81.607",
+    "category": "CAS"
+  },
+  {
+    "name": "Museum of Contemporary Art",
+    "address": "11400 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.508842",
+    "longitude": "-81.604911",
+    "category": "Fun"
+  },
+  {
+    "name": "Nobby's Ballpark",
+    "address": "1639 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.514747",
+    "longitude": "-81.604467",
+    "category": "Phys"
+  },
+  {
+    "name": "Norton House",
+    "address": "11443 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.5131",
+    "longitude": "-81.6057",
+    "category": "Housing"
+  },
+  {
+    "name": "Nursing Research Building",
+    "address": "2120 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.50542",
+    "longitude": "-81.6039187",
+    "category": "Research"
+  },
+  {
+    "name": "Olin",
+    "address": "2101 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.50224",
+    "longitude": "-81.60777999999999",
+    "category": "CSE"
+  },
+  {
+    "name": "Parkway Medical Center - UH",
+    "address": "3609 Park East Drive Beachwood, OH 44122",
+    "latitude": "41.461853",
+    "longitude": "-81.492559",
+    "category": "Medical"
+  },
+  {
+    "name": "Pathology",
+    "address": "2085 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.505",
+    "longitude": "-81.60600000000001",
+    "category": "Research"
+  },
+  {
+    "name": "Peter B. Lewis",
+    "address": "11119 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.50983",
+    "longitude": "-81.6079",
+    "category": "Business"
+  },
+  {
+    "name": "Phi Gamma Delta",
+    "address": "11317 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.5109",
+    "longitude": "-81.6066",
+    "category": "Greek"
+  },
+  {
+    "name": "Phi Kappa Theta",
+    "address": "11016 Magnolia Drive Cleveland, OH 44106",
+    "latitude": "41.514211111111",
+    "longitude": "-81.61",
+    "category": "Greek"
+  },
+  {
+    "name": "Pierce House",
+    "address": "1636 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.51387",
+    "longitude": "-81.60544999999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Rainbow Babies & Children's - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.504394999999995",
+    "longitude": "-81.60584399999999",
+    "category": "Medical"
+  },
+  {
+    "name": "Raymond House",
+    "address": "11447 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.512589999999996",
+    "longitude": "-81.60524",
+    "category": "Housing"
+  },
+  {
+    "name": "Rockefeller",
+    "address": "2076 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.50364",
+    "longitude": "-81.60784",
+    "category": "CAS"
+  },
+  {
+    "name": "Samson Pavilion",
+    "address": "9501 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.505469999999995",
+    "longitude": "-81.619743",
+    "category": "Medical"
+  },
+  {
+    "name": "Samuel Mather Pavilion - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.506729",
+    "longitude": "-81.605115",
+    "category": "Medical"
+  },
+  {
+    "name": "Sears Library Building",
+    "address": "2083 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.502733333333005",
+    "longitude": "-81.608183333333",
+    "category": "Services"
+  },
+  {
+    "name": "Severance Hall",
+    "address": "11001 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.506319999999995",
+    "longitude": "-81.60934999999999",
+    "category": "Fun"
+  },
+  {
+    "name": "Sherman House",
+    "address": "11439 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51273",
+    "longitude": "-81.60578",
+    "category": "Housing"
+  },
+  {
+    "name": "Smith House",
+    "address": "11311 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51227",
+    "longitude": "-81.60743",
+    "category": "Housing"
+  },
+  {
+    "name": "Staley House",
+    "address": "2365 Murray Hill Road Cleveland, OH 44106",
+    "latitude": "41.500023999999996",
+    "longitude": "-81.6027573",
+    "category": "Housing"
+  },
+  {
+    "name": "Stephanie Tubbs Jones Hall",
+    "address": "1576 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.515178999999996",
+    "longitude": "-81.60491999999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Stone Commons",
+    "address": "11321 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51274",
+    "longitude": "-81.60767",
+    "category": "Services"
+  },
+  {
+    "name": "Storrs House",
+    "address": "1615 Mistletoe Drive Cleveland, OH 44106",
+    "latitude": "41.51415",
+    "longitude": "-81.60601",
+    "category": "Housing"
+  },
+  {
+    "name": "Strosacker Auditorium",
+    "address": "2125 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.5032985",
+    "longitude": "-81.6074699",
+    "category": "Main"
+  },
+  {
+    "name": "Taft House",
+    "address": "11341 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.512522",
+    "longitude": "-81.607046",
+    "category": "Housing"
+  },
+  {
+    "name": "Taplin House",
+    "address": "11331 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.512969999999996",
+    "longitude": "-81.6072",
+    "category": "Housing"
+  },
+  {
+    "name": "Temple - Tifereth Auxiliary Parking Lot",
+    "address": "East 101 Street Cleveland, OH 44106",
+    "latitude": "41.507137",
+    "longitude": "-81.61684199999999",
+    "category": "Parking"
+  },
+  {
+    "name": "Apartment - 1720-28 East 116th The Noble",
+    "address": "1728 East 116 Street 1720 - Cleveland, OH 44106",
+    "latitude": "41.5116",
+    "longitude": "-81.60354799999999",
+    "category": "Housing"
+  },
+  {
+    "name": "Tippit House",
+    "address": "2355 Murray Hill Road Cleveland, OH 44106",
+    "latitude": "41.5005886",
+    "longitude": "-81.6029182",
+    "category": "Housing"
+  },
+  {
+    "name": "Toby Plaza",
+    "address": "11412 Euclid Cleveland, OH 44106",
+    "latitude": "41.509298",
+    "longitude": "-81.604199",
+    "category": "Fun"
+  },
+  {
+    "name": "Triangle Tower 1",
+    "address": "11457 Mayfield Road Cleveland, OH 44106",
+    "latitude": "41.508959",
+    "longitude": "-81.603527",
+    "category": "Housing"
+  },
+  {
+    "name": "Triangle Tower 2",
+    "address": "11477 Mayfield Road Cleveland, OH 44106",
+    "latitude": "41.509493",
+    "longitude": "-81.603479",
+    "category": "Housing"
+  },
+  {
+    "name": "Tudor Arms Double Tree Hilton",
+    "address": "10660 Carnegie Avenue Cleveland, OH 44106",
+    "latitude": "41.500616",
+    "longitude": "-81.612825",
+    "category": "Housing"
+  },
+  {
+    "name": "Tyler House",
+    "address": "11435 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51275",
+    "longitude": "-81.60614",
+    "category": "Housing"
+  },
+  {
+    "name": "University Circle Place Apartments",
+    "address": "1990 Ford Drive Cleveland, OH 44106",
+    "latitude": "41.508793999999995",
+    "longitude": "-81.605764",
+    "category": "Housing"
+  },
+  {
+    "name": "University Circle United Methodist Church",
+    "address": "1919 East 107 Street Cleveland, OH 44106",
+    "latitude": "41.505913",
+    "longitude": "-81.612595",
+    "category": "Services"
+  },
+  {
+    "name": "Uptown Building 1",
+    "address": "11460 Euclid Avenue11440-11500 / Uptown Avenue Cleveland, OH 44106",
+    "latitude": "41.510072",
+    "longitude": "-81.603377",
+    "category": "Housing"
+  },
+  {
+    "name": "Uptown Building 2",
+    "address": "11435-11473 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.510382",
+    "longitude": "-81.603977",
+    "category": "Housing"
+  },
+  {
+    "name": "VA - Louis Stokes Cleveland VA Medical Center",
+    "address": "1701 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.513458",
+    "longitude": "-81.614369",
+    "category": "Medical"
+  },
+  {
+    "name": "VA - Mt. Sinai Skills & Simulation Center",
+    "address": "1551 East 105 Street Cleveland, OH 44106",
+    "latitude": "41.515507",
+    "longitude": "-81.61511999999999",
+    "category": "Medical"
+  },
+  {
+    "name": "Van Horn Field",
+    "address": "null Cleveland , OH 44106",
+    "latitude": "41.501827999999996",
+    "longitude": "-81.606166",
+    "category": "Phys"
+  },
+  {
+    "name": "Village at 115 - House 1",
+    "address": "1672 East 117 Street Cleveland, OH 44106",
+    "latitude": "41.5125261",
+    "longitude": "-81.6031945",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 2",
+    "address": "1697 East 116 Street Cleveland, OH 44106",
+    "latitude": "41.512084",
+    "longitude": "-81.6032749",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 3",
+    "address": "1681 East 116 Street Cleveland, OH 44106",
+    "latitude": "41.512357",
+    "longitude": "-81.60372",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 3A",
+    "address": "1677 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.5125421",
+    "longitude": "-81.60418689",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 4",
+    "address": "1665 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.512859999999996",
+    "longitude": "-81.6044337",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 5",
+    "address": "1641 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.5134781",
+    "longitude": "-81.60444975",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 6",
+    "address": "1623 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.5140565",
+    "longitude": "-81.604455",
+    "category": "Housing"
+  },
+  {
+    "name": "Village at 115 - House 7",
+    "address": "1611 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.514441999999995",
+    "longitude": "-81.60412252",
+    "category": "Housing"
+  },
+  {
+    "name": "W. O. Walker - CCF/UH",
+    "address": "10524 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.503062",
+    "longitude": "-81.613962",
+    "category": "Medical"
+  },
+  {
+    "name": "Wade Commons",
+    "address": "11451 Juniper Drive Cleveland, OH 44106",
+    "latitude": "41.51304",
+    "longitude": "-81.60525",
+    "category": "Services"
+  },
+  {
+    "name": "Warner & Swasey Observatory",
+    "address": "1975 Taylor Road Cleveland, OH 44112",
+    "latitude": "41.536100999999995",
+    "longitude": "-81.56839",
+    "category": "Research"
+  },
+  {
+    "name": "Wearn - UH",
+    "address": "11100 Euclid Avenue Cleveland, OH 44106",
+    "latitude": "41.505817",
+    "longitude": "-81.605721",
+    "category": "Medical"
+  },
+  {
+    "name": "Western Reserve Historical Society",
+    "address": "10825 East Boulevard Cleveland, OH 44106",
+    "latitude": "41.51339",
+    "longitude": "-81.61071",
+    "category": "Fun"
+  },
+  {
+    "name": "White",
+    "address": "2111 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.50197",
+    "longitude": "-81.60746",
+    "category": "CSE"
+  },
+  {
+    "name": "Wickenden",
+    "address": "2071 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.503086111111",
+    "longitude": "-81.608452777778",
+    "category": "CSE"
+  },
+  {
+    "name": "Wolstein Hall",
+    "address": "11318 Bellflower Road Cleveland, OH 44106",
+    "latitude": "41.51066",
+    "longitude": "-81.60593999999999",
+    "category": "Services"
+  },
+  {
+    "name": "Wolstein Research Building",
+    "address": "2103 Cornell Road Cleveland, OH 44106",
+    "latitude": "41.506403999999996",
+    "longitude": "-81.603168",
+    "category": "Research"
+  },
+  {
+    "name": "Wood",
+    "address": "2109 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.5042305634194",
+    "longitude": "-81.60465359687801",
+    "category": "Research"
+  },
+  {
+    "name": "Wood Research Tower",
+    "address": "2123 Adelbert Road Cleveland, OH 44106",
+    "latitude": "41.50406986525601",
+    "longitude": "-81.605007648468",
+    "category": "Research"
+  },
+  {
+    "name": "Squire Valleevue Farm - Chicken House (Green Barn)",
+    "address": "37125 Fairmount Boulevard Hunting Valley, OH 44022",
+    "latitude": "41.492501",
+    "longitude": "-81.422805",
+    "category": ""
+  },
+  {
+    "name": "Village at 115 - House 3A",
+    "address": "1677 East 115 Street Cleveland, OH 44106",
+    "latitude": "41.5125421",
+    "longitude": "-81.60418689",
+    "category": "Housing"
+  },
+  {
+    "name": "Wyant Athletic and Wellness Center",
+    "address": "1610 East 118 Street Cleveland, OH 44106",
+    "latitude": "41.514345",
+    "longitude": "-81.60341199999999",
+    "category": "Phys"
+  },
+  {
+    "name": "Yost Hall",
+    "address": "2049 Martin Luther King Jr. Drive Cleveland, OH 44106",
+    "latitude": "41.503569444444004",
+    "longitude": "-81.60897777777801",
+    "category": "Services"
+  }
+]
