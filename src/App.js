@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./styles/App.scss";
 import ButtonModal from "./components/ButtonModal";
-import Accordion from "./components/Accordion";
 import * as ButtonTitle from "./util/ButtonTitles.js";
 import { PinData } from "./util/SampleMapPinData.js";
 import Map from "./components/Map.js";
@@ -16,7 +15,6 @@ function App() {
   const [showAccordion, setShowAccordion] = useState(true);
   const [locations, setLocations] = useState(PinData);
   const [loc, setLoc] = useState("CSE");
-
 
   useEffect(() => {
     // eslint-disable-next-line default-case
@@ -38,7 +36,6 @@ function App() {
         break;
     }
   }, [modalSelection]);
-
 
   const modalActive =
     showWelcomeModal ||
@@ -106,12 +103,6 @@ function App() {
           setModalSelection={setModalSelection}
         />
       )}
-
-      {showAccordion && (
-        <Accordion pins = {locations} />
-
-        )
-      }
     </div>
   );
 }

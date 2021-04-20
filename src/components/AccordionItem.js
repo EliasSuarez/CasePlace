@@ -1,11 +1,10 @@
 import React from "react";
 
-const AccordionItem = ({ mapPin, index, toggleCurrentPin }) => {
+const AccordionItem = ({ mapPin, toggleCurrentPin }) => {
   return (
     <div
       className={"mapPin" + (mapPin.open ? "open" : "")}
-      key={index}
-      onClick={() => toggleCurrentPin(index)}
+      onClick={() => toggleCurrentPin(mapPin.name)}
     >
       <div className="mapPin_name" style={{ fontWeight: "bold" }}>
         {mapPin.name}

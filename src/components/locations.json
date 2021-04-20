@@ -5,6 +5,7 @@
     "latitude": "41.5030233",
     "longitude": "-81.60552799999999",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -13,6 +14,7 @@
     "latitude": "41.508027999999996",
     "longitude": "-81.608667",
     "info": "",
+    "open": false,
     "category": "Main"
   },
   {
@@ -21,6 +23,7 @@
     "latitude": "41.50296",
     "longitude": "-81.60686",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -29,6 +32,7 @@
     "latitude": "41.504598",
     "longitude": "-81.6098",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -37,6 +41,7 @@
     "latitude": "41.5031",
     "longitude": "-81.60592",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -45,6 +50,7 @@
     "latitude": "41.504813888889004",
     "longitude": "-81.608216666667",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -53,6 +59,7 @@
     "latitude": "41.504011",
     "longitude": "-81.60690799999999",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -61,6 +68,7 @@
     "latitude": "41.504183",
     "longitude": "-81.607106",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -69,6 +77,7 @@
     "latitude": "41.504166",
     "longitude": "-81.607494",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -77,6 +86,7 @@
     "latitude": "41.50597",
     "longitude": "-81.60844",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -85,6 +95,7 @@
     "latitude": "41.500582",
     "longitude": "-81.60242199999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -93,6 +104,7 @@
     "latitude": "41.50492",
     "longitude": "-81.60906",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -101,6 +113,7 @@
     "latitude": "41.5116",
     "longitude": "-81.60354799999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -109,6 +122,7 @@
     "latitude": "41.510551",
     "longitude": "-81.60354799999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -117,6 +131,7 @@
     "latitude": "41.5116",
     "longitude": "-81.60315",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -125,6 +140,7 @@
     "latitude": "41.5118",
     "longitude": "-81.6029",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -133,6 +149,7 @@
     "latitude": "41.511506",
     "longitude": "-81.60417699999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -141,6 +158,7 @@
     "latitude": "41.501881999999995",
     "longitude": "-81.60307399999999",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -149,6 +167,7 @@
     "latitude": "41.507356",
     "longitude": "-81.60836599999999",
     "info": "",
+    "open": false,
     "category": "Main"
   },
   {
@@ -157,6 +176,7 @@
     "latitude": "41.50897",
     "longitude": "-81.60749",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -165,6 +185,7 @@
     "latitude": "41.505680999999996",
     "longitude": "-81.6090149",
     "info": "",
+    "open": false,
     "category": "Main"
   },
   {
@@ -173,6 +194,7 @@
     "latitude": "41.502500000000005",
     "longitude": "-81.60694",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -181,6 +203,7 @@
     "latitude": "41.505359999999996",
     "longitude": "-81.603173",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -189,6 +212,7 @@
     "latitude": "41.505006",
     "longitude": "-81.604407",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -197,6 +221,7 @@
     "latitude": "41.505102",
     "longitude": "-81.605791",
     "info": "",
+    "open": false,
     "category": "Health"
   },
   {
@@ -205,6 +230,7 @@
     "latitude": "41.505624999999995",
     "longitude": "-81.60472899999999",
     "info": "",
+    "open": false,
     "category": "Health"
   },
   {
@@ -213,6 +239,7 @@
     "latitude": "41.505006",
     "longitude": "-81.604407",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -221,6 +248,7 @@
     "latitude": "41.50111",
     "longitude": "-81.60119",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -228,8 +256,9 @@
     "address": "11892 Carlton Road Cleveland, OH 44106",
     "latitude": "41.5002572",
     "longitude": "-81.6017622",
-    "info": "",
-    "category": "Food"
+    "info": "Southside dining hall",
+    "open": false,
+    "category": "Find Food"
   },
   {
     "name": "Carlton Road 11920 - Guest House",
@@ -237,6 +266,7 @@
     "latitude": "41.501169999999995",
     "longitude": "-81.5998",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -245,6 +275,7 @@
     "latitude": "41.50404166666701",
     "longitude": "-81.6096",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -253,6 +284,7 @@
     "latitude": "41.498509999999996",
     "longitude": "-81.61247",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -261,6 +293,7 @@
     "latitude": "41.508333",
     "longitude": "-81.607079",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -269,6 +302,7 @@
     "latitude": "41.514500000000005",
     "longitude": "-81.6055",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -277,6 +311,7 @@
     "latitude": "41.510988",
     "longitude": "-81.609524",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -285,6 +320,7 @@
     "latitude": "41.509167999999995",
     "longitude": "-81.617633",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -293,6 +329,7 @@
     "latitude": "41.511742",
     "longitude": "-81.60208999999999",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -301,6 +338,7 @@
     "latitude": "41.509",
     "longitude": "-81.6097",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -309,6 +347,7 @@
     "latitude": "41.5123",
     "longitude": "-81.6087",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -317,6 +356,7 @@
     "latitude": "41.508849999999995",
     "longitude": "-81.61200000000001",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -325,6 +365,7 @@
     "latitude": "41.51157",
     "longitude": "-81.6134",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -333,6 +374,7 @@
     "latitude": "41.503",
     "longitude": "-81.62786",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -341,6 +383,7 @@
     "latitude": "41.51152",
     "longitude": "-81.607175",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -349,7 +392,8 @@
     "latitude": "41.51152",
     "longitude": "-81.607175",
     "info": "",
-    "category": "Food"
+    "open": false,
+    "category": "Find Food"
   },
   {
     "name": "Cornell Medical Building - UH",
@@ -357,6 +401,7 @@
     "latitude": "41.50781",
     "longitude": "-81.60504",
     "info": "",
+    "open": false,
     "category": "Health"
   },
   {
@@ -365,6 +410,7 @@
     "latitude": "41.511469999999996",
     "longitude": "-81.60672",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -373,6 +419,7 @@
     "latitude": "41.507818",
     "longitude": "-81.60540499999999",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -381,6 +428,7 @@
     "latitude": "41.51424",
     "longitude": "-81.6053",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -389,6 +437,7 @@
     "latitude": "41.512319999999995",
     "longitude": "-81.60795",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -397,6 +446,7 @@
     "latitude": "41.5015",
     "longitude": "-81.60095",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -405,6 +455,7 @@
     "latitude": "41.513059999999996",
     "longitude": "-81.60510000000001",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -413,6 +464,7 @@
     "latitude": "41.505803",
     "longitude": "-81.62033699999999",
     "info": "",
+    "open": false,
     "category": "Health"
   },
   {
@@ -421,6 +473,7 @@
     "latitude": "41.505359999999996",
     "longitude": "-81.603173",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -429,6 +482,7 @@
     "latitude": "41.511979",
     "longitude": "-81.60600099999999",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -437,6 +491,7 @@
     "latitude": "41.502559999999995",
     "longitude": "-81.6079",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -445,6 +500,7 @@
     "latitude": "41.50402",
     "longitude": "-81.60781999999999",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -453,6 +509,7 @@
     "latitude": "41.501394",
     "longitude": "-81.60549",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -461,6 +518,7 @@
     "latitude": "41.492141",
     "longitude": "-81.59761",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -469,6 +527,7 @@
     "latitude": "41.507191",
     "longitude": "-81.604106",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -477,7 +536,8 @@
     "latitude": "41.50111",
     "longitude": "-81.60267999999999",
     "info": "",
-    "category": "Food"
+    "open": false,
+    "category": "Find Food"
   },
   {
     "name": "Geller Hillel Building at CWRU, Albert & Norma",
@@ -485,6 +545,7 @@
     "latitude": "41.508579",
     "longitude": "-81.60634999999999",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -493,6 +554,7 @@
     "latitude": "41.500105",
     "longitude": "-81.60857999999999",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -501,6 +563,7 @@
     "latitude": "41.5005826",
     "longitude": "-81.60048544",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -509,6 +572,7 @@
     "latitude": "41.50157",
     "longitude": "-81.60719",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -517,6 +581,7 @@
     "latitude": "41.511106",
     "longitude": "-81.60757699999999",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -525,6 +590,7 @@
     "latitude": "41.499325",
     "longitude": "-81.61818799999999",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -533,6 +599,7 @@
     "latitude": "41.501776",
     "longitude": "-81.69473699999999",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -541,6 +608,7 @@
     "latitude": "41.508545",
     "longitude": "-81.60815099999999",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -549,6 +617,7 @@
     "latitude": "41.50542",
     "longitude": "-81.60725",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -557,6 +626,7 @@
     "latitude": "41.509339999999995",
     "longitude": "-81.60750999999999",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -565,6 +635,7 @@
     "latitude": "41.50863",
     "longitude": "-81.60770000000001",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -573,6 +644,7 @@
     "latitude": "41.503329",
     "longitude": "-81.604981",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -581,6 +653,7 @@
     "latitude": "41.507861999999996",
     "longitude": "-81.60786",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -589,6 +662,7 @@
     "latitude": "41.507173",
     "longitude": "-81.608307",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -597,6 +671,7 @@
     "latitude": "41.51392",
     "longitude": "-81.60502",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -605,6 +680,7 @@
     "latitude": "41.5009482",
     "longitude": "-81.6021323",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -613,6 +689,7 @@
     "latitude": "41.507269444440006",
     "longitude": "-81.60950277777",
     "info": "",
+    "open": false,
     "category": "Main"
   },
   {
@@ -621,6 +698,7 @@
     "latitude": "41.503344",
     "longitude": "-81.60656",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -629,6 +707,7 @@
     "latitude": "41.500864",
     "longitude": "-81.60002947",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -637,7 +716,8 @@
     "latitude": "41.51357",
     "longitude": "-81.60602",
     "info": "",
-    "category": "Food"
+    "open": false,
+    "category": "Find Food"
   },
   {
     "name": "Lakeside Hospital - UH",
@@ -645,6 +725,7 @@
     "latitude": "41.505362999999996",
     "longitude": "-81.606166",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -653,6 +734,7 @@
     "latitude": "41.500775999999995",
     "longitude": "-81.61868199999999",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -661,6 +743,7 @@
     "latitude": "41.511669999999995",
     "longitude": "-81.60690000000001",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -669,6 +752,7 @@
     "latitude": "41.511899",
     "longitude": "-81.60677199999999",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -677,6 +761,7 @@
     "latitude": "41.50119",
     "longitude": "-81.60754",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -685,6 +770,7 @@
     "latitude": "41.50315",
     "longitude": "-81.609111",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -693,6 +779,7 @@
     "latitude": "41.513852",
     "longitude": "-81.6076952",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -701,6 +788,7 @@
     "latitude": "41.501743999999995",
     "longitude": "-81.602175",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -709,6 +797,7 @@
     "latitude": "41.510421",
     "longitude": "-81.60624",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -717,6 +806,7 @@
     "latitude": "41.5002532",
     "longitude": "-81.6060859",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -725,6 +815,7 @@
     "latitude": "41.502261999999995",
     "longitude": "-81.61340799999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -733,6 +824,7 @@
     "latitude": "41.504568",
     "longitude": "-81.607556",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -741,6 +833,7 @@
     "latitude": "41.505300999999996",
     "longitude": "-81.608188",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -749,6 +842,7 @@
     "latitude": "41.510512999999996",
     "longitude": "-81.61856",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -757,6 +851,7 @@
     "latitude": "41.506029999999996",
     "longitude": "-81.60630599999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -765,6 +860,7 @@
     "latitude": "41.50828",
     "longitude": "-81.60494899999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -773,6 +869,7 @@
     "latitude": "41.508300000000006",
     "longitude": "-81.601789",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -781,6 +878,7 @@
     "latitude": "41.5080631",
     "longitude": "-81.6049755",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -789,6 +887,7 @@
     "latitude": "41.503949999999996",
     "longitude": "-81.604396",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -797,6 +896,7 @@
     "latitude": "41.508919999999996",
     "longitude": "-81.6071963",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -805,6 +905,7 @@
     "latitude": "41.512932",
     "longitude": "-81.6079849",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -813,6 +914,7 @@
     "latitude": "41.501239999999996",
     "longitude": "-81.603546",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -821,6 +923,7 @@
     "latitude": "41.502168999999995",
     "longitude": "-81.603455",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -829,6 +932,7 @@
     "latitude": "41.49873446",
     "longitude": "-81.607883",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -837,6 +941,7 @@
     "latitude": "41.505812",
     "longitude": "-81.60825299999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -845,6 +950,7 @@
     "latitude": "41.511666",
     "longitude": "-81.6057372",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -853,6 +959,7 @@
     "latitude": "41.510888",
     "longitude": "-81.606832",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -861,6 +968,7 @@
     "latitude": "41.514615",
     "longitude": "-81.605288",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -869,6 +977,7 @@
     "latitude": "41.512035999999995",
     "longitude": "-81.60782999999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -877,6 +986,7 @@
     "latitude": "41.514365999999995",
     "longitude": "-81.606622",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -885,6 +995,7 @@
     "latitude": "41.500856",
     "longitude": "-81.59976",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -893,6 +1004,7 @@
     "latitude": "41.5149844",
     "longitude": "-81.6106242",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -901,6 +1013,7 @@
     "latitude": "41.5026517",
     "longitude": "-81.6103774",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -909,6 +1022,7 @@
     "latitude": "41.497448999999996",
     "longitude": "-81.613784",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -917,6 +1031,7 @@
     "latitude": "41.4990278",
     "longitude": "-81.612995",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -925,6 +1040,7 @@
     "latitude": "41.5112",
     "longitude": "-81.60370999999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -933,6 +1049,7 @@
     "latitude": "41.517289999999996",
     "longitude": "-81.596752",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -941,6 +1058,7 @@
     "latitude": "41.508852",
     "longitude": "-81.603539",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -949,6 +1067,7 @@
     "latitude": "41.506341",
     "longitude": "-81.617164",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -957,6 +1076,7 @@
     "latitude": "41.511058",
     "longitude": "-81.606276",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -965,6 +1085,7 @@
     "latitude": "41.500751",
     "longitude": "-81.604236",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -973,6 +1094,7 @@
     "latitude": "41.506645",
     "longitude": "-81.621184",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -981,6 +1103,7 @@
     "latitude": "41.509377",
     "longitude": "-81.60537243",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -989,6 +1112,7 @@
     "latitude": "41.5049055",
     "longitude": "-81.6095352",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -997,6 +1121,7 @@
     "latitude": "41.510481",
     "longitude": "-81.61729199999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1005,6 +1130,7 @@
     "latitude": "41.50689",
     "longitude": "-81.60961999999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1013,6 +1139,7 @@
     "latitude": "41.5079225",
     "longitude": "-81.6043639",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1021,6 +1148,7 @@
     "latitude": "41.513321",
     "longitude": "-81.6026956",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1029,6 +1157,7 @@
     "latitude": "41.510839",
     "longitude": "-81.6068745",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1037,6 +1166,7 @@
     "latitude": "41.502185999999995",
     "longitude": "-81.6048521",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1045,6 +1175,7 @@
     "latitude": "41.504273999999995",
     "longitude": "-81.603551",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1053,6 +1184,7 @@
     "latitude": "41.507937",
     "longitude": "-81.602111",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1061,6 +1193,7 @@
     "latitude": "41.509674",
     "longitude": "-81.602679",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1069,6 +1202,7 @@
     "latitude": "41.504261",
     "longitude": "-81.60563499999999",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1077,6 +1211,7 @@
     "latitude": "41.508063",
     "longitude": "-81.615715",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -1085,6 +1220,7 @@
     "latitude": "41.510433",
     "longitude": "-81.607218",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -1093,6 +1229,7 @@
     "latitude": "41.511",
     "longitude": "-81.60560000000001",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -1101,6 +1238,7 @@
     "latitude": "41.50542",
     "longitude": "-81.6039187",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1109,6 +1247,7 @@
     "latitude": "41.50823",
     "longitude": "-81.60815",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -1117,6 +1256,7 @@
     "latitude": "41.509557",
     "longitude": "-81.607078",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -1125,6 +1265,7 @@
     "latitude": "41.514703",
     "longitude": "-81.606692",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -1133,6 +1274,7 @@
     "latitude": "41.439662",
     "longitude": "-81.704942",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1141,6 +1283,7 @@
     "latitude": "41.5004058",
     "longitude": "-81.60101116",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1149,6 +1292,7 @@
     "latitude": "41.504000000000005",
     "longitude": "-81.607",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -1157,6 +1301,7 @@
     "latitude": "41.508842",
     "longitude": "-81.604911",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -1165,6 +1310,7 @@
     "latitude": "41.514747",
     "longitude": "-81.604467",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -1173,6 +1319,7 @@
     "latitude": "41.5131",
     "longitude": "-81.6057",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1181,6 +1328,7 @@
     "latitude": "41.50542",
     "longitude": "-81.6039187",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1189,6 +1337,7 @@
     "latitude": "41.50224",
     "longitude": "-81.60777999999999",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -1197,6 +1346,7 @@
     "latitude": "41.461853",
     "longitude": "-81.492559",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1205,6 +1355,7 @@
     "latitude": "41.505",
     "longitude": "-81.60600000000001",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1213,6 +1364,7 @@
     "latitude": "41.50983",
     "longitude": "-81.6079",
     "info": "",
+    "open": false,
     "category": "Business"
   },
   {
@@ -1221,6 +1373,7 @@
     "latitude": "41.5109",
     "longitude": "-81.6066",
     "info": "",
+    "open": false,
     "category": "Greek"
   },
   {
@@ -1229,6 +1382,7 @@
     "latitude": "41.514211111111",
     "longitude": "-81.61",
     "info": "",
+    "open": false,
     "category": "Greek"
   },
   {
@@ -1237,6 +1391,7 @@
     "latitude": "41.51387",
     "longitude": "-81.60544999999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1245,6 +1400,7 @@
     "latitude": "41.504394999999995",
     "longitude": "-81.60584399999999",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1253,6 +1409,7 @@
     "latitude": "41.512589999999996",
     "longitude": "-81.60524",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1261,6 +1418,7 @@
     "latitude": "41.50364",
     "longitude": "-81.60784",
     "info": "",
+    "open": false,
     "category": "CAS"
   },
   {
@@ -1269,6 +1427,7 @@
     "latitude": "41.505469999999995",
     "longitude": "-81.619743",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1277,6 +1436,7 @@
     "latitude": "41.506729",
     "longitude": "-81.605115",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1285,6 +1445,7 @@
     "latitude": "41.502733333333005",
     "longitude": "-81.608183333333",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -1293,6 +1454,7 @@
     "latitude": "41.506319999999995",
     "longitude": "-81.60934999999999",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -1301,6 +1463,7 @@
     "latitude": "41.51273",
     "longitude": "-81.60578",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1309,6 +1472,7 @@
     "latitude": "41.51227",
     "longitude": "-81.60743",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1317,6 +1481,7 @@
     "latitude": "41.500023999999996",
     "longitude": "-81.6027573",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1325,6 +1490,7 @@
     "latitude": "41.515178999999996",
     "longitude": "-81.60491999999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1333,6 +1499,7 @@
     "latitude": "41.51274",
     "longitude": "-81.60767",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -1341,6 +1508,7 @@
     "latitude": "41.51415",
     "longitude": "-81.60601",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1349,6 +1517,7 @@
     "latitude": "41.5032985",
     "longitude": "-81.6074699",
     "info": "",
+    "open": false,
     "category": "Main"
   },
   {
@@ -1357,6 +1526,7 @@
     "latitude": "41.512522",
     "longitude": "-81.607046",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1365,6 +1535,7 @@
     "latitude": "41.512969999999996",
     "longitude": "-81.6072",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1373,6 +1544,7 @@
     "latitude": "41.507137",
     "longitude": "-81.61684199999999",
     "info": "",
+    "open": false,
     "category": "Parking"
   },
   {
@@ -1381,6 +1553,7 @@
     "latitude": "41.5116",
     "longitude": "-81.60354799999999",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1389,6 +1562,7 @@
     "latitude": "41.5005886",
     "longitude": "-81.6029182",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1397,6 +1571,7 @@
     "latitude": "41.509298",
     "longitude": "-81.604199",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -1405,6 +1580,7 @@
     "latitude": "41.508959",
     "longitude": "-81.603527",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1413,6 +1589,7 @@
     "latitude": "41.509493",
     "longitude": "-81.603479",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1421,6 +1598,7 @@
     "latitude": "41.500616",
     "longitude": "-81.612825",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1429,6 +1607,7 @@
     "latitude": "41.51275",
     "longitude": "-81.60614",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1437,6 +1616,7 @@
     "latitude": "41.508793999999995",
     "longitude": "-81.605764",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1445,6 +1625,7 @@
     "latitude": "41.505913",
     "longitude": "-81.612595",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -1453,6 +1634,7 @@
     "latitude": "41.510072",
     "longitude": "-81.603377",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1461,6 +1643,7 @@
     "latitude": "41.510382",
     "longitude": "-81.603977",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1469,6 +1652,7 @@
     "latitude": "41.513458",
     "longitude": "-81.614369",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1477,6 +1661,7 @@
     "latitude": "41.515507",
     "longitude": "-81.61511999999999",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1485,6 +1670,7 @@
     "latitude": "41.501827999999996",
     "longitude": "-81.606166",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -1493,6 +1679,7 @@
     "latitude": "41.5125261",
     "longitude": "-81.6031945",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1501,6 +1688,7 @@
     "latitude": "41.512084",
     "longitude": "-81.6032749",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1509,6 +1697,7 @@
     "latitude": "41.512357",
     "longitude": "-81.60372",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1517,6 +1706,7 @@
     "latitude": "41.5125421",
     "longitude": "-81.60418689",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1525,6 +1715,7 @@
     "latitude": "41.512859999999996",
     "longitude": "-81.6044337",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1533,6 +1724,7 @@
     "latitude": "41.5134781",
     "longitude": "-81.60444975",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1541,6 +1733,7 @@
     "latitude": "41.5140565",
     "longitude": "-81.604455",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1549,6 +1742,7 @@
     "latitude": "41.514441999999995",
     "longitude": "-81.60412252",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1557,6 +1751,7 @@
     "latitude": "41.503062",
     "longitude": "-81.613962",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1565,6 +1760,7 @@
     "latitude": "41.51304",
     "longitude": "-81.60525",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -1573,6 +1769,7 @@
     "latitude": "41.536100999999995",
     "longitude": "-81.56839",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1581,6 +1778,7 @@
     "latitude": "41.505817",
     "longitude": "-81.605721",
     "info": "",
+    "open": false,
     "category": "Medical"
   },
   {
@@ -1589,6 +1787,7 @@
     "latitude": "41.51339",
     "longitude": "-81.61071",
     "info": "",
+    "open": false,
     "category": "Fun"
   },
   {
@@ -1597,6 +1796,7 @@
     "latitude": "41.50197",
     "longitude": "-81.60746",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -1605,6 +1805,7 @@
     "latitude": "41.503086111111",
     "longitude": "-81.608452777778",
     "info": "",
+    "open": false,
     "category": "CSE"
   },
   {
@@ -1613,6 +1814,7 @@
     "latitude": "41.51066",
     "longitude": "-81.60593999999999",
     "info": "",
+    "open": false,
     "category": "Services"
   },
   {
@@ -1621,6 +1823,7 @@
     "latitude": "41.506403999999996",
     "longitude": "-81.603168",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1629,6 +1832,7 @@
     "latitude": "41.5042305634194",
     "longitude": "-81.60465359687801",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1637,6 +1841,7 @@
     "latitude": "41.50406986525601",
     "longitude": "-81.605007648468",
     "info": "",
+    "open": false,
     "category": "Research"
   },
   {
@@ -1645,6 +1850,7 @@
     "latitude": "41.492501",
     "longitude": "-81.422805",
     "info": "",
+    "open": false,
     "category": ""
   },
   {
@@ -1653,6 +1859,7 @@
     "latitude": "41.5125421",
     "longitude": "-81.60418689",
     "info": "",
+    "open": false,
     "category": "Housing"
   },
   {
@@ -1661,6 +1868,7 @@
     "latitude": "41.514345",
     "longitude": "-81.60341199999999",
     "info": "",
+    "open": false,
     "category": "Phys"
   },
   {
@@ -1669,6 +1877,7 @@
     "latitude": "41.503569444444004",
     "longitude": "-81.60897777777801",
     "info": "",
+    "open": false,
     "category": "Services"
   }
 ]

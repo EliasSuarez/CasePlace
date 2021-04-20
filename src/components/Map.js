@@ -2,6 +2,7 @@ import React from "react";
 import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
+import Accordion from "./Accordion";
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
@@ -140,7 +141,6 @@ const Map = ({ loc, setLoc }) => {
           defaultCenter={{ lat: 41.508186, lng: -81.608665 }}
           defaultZoom={17}
         >
-          {console.log(loc)}
           {loc === "All" && locations}
           {loc === "CSE" && engineering}
           {loc === "Business" && business}
@@ -151,6 +151,7 @@ const Map = ({ loc, setLoc }) => {
           {loc === "Phys" && phys}
           {loc === "Services" && services}
         </GoogleMapReact>
+        <Accordion pins={places?.filter((x) => x.category === loc)} />
       </div>
     </div>
   );
