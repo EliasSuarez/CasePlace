@@ -4,18 +4,20 @@
     "address": "2130 Adelbert Road Cleveland, OH 44106",
     "latitude": "41.5030233",
     "longitude": "-81.60552799999999",
-    "info": "",
+    "info": "28,000 square foot gym on CWRU campus that offers a variety of health and training services with membership",
     "open": false,
-    "category": "Phys"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Tinkham Veale University Center",
     "address": "11038 Bellflower Road Cleveland, OH 44106",
     "latitude": "41.508027999999996",
     "longitude": "-81.608667",
-    "info": "",
+    "info": "The University Center houses six departments, nine events spaces, and six dining locations. It is the ideal meeting space for students to study, collaborate, and socialize.",
     "open": false,
-    "category": "Main"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "A.W. Smith",
@@ -24,7 +26,8 @@
     "longitude": "-81.60686",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Crawford Hall",
@@ -33,7 +36,8 @@
     "longitude": "-81.6098",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Adelbert Gym",
@@ -42,7 +46,8 @@
     "longitude": "-81.60592",
     "info": "",
     "open": false,
-    "category": "Phys"
+    "category": "Directory",
+    "deptMarker": "phed"
   },
   {
     "name": "Adelbert Hall",
@@ -51,7 +56,8 @@
     "longitude": "-81.608216666667",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Agnar Pytte Science Center - Clapp Hall",
@@ -60,7 +66,8 @@
     "longitude": "-81.60690799999999",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Agnar Pytte Science Center - DeGrace Hall",
@@ -69,7 +76,8 @@
     "longitude": "-81.607106",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "biology"
   },
   {
     "name": "Agnar Pytte Science Center - Millis Hall",
@@ -78,7 +86,8 @@
     "longitude": "-81.607494",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "chemistry"
   },
   {
     "name": "Allen Memorial Medical Library",
@@ -87,7 +96,8 @@
     "longitude": "-81.60844",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "?"
   },
   {
     "name": "Alumni House",
@@ -96,7 +106,8 @@
     "longitude": "-81.60242199999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Amasa Stone Chapel",
@@ -105,7 +116,8 @@
     "longitude": "-81.60906",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "",
+    "deptMarker": ""
   },
   {
     "name": "Apartment - 1720-28 East 116th The Noble",
@@ -114,7 +126,8 @@
     "longitude": "-81.60354799999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Apartment - East 116th 1719 ",
@@ -123,7 +136,8 @@
     "longitude": "-81.60354799999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Apartment - East 116th 1727",
@@ -132,7 +146,8 @@
     "longitude": "-81.60315",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Apartment - East 117th 1680",
@@ -141,7 +156,8 @@
     "longitude": "-81.6029",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Apartment - Twin Gables",
@@ -150,7 +166,8 @@
     "longitude": "-81.60417699999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Art Studio",
@@ -159,7 +176,8 @@
     "longitude": "-81.60307399999999",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Thwing Center - Thwing Atrium",
@@ -168,7 +186,8 @@
     "longitude": "-81.60836599999999",
     "info": "",
     "open": false,
-    "category": "Main"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Clark Hall",
@@ -177,7 +196,8 @@
     "longitude": "-81.60749",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Binary Walkway",
@@ -186,7 +206,8 @@
     "longitude": "-81.6090149",
     "info": "",
     "open": false,
-    "category": "Main"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Bingham",
@@ -195,7 +216,8 @@
     "longitude": "-81.60694",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Dental Research Building",
@@ -204,7 +226,8 @@
     "longitude": "-81.603173",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": "dental"
   },
   {
     "name": "Biomedical Research Building",
@@ -213,7 +236,8 @@
     "longitude": "-81.604407",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Bishop - UH",
@@ -222,7 +246,8 @@
     "longitude": "-81.605791",
     "info": "",
     "open": false,
-    "category": "Health"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Bolwell - UH",
@@ -231,16 +256,8 @@
     "longitude": "-81.60472899999999",
     "info": "",
     "open": false,
-    "category": "Health"
-  },
-  {
-    "name": "Biomedical Research Building",
-    "address": "2109 Adelbert Road Cleveland, OH 44106",
-    "latitude": "41.505006",
-    "longitude": "-81.604407",
-    "info": "",
-    "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Carlton 11901 - Scholars House",
@@ -249,7 +266,8 @@
     "longitude": "-81.60119",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Carlton Commons",
@@ -258,7 +276,8 @@
     "longitude": "-81.6017622",
     "info": "Southside dining hall",
     "open": false,
-    "category": "Find Food"
+    "category": "Directory",
+    "deptMarker": "studentServices"
   },
   {
     "name": "Carlton Road 11920 - Guest House",
@@ -267,7 +286,8 @@
     "longitude": "-81.5998",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Tomlinson Hall",
@@ -276,7 +296,8 @@
     "longitude": "-81.6096",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "studentServices",
+    "deptMarker": ""
   },
   {
     "name": "Cedar Avenue Service Center",
@@ -285,7 +306,8 @@
     "longitude": "-81.61247",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "studentServices",
+    "deptMarker": ""
   },
   {
     "name": "Church of the Covenant",
@@ -294,7 +316,8 @@
     "longitude": "-81.607079",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "",
+    "deptMarker": ""
   },
   {
     "name": "Clarke Tower",
@@ -303,7 +326,8 @@
     "longitude": "-81.6055",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cleveland Botanical Garden",
@@ -312,7 +336,8 @@
     "longitude": "-81.609524",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cleveland Center for Membrane and Structural Biology",
@@ -321,7 +346,8 @@
     "longitude": "-81.617633",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": "biology"
   },
   {
     "name": "Cleveland Hearing & Speech",
@@ -330,7 +356,8 @@
     "longitude": "-81.60208999999999",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": "slp"
   },
   {
     "name": "Cleveland Institute of Art",
@@ -339,7 +366,8 @@
     "longitude": "-81.6097",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cleveland Institute of Music",
@@ -348,7 +376,8 @@
     "longitude": "-81.6087",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cleveland Museum of Art",
@@ -357,7 +386,8 @@
     "longitude": "-81.61200000000001",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cleveland Museum of Natural History",
@@ -366,7 +396,8 @@
     "longitude": "-81.6134",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cleveland Play House",
@@ -375,7 +406,8 @@
     "longitude": "-81.62786",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Coffee House at University Circle",
@@ -384,16 +416,8 @@
     "longitude": "-81.607175",
     "info": "",
     "open": false,
-    "category": ""
-  },
-  {
-    "name": "Coffee House at University Circle",
-    "address": "11300 Juniper Drive Cleveland, OH 44106",
-    "latitude": "41.51152",
-    "longitude": "-81.607175",
-    "info": "",
-    "open": false,
-    "category": "Find Food"
+    "category": "Food",
+    "deptMarker": ""
   },
   {
     "name": "Cornell Medical Building - UH",
@@ -402,7 +426,8 @@
     "longitude": "-81.60504",
     "info": "",
     "open": false,
-    "category": "Health"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Cosmic Dave's Rock Club",
@@ -411,7 +436,8 @@
     "longitude": "-81.60672",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Food",
+    "deptMarker": ""
   },
   {
     "name": "Courtyard Marriott University Circle",
@@ -420,7 +446,8 @@
     "longitude": "-81.60540499999999",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Cutler House",
@@ -429,7 +456,8 @@
     "longitude": "-81.6053",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Cutter House",
@@ -438,7 +466,8 @@
     "longitude": "-81.60795",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Carlton 11915/11913",
@@ -447,7 +476,8 @@
     "longitude": "-81.60095",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Denison Hall",
@@ -456,7 +486,8 @@
     "longitude": "-81.60510000000001",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": "music"
   },
   {
     "name": "Dental Clinic",
@@ -465,7 +496,8 @@
     "longitude": "-81.62033699999999",
     "info": "",
     "open": false,
-    "category": "Health"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Dental Research Building",
@@ -474,7 +506,8 @@
     "longitude": "-81.603173",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": "dental"
   },
   {
     "name": "Diner",
@@ -483,7 +516,8 @@
     "longitude": "-81.60600099999999",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Food",
+    "deptMarker": ""
   },
   {
     "name": "Nord Hall",
@@ -492,7 +526,8 @@
     "longitude": "-81.6079",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Eldred Hall",
@@ -501,7 +536,8 @@
     "longitude": "-81.60781999999999",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Veale Convocation, Recreation and Athletic Center",
@@ -519,7 +555,8 @@
     "longitude": "-81.59761",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Foley - UH",
@@ -528,7 +565,8 @@
     "longitude": "-81.604106",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Fribley Commons",
@@ -537,7 +575,8 @@
     "longitude": "-81.60267999999999",
     "info": "",
     "open": false,
-    "category": "Find Food"
+    "category": "Food",
+    "deptMarker": ""
   },
   {
     "name": "Geller Hillel Building at CWRU, Albert & Norma",
@@ -546,7 +585,8 @@
     "longitude": "-81.60634999999999",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Gerber - UH",
@@ -555,7 +595,8 @@
     "longitude": "-81.60857999999999",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Glaser House",
@@ -564,7 +605,8 @@
     "longitude": "-81.60048544",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Glennan",
@@ -573,7 +615,8 @@
     "longitude": "-81.60719",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "compsci"
   },
   {
     "name": "Glidden House",
@@ -582,7 +625,8 @@
     "longitude": "-81.60757699999999",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Global Cardiovascular Innovation Center - CCF",
@@ -591,7 +635,8 @@
     "longitude": "-81.61818799999999",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Global Center for Health Innovation",
@@ -600,7 +645,7 @@
     "longitude": "-81.69473699999999",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory"
   },
   {
     "name": "Guilford House",
@@ -609,7 +654,8 @@
     "longitude": "-81.60815099999999",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Hanna Pavilion - UH",
@@ -618,7 +664,8 @@
     "longitude": "-81.60725",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Harkness Chapel",
@@ -627,7 +674,8 @@
     "longitude": "-81.60750999999999",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Haydn Hall",
@@ -636,7 +684,8 @@
     "longitude": "-81.60770000000001",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Health Services",
@@ -645,7 +694,8 @@
     "longitude": "-81.604981",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "healthServices",
+    "deptMarker": ""
   },
   {
     "name": "Mather House",
@@ -654,7 +704,8 @@
     "longitude": "-81.60786",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Thwing Center - Hitchcock Hall",
@@ -663,7 +714,8 @@
     "longitude": "-81.608307",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "studentServices",
+    "deptMarker": ""
   },
   {
     "name": "Hitchcock House",
@@ -672,7 +724,8 @@
     "longitude": "-81.60502",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Howe House",
@@ -681,7 +734,8 @@
     "longitude": "-81.6021323",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Kelvin Smith Library",
@@ -690,7 +744,8 @@
     "longitude": "-81.60950277777",
     "info": "",
     "open": false,
-    "category": "Main"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Kent Hale Smith",
@@ -699,7 +754,8 @@
     "longitude": "-81.60656",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Kusch House",
@@ -708,7 +764,8 @@
     "longitude": "-81.60002947",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Leutner Commons",
@@ -717,7 +774,8 @@
     "longitude": "-81.60602",
     "info": "",
     "open": false,
-    "category": "Find Food"
+    "category": "Food",
+    "deptMarker": ""
   },
   {
     "name": "Lakeside Hospital - UH",
@@ -726,7 +784,8 @@
     "longitude": "-81.606166",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Lerner Research Institute - CCF",
@@ -735,7 +794,8 @@
     "longitude": "-81.61868199999999",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Research",
+    "deptMarker": ""
   },
   {
     "name": "Linsalata Alumni Center - Alumni House",
@@ -744,7 +804,8 @@
     "longitude": "-81.60690000000001",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Linsalata Alumni Center - Event Center",
@@ -762,7 +823,8 @@
     "longitude": "-81.60754",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 01B",
@@ -771,7 +833,8 @@
     "longitude": "-81.609111",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 04",
@@ -780,7 +843,8 @@
     "longitude": "-81.6076952",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Dierctory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 05",
@@ -789,7 +853,8 @@
     "longitude": "-81.602175",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 06",
@@ -798,7 +863,8 @@
     "longitude": "-81.60624",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 07",
@@ -807,7 +873,8 @@
     "longitude": "-81.6060859",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 11",
@@ -816,7 +883,8 @@
     "longitude": "-81.61340799999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 13",
@@ -825,7 +893,8 @@
     "longitude": "-81.607556",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 13A",
@@ -834,7 +903,8 @@
     "longitude": "-81.608188",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 14",
@@ -843,7 +913,8 @@
     "longitude": "-81.61856",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 19",
@@ -852,7 +923,8 @@
     "longitude": "-81.60630599999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 22B",
@@ -861,7 +933,8 @@
     "longitude": "-81.60494899999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 23",
@@ -870,7 +943,8 @@
     "longitude": "-81.601789",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 24",
@@ -879,7 +953,8 @@
     "longitude": "-81.6049755",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 26",
@@ -888,7 +963,8 @@
     "longitude": "-81.604396",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 33",
@@ -897,7 +973,8 @@
     "longitude": "-81.6071963",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 43B",
@@ -906,7 +983,8 @@
     "longitude": "-81.6079849",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 44",
@@ -915,7 +993,8 @@
     "longitude": "-81.603546",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 47",
@@ -924,7 +1003,8 @@
     "longitude": "-81.603455",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 48",
@@ -933,7 +1013,8 @@
     "longitude": "-81.607883",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 51",
@@ -942,7 +1023,8 @@
     "longitude": "-81.60825299999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Director",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 52A",
@@ -951,7 +1033,8 @@
     "longitude": "-81.6057372",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 52B",
@@ -960,7 +1043,8 @@
     "longitude": "-81.606832",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 56",
@@ -969,7 +1053,8 @@
     "longitude": "-81.605288",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 56D",
@@ -978,7 +1063,8 @@
     "longitude": "-81.60782999999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 56E",
@@ -987,7 +1073,8 @@
     "longitude": "-81.606622",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 57",
@@ -996,7 +1083,8 @@
     "longitude": "-81.59976",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Director",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 58A",
@@ -1005,7 +1093,8 @@
     "longitude": "-81.6106242",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 64",
@@ -1014,7 +1103,8 @@
     "longitude": "-81.6103774",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 66",
@@ -1023,7 +1113,8 @@
     "longitude": "-81.613784",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 66B",
@@ -1032,7 +1123,8 @@
     "longitude": "-81.612995",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 67",
@@ -1041,7 +1133,8 @@
     "longitude": "-81.60370999999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 68",
@@ -1050,7 +1143,8 @@
     "longitude": "-81.596752",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 75",
@@ -1059,7 +1153,8 @@
     "longitude": "-81.603539",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 77",
@@ -1068,7 +1163,8 @@
     "longitude": "-81.617164",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 79",
@@ -1077,7 +1173,8 @@
     "longitude": "-81.606276",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 80",
@@ -1086,7 +1183,8 @@
     "longitude": "-81.604236",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot 86",
@@ -1095,7 +1193,8 @@
     "longitude": "-81.621184",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot C-01",
@@ -1104,7 +1203,8 @@
     "longitude": "-81.60537243",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-10 - Crawford Garage",
@@ -1113,7 +1213,8 @@
     "longitude": "-81.6095352",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-17 - West Campus Parking Garage",
@@ -1122,7 +1223,8 @@
     "longitude": "-81.61729199999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-29 - Campus Center Parking Garage",
@@ -1131,7 +1233,8 @@
     "longitude": "-81.60961999999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-34",
@@ -1140,7 +1243,8 @@
     "longitude": "-81.6043639",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-46 - NRV Parking Garage",
@@ -1149,7 +1253,8 @@
     "longitude": "-81.6026956",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-52B - MSASS Garage",
@@ -1158,7 +1263,8 @@
     "longitude": "-81.6068745",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-53 - Veale Parking Garage",
@@ -1167,7 +1273,8 @@
     "longitude": "-81.6048521",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-55 - Health Sciences Garage",
@@ -1176,7 +1283,8 @@
     "longitude": "-81.603551",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-61",
@@ -1185,7 +1293,8 @@
     "longitude": "-81.602111",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Lot S-78 - Triangle Parking Garage",
@@ -1194,7 +1303,8 @@
     "longitude": "-81.602679",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "MacDonald Women's Hospital - UH",
@@ -1203,7 +1313,8 @@
     "longitude": "-81.60563499999999",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "The Temple - Tifereth Israel",
@@ -1221,7 +1332,8 @@
     "longitude": "-81.607218",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Mandel Community Studies Center, Jack, Joseph and Morton ",
@@ -1230,7 +1342,8 @@
     "longitude": "-81.60560000000001",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Nursing Research Building",
@@ -1239,7 +1352,8 @@
     "longitude": "-81.6039187",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": "nursing"
   },
   {
     "name": "Mather Dance",
@@ -1248,7 +1362,8 @@
     "longitude": "-81.60815",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "dance"
   },
   {
     "name": "Mather Memorial",
@@ -1257,7 +1372,8 @@
     "longitude": "-81.607078",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CAS"
   },
   {
     "name": "Mather Park",
@@ -1266,7 +1382,8 @@
     "longitude": "-81.606692",
     "info": "",
     "open": false,
-    "category": "Phys"
+    "category": "Directory",
+    "deptMarker": "phed"
   },
   {
     "name": "MetroHealth - Old Brooklyn Health Center",
@@ -1275,7 +1392,8 @@
     "longitude": "-81.704942",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Michelson House",
@@ -1284,7 +1402,8 @@
     "longitude": "-81.60101116",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Morley",
@@ -1293,7 +1412,8 @@
     "longitude": "-81.607",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Museum of Contemporary Art",
@@ -1302,7 +1422,8 @@
     "longitude": "-81.604911",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Nobby's Ballpark",
@@ -1311,7 +1432,8 @@
     "longitude": "-81.604467",
     "info": "",
     "open": false,
-    "category": "Phys"
+    "category": "Directory",
+    "deptMarker": "phed"
   },
   {
     "name": "Norton House",
@@ -1320,16 +1442,8 @@
     "longitude": "-81.6057",
     "info": "",
     "open": false,
-    "category": "Housing"
-  },
-  {
-    "name": "Nursing Research Building",
-    "address": "2120 Cornell Road Cleveland, OH 44106",
-    "latitude": "41.50542",
-    "longitude": "-81.6039187",
-    "info": "",
-    "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Olin",
@@ -1338,7 +1452,8 @@
     "longitude": "-81.60777999999999",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Parkway Medical Center - UH",
@@ -1347,7 +1462,8 @@
     "longitude": "-81.492559",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Pathology",
@@ -1356,7 +1472,8 @@
     "longitude": "-81.60600000000001",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Peter B. Lewis",
@@ -1365,7 +1482,8 @@
     "longitude": "-81.6079",
     "info": "",
     "open": false,
-    "category": "Business"
+    "category": "Directory",
+    "deptMarker": "business"
   },
   {
     "name": "Phi Gamma Delta",
@@ -1374,7 +1492,8 @@
     "longitude": "-81.6066",
     "info": "",
     "open": false,
-    "category": "Greek"
+    "category": "Directory",
+    "deptMarker": "greek"
   },
   {
     "name": "Phi Kappa Theta",
@@ -1383,7 +1502,8 @@
     "longitude": "-81.61",
     "info": "",
     "open": false,
-    "category": "Greek"
+    "category": "Directory",
+    "deptMarker": "greek"
   },
   {
     "name": "Pierce House",
@@ -1392,7 +1512,8 @@
     "longitude": "-81.60544999999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Rainbow Babies & Children's - UH",
@@ -1401,7 +1522,8 @@
     "longitude": "-81.60584399999999",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Raymond House",
@@ -1410,7 +1532,8 @@
     "longitude": "-81.60524",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Rockefeller",
@@ -1419,7 +1542,8 @@
     "longitude": "-81.60784",
     "info": "",
     "open": false,
-    "category": "CAS"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Samson Pavilion",
@@ -1428,7 +1552,8 @@
     "longitude": "-81.619743",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Samuel Mather Pavilion - UH",
@@ -1437,7 +1562,8 @@
     "longitude": "-81.605115",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Sears Library Building",
@@ -1446,7 +1572,8 @@
     "longitude": "-81.608183333333",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "studentServices",
+    "deptMarker": ""
   },
   {
     "name": "Severance Hall",
@@ -1455,7 +1582,8 @@
     "longitude": "-81.60934999999999",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Sherman House",
@@ -1464,7 +1592,8 @@
     "longitude": "-81.60578",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Smith House",
@@ -1473,7 +1602,8 @@
     "longitude": "-81.60743",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Staley House",
@@ -1482,7 +1612,8 @@
     "longitude": "-81.6027573",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Stephanie Tubbs Jones Hall",
@@ -1491,7 +1622,8 @@
     "longitude": "-81.60491999999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Stone Commons",
@@ -1500,7 +1632,8 @@
     "longitude": "-81.60767",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": "services"
   },
   {
     "name": "Storrs House",
@@ -1509,7 +1642,8 @@
     "longitude": "-81.60601",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Strosacker Auditorium",
@@ -1518,7 +1652,8 @@
     "longitude": "-81.6074699",
     "info": "",
     "open": false,
-    "category": "Main"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Taft House",
@@ -1527,7 +1662,8 @@
     "longitude": "-81.607046",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Taplin House",
@@ -1536,7 +1672,8 @@
     "longitude": "-81.6072",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Temple - Tifereth Auxiliary Parking Lot",
@@ -1545,7 +1682,8 @@
     "longitude": "-81.61684199999999",
     "info": "",
     "open": false,
-    "category": "Parking"
+    "category": "Directory",
+    "deptMarker": "parking"
   },
   {
     "name": "Apartment - 1720-28 East 116th The Noble",
@@ -1554,7 +1692,8 @@
     "longitude": "-81.60354799999999",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Tippit House",
@@ -1563,7 +1702,8 @@
     "longitude": "-81.6029182",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Toby Plaza",
@@ -1572,7 +1712,8 @@
     "longitude": "-81.604199",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Triangle Tower 1",
@@ -1581,7 +1722,8 @@
     "longitude": "-81.603527",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Triangle Tower 2",
@@ -1590,7 +1732,8 @@
     "longitude": "-81.603479",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Tudor Arms Double Tree Hilton",
@@ -1599,7 +1742,8 @@
     "longitude": "-81.612825",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Tyler House",
@@ -1608,7 +1752,8 @@
     "longitude": "-81.60614",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "University Circle Place Apartments",
@@ -1617,7 +1762,8 @@
     "longitude": "-81.605764",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "University Circle United Methodist Church",
@@ -1626,7 +1772,8 @@
     "longitude": "-81.612595",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Uptown Building 1",
@@ -1635,7 +1782,8 @@
     "longitude": "-81.603377",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Uptown Building 2",
@@ -1644,7 +1792,8 @@
     "longitude": "-81.603977",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "VA - Louis Stokes Cleveland VA Medical Center",
@@ -1653,7 +1802,8 @@
     "longitude": "-81.614369",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "VA - Mt. Sinai Skills & Simulation Center",
@@ -1662,7 +1812,8 @@
     "longitude": "-81.61511999999999",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Van Horn Field",
@@ -1671,7 +1822,8 @@
     "longitude": "-81.606166",
     "info": "",
     "open": false,
-    "category": "Phys"
+    "category": "Directory",
+    "deptMarker": "phed"
   },
   {
     "name": "Village at 115 - House 1",
@@ -1680,7 +1832,8 @@
     "longitude": "-81.6031945",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 2",
@@ -1689,7 +1842,8 @@
     "longitude": "-81.6032749",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 3",
@@ -1698,7 +1852,8 @@
     "longitude": "-81.60372",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 3A",
@@ -1707,7 +1862,8 @@
     "longitude": "-81.60418689",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 4",
@@ -1716,7 +1872,8 @@
     "longitude": "-81.6044337",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 5",
@@ -1725,7 +1882,8 @@
     "longitude": "-81.60444975",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 6",
@@ -1734,7 +1892,8 @@
     "longitude": "-81.604455",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Village at 115 - House 7",
@@ -1743,7 +1902,8 @@
     "longitude": "-81.60412252",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "W. O. Walker - CCF/UH",
@@ -1752,7 +1912,8 @@
     "longitude": "-81.613962",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Wade Commons",
@@ -1761,7 +1922,8 @@
     "longitude": "-81.60525",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "studentServices",
+    "deptMarker": ""
   },
   {
     "name": "Warner & Swasey Observatory",
@@ -1770,7 +1932,8 @@
     "longitude": "-81.56839",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Wearn - UH",
@@ -1779,7 +1942,8 @@
     "longitude": "-81.605721",
     "info": "",
     "open": false,
-    "category": "Medical"
+    "category": "Directory",
+    "deptMarker": "health"
   },
   {
     "name": "Western Reserve Historical Society",
@@ -1788,7 +1952,8 @@
     "longitude": "-81.61071",
     "info": "",
     "open": false,
-    "category": "Fun"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "White",
@@ -1797,7 +1962,8 @@
     "longitude": "-81.60746",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "CSE"
   },
   {
     "name": "Wickenden",
@@ -1806,7 +1972,8 @@
     "longitude": "-81.608452777778",
     "info": "",
     "open": false,
-    "category": "CSE"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Wolstein Hall",
@@ -1815,7 +1982,8 @@
     "longitude": "-81.60593999999999",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Wolstein Research Building",
@@ -1824,7 +1992,8 @@
     "longitude": "-81.603168",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Wood",
@@ -1833,7 +2002,8 @@
     "longitude": "-81.60465359687801",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Wood Research Tower",
@@ -1842,7 +2012,8 @@
     "longitude": "-81.605007648468",
     "info": "",
     "open": false,
-    "category": "Research"
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Squire Valleevue Farm - Chicken House (Green Barn)",
@@ -1851,7 +2022,8 @@
     "longitude": "-81.422805",
     "info": "",
     "open": false,
-    "category": ""
+    "category": "Directory",
+    "deptMarker": ""
   },
   {
     "name": "Village at 115 - House 3A",
@@ -1860,7 +2032,8 @@
     "longitude": "-81.60418689",
     "info": "",
     "open": false,
-    "category": "Housing"
+    "category": "Directory",
+    "deptMarker": "housing"
   },
   {
     "name": "Wyant Athletic and Wellness Center",
@@ -1869,7 +2042,8 @@
     "longitude": "-81.60341199999999",
     "info": "",
     "open": false,
-    "category": "Phys"
+    "category": "Directory",
+    "deptMarker": "phed"
   },
   {
     "name": "Yost Hall",
@@ -1878,6 +2052,17 @@
     "longitude": "-81.60897777777801",
     "info": "",
     "open": false,
-    "category": "Services"
+    "category": "Directory",
+    "deptMarker": ""
+  },
+  {
+    "name": "Chipotle",
+    "address": "11452 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.5105172746483",
+    "longitude": "-81.6039616",
+    "info": "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
   }
 ]
