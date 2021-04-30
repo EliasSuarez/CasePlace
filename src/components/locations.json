@@ -2064,5 +2064,125 @@
     "open": false,
     "category": "Food",
     "deptMarker": "food"
+  },
+  {
+    "name": "Algebra Tea House",
+    "address": "11452 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.50544770486578",
+    "longitude": "-81.59968407357933",
+    "info": "Quirky tea shop with beverages such as smoothies and shakes, plus Mediterranean inspired nibbles",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "Costco",
+    "address": "1409 Golden Gate Blvd, Cleveland, OH 44124",
+    "latitude": "41.541250324339345 ",
+    "longitude": "-81.44469236828783",
+    "info": "Bulk shopping and warehouse store; members only",
+    "open": false,
+    "category": "Shopping",
+    "deptMarker": "shopping"
+  },
+  {
+    "name": "Walmart",
+    "address": "1868 Warrensville Center Rd, South Euclid, OH 44121",
+    "latitude": "41.52926306302402",
+    "longitude": " -81.54357158040067",
+    "info": "It's Walmart",
+    "open": false,
+    "category": "Shopping",
+    "deptMarker": "shopping"
+  },
+  {
+    "name": "Aldi Grocery",
+    "address": "7500 Euclid Ave, Cleveland, OH 44103",
+    "latitude": "41.52858344446339 ",
+    "longitude": "-81.64107750146252",
+    "info": "Grocery chain",
+    "open": false,
+    "category": "Shopping",
+    "deptMarker": "shopping"
+  },
+  {
+    "name": "Murray Hill Market",
+    "address": "2072 Murray Hill Rd, Cleveland, OH 44106",
+    "latitude": "41.50686273629482",
+    "longitude": "-81.5982824159068",
+    "info": "Grocery and Sandwich shop",
+    "open": false,
+    "category": "Shopping",
+    "deptMarker": "shopping"
+  },
+  {
+    "name": "Tacologist",
+    "address": "11409 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.51013499005076",
+    "longitude": "-81.60524528465756",
+    "info": "Tacos, Tequila, Margaritas",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "Kenko",
+    "address": "11312 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.508415392254655",
+    "longitude": "-81.60569679390163",
+    "info": "Modern eatery with counter service for unique sushi rolls & made-to-order options, plus teriyaki",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "Chopstick Chinese Restaurant",
+    "address": "11332 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.50860237737879",
+    "longitude": "-81.6054304537158",
+    "info": "Counter-serve eatery dispensing soups, stir-fries & other takeout-style fare",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "BurgerIM",
+    "address": "11419 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.50952067426075",
+    "longitude": "-81.60506423596024",
+    "info": "Hamburger restaurant",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "BIBIBOP Asian Grill",
+    "address": "11431 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.50976167309461",
+    "longitude": "-81.60470356695859",
+    "info": "Asian fusion restaurant",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "Potbelly Sandwich Shop",
+    "address": "11425 Euclid Ave Unit 2, Cleveland, OH 44106",
+    "latitude": "41.50964948409391",
+    "longitude": "-81.60486448082088",
+    "info": "Retro-style counter-serve chain known for made-to-order toasted sandwiches, salads, and baked goods",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
+  },
+  {
+    "name": "Otani Noodle",
+    "address": "11472 Euclid Ave, Cleveland, OH 44106",
+    "latitude": "41.510148100410206",
+    "longitude": "-81.60349393856808",
+    "info": "Hip locale with communal setting for ramen, katsu, tempura, wings & other cooked Japanese fare",
+    "open": false,
+    "category": "Food",
+    "deptMarker": "food"
   }
 ]
