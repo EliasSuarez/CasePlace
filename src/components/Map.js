@@ -3,14 +3,18 @@ import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
 import Accordion from "./Accordion";
+import { FastFoodOutline, PinOutline, BandageOutline, BarbellOutline, SchoolOutline, BagHandleOutline, CarOutline, BusOutline } from 'react-ionicons'
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
   // #TODO: Clean up this file
   // #TODO: Change up categories - Discuss with group
 
-  const AnyReactComponent = ({ text }) => <div>{text}</div>;
-
+  const AnyReactComponent = ({ text }) => <PinOutline
+  color={cwruBlue} 
+  height="25px"
+  width="25px"
+  ></PinOutline>;
   const directory = places.map((data) => {
     //category - Directory
     if (data.category === ButtonTitle.CampusSeeking)
