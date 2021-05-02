@@ -14,22 +14,22 @@ function App() {
   const [showGuestSeekingModal, setShowGuestSeekingModal] = useState(false);
   const [showAccordion, setShowAccordion] = useState(true);
   const [locations, setLocations] = useState(PinData);
-  const [loc, setLoc] = useState("CSE");
+  const [loc, setLoc] = useState(ButtonTitle.CampusSeeking);
 
   useEffect(() => {
     // eslint-disable-next-line default-case
     switch (modalSelection) {
       case ButtonTitle.ProspyWelcome:
-        setShowProspySeekingModal(false);
+        setShowProspySeekingModal(true);
         break;
       case ButtonTitle.GuestWelcome:
-        setShowGuestSeekingModal(false);
+        setShowGuestSeekingModal(true);
         break;
       case ButtonTitle.CurrentStudentWelcome:
-        setShowStudentSeekingModal(false);
+        setShowStudentSeekingModal(true);
         break;
       case "Welcome":
-        setShowWelcomeModal(false);
+        setShowWelcomeModal(true);
         break;
       default:
         setLoc(modalSelection);

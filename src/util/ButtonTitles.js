@@ -1,8 +1,8 @@
 export const ProspyWelcome = "Parent or Prospective Student";
 export const GuestWelcome = "Guest";
 export const CurrentStudentWelcome = "Current Student";
-export const CampusSeeking = "Explore Campus";
-export const FoodSeeking = "Find Food";
+export const CampusSeeking = "Directory";
+export const FoodSeeking = "Food";
 export const DirectionsSeeking = "Directions";
 export const TransportationSeeking = "Find Transportation";
 export const CampusBuildingSeeking = "Campus Directory";

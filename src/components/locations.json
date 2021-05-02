@@ -277,7 +277,7 @@
     "info": "Southside dining hall",
     "open": false,
     "category": "Directory",
-    "deptMarker": "studentServices"
+    "deptMarker": "Student Services"
   },
   {
     "name": "Carlton Road 11920 - Guest House",
@@ -296,7 +296,7 @@
     "longitude": "-81.6096",
     "info": "",
     "open": false,
-    "category": "studentServices",
+    "category": "Student Services",
     "deptMarker": ""
   },
   {
@@ -306,7 +306,7 @@
     "longitude": "-81.61247",
     "info": "",
     "open": false,
-    "category": "studentServices",
+    "category": "Student Services",
     "deptMarker": ""
   },
   {
@@ -694,7 +694,7 @@
     "longitude": "-81.604981",
     "info": "",
     "open": false,
-    "category": "healthServices",
+    "category": "Health Services",
     "deptMarker": ""
   },
   {
@@ -714,7 +714,7 @@
     "longitude": "-81.608307",
     "info": "",
     "open": false,
-    "category": "studentServices",
+    "category": "Student Services",
     "deptMarker": ""
   },
   {
@@ -1572,7 +1572,7 @@
     "longitude": "-81.608183333333",
     "info": "",
     "open": false,
-    "category": "studentServices",
+    "category": "Student Services",
     "deptMarker": ""
   },
   {
@@ -1922,7 +1922,7 @@
     "longitude": "-81.60525",
     "info": "",
     "open": false,
-    "category": "studentServices",
+    "category": "Student Services",
     "deptMarker": ""
   },
   {
