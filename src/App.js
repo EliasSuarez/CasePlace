@@ -62,7 +62,7 @@ function App() {
 
       {showProspySeekingModal && (
         <ButtonModal
-          modalTitle={"What Would You Like to Do?"}
+          modalTitle={"What would you like to do?"}
           setShowModal={setShowProspySeekingModal}
           buttonTitles={[
             ButtonTitle.CampusSeeking,
@@ -92,7 +92,7 @@ function App() {
 
       {showGuestSeekingModal && (
         <ButtonModal
-          modalTitle={"What Would You Like to Do?"}
+          modalTitle={"What would you like to do?"}
           setShowModal={setShowGuestSeekingModal}
           buttonTitles={[
             ButtonTitle.CampusSeeking,
