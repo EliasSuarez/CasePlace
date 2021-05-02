@@ -2184,5 +2184,555 @@
     "open": false,
     "category": "Food",
     "deptMarker": "food"
+  },
+  {
+    "name": "BlueLink - Hazel and Magnolia",
+    "address": "",
+    "latitude": "41.51499039784703",
+    "longitude": "-81.60797222127144",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Magnolia West",
+    "address": "",
+    "latitude": "41.514551741685345",
+    "longitude": "-81.61050162121973",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - VA Medical Center",
+    "address": "",
+    "latitude": "41.51304473891856",
+    "longitude": "-81.61262999777964",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Museum of Natural History",
+    "address": "",
+    "latitude": "41.511489843997",
+    "longitude": "-81.61254431784093",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Museum of Art (Front Entrance)",
+    "address": "",
+    "latitude": "41.5096367530058644",
+    "longitude": "-81.6116068791566",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Botanical Garden/CWRU Law",
+    "address": "",
+    "latitude": "41.510674641457",
+    "longitude": "-81.6090919225172",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Ford and Juniper",
+    "address": "",
+    "latitude": "41.51146342554704",
+    "longitude": "-81.60886512282777",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Ford and Juniper",
+    "address": "",
+    "latitude": "41.512956936953316",
+    "longitude": "-81.60873050044697",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Ford and Bellflower",
+    "address": "",
+    "latitude": "41.51020931382953",
+    "longitude": "-81.60743231124466",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Ford and Hessler",
+    "address": "",
+    "latitude": "41.509470167232294",
+    "longitude": "-81.60613412209833",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Uptown/Ford Garage",
+    "address": "",
+    "latitude": "41.50923717362569",
+    "longitude": "-81.60603756258065",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and Circle Drive (West)",
+    "address": "",
+    "latitude": "41.50870032475597",
+    "longitude": "-81.6026705561586",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and Circle Drive (East)",
+    "address": "",
+    "latitude": "41.508575792313835",
+    "longitude": "-81.60266519174095",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Little Italy Rapid (West)",
+    "address": "",
+    "latitude": "41.50870480518083",
+    "longitude": "-81.60013011713838",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Little Italy Rapid (East)",
+    "address": "",
+    "latitude": "41.50858428992635",
+    "longitude": "-81.60002819320309",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and E. 124",
+    "address": "",
+    "latitude": "41.508728908204354",
+    "longitude": "-81.59620336319333",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and E. 126",
+    "address": "",
+    "latitude": "41.508596341461455",
+    "longitude": "-81.5959244134757",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and Kenilworth",
+    "address": "",
+    "latitude": "41.5086873317594",
+    "longitude": "-81.58851502085285",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Lakeview Cemetary",
+    "address": "",
+    "latitude": "41.50891229302825",
+    "longitude": "-81.58765134961162",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and Hampshire (West)",
+    "address": "",
+    "latitude": "41.510157352535096",
+    "longitude": "-81.58434982606053",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and Hampshire (East)",
+    "address": "",
+    "latitude": "41.51017743793839",
+    "longitude": "-81.58391530823113",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Mayfield and Coventry (West)",
+    "address": "",
+    "latitude": "41.51170000337981",
+    "longitude": "-81.58032986003757",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Coventry and Hampshire",
+    "address": "",
+    "latitude": "41.51077609010924",
+    "longitude": "-81.5800616391552",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Coventry Parking Garage",
+    "address": "",
+    "latitude": "41.50993592764609",
+    "longitude": "-81.57990220071542",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "BlueLink - Coventry and Euclid Heights",
+    "address": "",
+    "latitude": "41.50866780000544",
+    "longitude": "-81.579917320721992",
+    "info": "BlueLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "BlueLink"
+  },
+  {
+    "name": "GreenLink - Cedar Rapid Station (Upper)",
+    "address": "",
+    "latitude": "41.50034340948425",
+    "longitude": "-81.60457210495953",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Murray Hill Road",
+    "address": "",
+    "latitude": "41.50191778593077",
+    "longitude": "-81.60331365971699",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - CWRU SRV/Murray Hill Road",
+    "address": "",
+    "latitude": "41.50155319963591",
+    "longitude": "-81.60329517341785",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - 1-2-1 Fitness/Veale",
+    "address": "",
+    "latitude": "41.50155319963591",
+    "longitude": "-81.60329517341785",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - 1-2-1 Fitness/Veale",
+    "address": "",
+    "latitude": "41.503486868096914",
+    "longitude": "-81.60566758194035",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Rainbow Babies Hospital",
+    "address": "",
+    "latitude": "41.504169868459826",
+    "longitude": "-81.60649946546437",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - CWRU Quad (DeGrace Hall)",
+    "address": "",
+    "latitude": "41.50467749918868",
+    "longitude": "-81.60736215942408",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - CWRU Quad (Adelbert Hall)",
+    "address": "",
+    "latitude": "41.50467749918868",
+    "longitude": "-81.60736215942408",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - University Hospital",
+    "address": "",
+    "latitude": "41.50575735498133",
+    "longitude": "-81.60887187396844",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Severance Hall",
+    "address": "",
+    "latitude": "41.506876017463283",
+    "longitude": "-81.61024906232774",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Museum of Art (Rear)",
+    "address": "",
+    "latitude": "41.50810091894019",
+    "longitude": "-81.61071639612902",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Tinkham Veale",
+    "address": "",
+    "latitude": "41.50878140973956",
+    "longitude": "-81.60866099286946",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Bellflower and Ford",
+    "address": "",
+    "latitude": "41.509990073385296",
+    "longitude": "-81.60726331866033",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Hessler Court",
+    "address": "",
+    "latitude": "41.51120791901517",
+    "longitude": "-81.60561653489084",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - CWRU NRV South",
+    "address": "",
+    "latitude": "41.51276324141145",
+    "longitude": "-81.60463859559799",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Ford and Juniper",
+    "address": "",
+    "latitude": "41.5114373310389",
+    "longitude": "-81.60888946565684",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - Juniper Dorms",
+    "address": "",
+    "latitude": "41.51248503595945",
+    "longitude": "-81.60664703578924",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - CWRU NRV South",
+    "address": "",
+    "latitude": "41.51248503595945",
+    "longitude": "-81.60664703578924",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "GreenLink - CWRU NRV North",
+    "address": "",
+    "latitude": "41.51455874994675",
+    "longitude": "-81.60480799074875",
+    "info": "GreenLink Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "GreenLink"
+  },
+  {
+    "name": "Nursing - Ford and Juniper (NL)",
+    "address": "",
+    "latitude": "41.511028985722966",
+    "longitude": "-81.60836815124372",
+    "info": "Nursing Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Nursing"
+  },
+  {
+    "name": "Nursing - KSL East",
+    "address": "",
+    "latitude": "41.507531587850295",
+    "longitude": "-81.61067754323354",
+    "info": "Nursing Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Nursing"
+  },
+  {
+    "name": "Nursing - CWRU Quad/Adelbert Hall",
+    "address": "",
+    "latitude": "41.50521855621172",
+    "longitude": "-81.60813367745756",
+    "info": "Nursing Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Nursing"
+  },
+  {
+    "name": "Nursing - 1-2-1 Fitness/Vealue",
+    "address": "",
+    "latitude": "41.503134992250814",
+    "longitude": "-81.60521840733935",
+    "info": "Nursing Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Nursing"
+  },
+  {
+    "name": "Nursing - Fribley/Murray Hill",
+    "address": "",
+    "latitude": "41.50097552613082",
+    "longitude": "-81.60325263253992",
+    "info": "Nursing Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Nursing"
+  },
+  {
+    "name": "Nursing - HEC",
+    "address": "",
+    "latitude": "41.504775666896144",
+    "longitude": "-81.61846485747985",
+    "info": "Nursing Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Nursing"
+  },
+  {
+    "name": "Route B - Seidman Cancer Center",
+    "address": "",
+    "latitude": "41.50698209206649",
+    "longitude": "-81.60616323587465",
+    "info": "Route B Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Route B"
+  },
+  {
+    "name": "Route B - Lerner Tower",
+    "address": "",
+    "latitude": "41.50646386109149",
+    "longitude": "-81.60575017571583",
+    "info": "Route B Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Route B"
+  },
+  {
+    "name": "Route B - Outpatient Entrance",
+    "address": "",
+    "latitude": "41.50747621541944",
+    "longitude": "-81.60529420017718",
+    "info": "Route B Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Route B"
+  },
+  {
+    "name": "Route B - Lot 59",
+    "address": "",
+    "latitude": "41.50602999009801",
+    "longitude": "-81.60258516916508",
+    "info": "Route B Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Route B"
+  },
+  {
+    "name": "Route B - Lot 61",
+    "address": "",
+    "latitude": "41.50798190401768",
+    "longitude": "-81.60233545784817",
+    "info": "Route B Bustop",
+    "open": false,
+    "category": "Transportation",
+    "deptMarker": "Route B"
   }
 ]
