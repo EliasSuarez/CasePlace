@@ -60,6 +60,17 @@ const Map = ({ loc, setLoc }) => {
       );
   });
 
+  const transportation = places.map((data) => {
+    if (data.category === ButtonTitle.TransportationSeeking)
+      return (
+          <AnyReactComponent
+              lat={data.latitude}
+              lng={data.longitude}
+              text={data.name}
+          />
+      );
+  });
+
   const radioHandle = (event) => {
     setLoc(event.target.value);
     // #TODO: Use this to set initial radio button???
@@ -78,6 +89,7 @@ const Map = ({ loc, setLoc }) => {
         {/*Category Health Services*/}
         <input type="radio" value={ButtonTitle.HealthServicesSeeking} name="select" /> Health Services
         {/*Add a button for Category Research  */}
+        <input type="radio" value={ButtonTitle.TransportationSeeking} name="select" /> Transportation
       </div>
       <div style={{ height: "100vh", width: "100%" }}>
         {/*#TODO: Hide API key*/}
@@ -90,6 +102,7 @@ const Map = ({ loc, setLoc }) => {
           {loc === ButtonTitle.FoodSeeking && food}
           {loc === ButtonTitle.StudentServicesSeeking && studentServices}
           {loc === ButtonTitle.HealthServicesSeeking && healthServices}
+          {loc === ButtonTitle.TransportationSeeking && transportation}
         </GoogleMapReact>
         <Accordion pins={places?.filter((x) => x.category === loc)} />
       </div>
