@@ -3,23 +3,53 @@ import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
 import Accordion from "./Accordion";
-import { FastFoodOutline, PinOutline, BandageOutline, BarbellOutline, SchoolOutline, BagHandleOutline, CarOutline, BusOutline } from 'react-ionicons'
+import { FastFood, Pin, Bandage, Bed, Barbell, School, BagHandle, Car, Bus } from 'react-ionicons'
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
   // #TODO: Clean up this file
   // #TODO: Change up categories - Discuss with group
-
+  
   //const AnyReactComponent = ({ text }) => <PinOutline
  // ></PinOutline>;
   const directory = places.map((data) => {
     //category - Directory
-    if (data.category === ButtonTitle.CampusSeeking)
+    if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "")
       return (
-        <SchoolOutline
+        <Pin
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "housing")
+      return (
+        <Bed
+          lat={data.latitude}
+          lng={data.longitude}
+          color= {cwruBlue}
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CAS")
+      return (
+        <School
+          lat={data.latitude}
+          lng={data.longitude}
+          color={'green'} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CSE")
+      return (
+        <School
+          lat={data.latitude}
+          lng={data.longitude}
+          color={'red'} 
           height="25px"
           width="25px"
         />
@@ -29,7 +59,7 @@ const Map = ({ loc, setLoc }) => {
   const food = places.map((data) => {
     if (data.category === ButtonTitle.FoodSeeking)
       return (
-        <FastFoodOutline
+        <FastFood
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
@@ -42,7 +72,7 @@ const Map = ({ loc, setLoc }) => {
   const studentServices = places.map((data) => {
     if (data.category === ButtonTitle.StudentServicesSeeking)
       return (
-        <SchoolOutline
+        <School
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
@@ -55,7 +85,7 @@ const Map = ({ loc, setLoc }) => {
   const healthServices = places.map((data) => {
     if (data.category === ButtonTitle.HealthServicesSeeking)
       return (
-        <BandageOutline
+        <Bandage
         lat={data.latitude}
         lng={data.longitude}
         color={cwruBlue} 
@@ -68,7 +98,7 @@ const Map = ({ loc, setLoc }) => {
   const transportation = places.map((data) => {
     if (data.category === ButtonTitle.TransportationSeeking)
       return (
-        <BusOutline
+        <Bus
         lat={data.latitude}
         lng={data.longitude}
         color={cwruBlue} 
