@@ -72,20 +72,37 @@ const Map = ({ loc, setLoc }) => {
     // #TODO: Use this to set initial radio button???
   };
 
+  const radioDiv = {
+    fontSize: '24px',
+    color: 'white',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    background: '#0A304E',
+  };
+
+  const radios = {
+    color: 'white',
+    marginRight: '12px',
+    marginLeft: '2px'
+  };
+
+
   return (
     <div>
-      <div onChange={radioHandle}>
+      <div onChange={radioHandle} style={radioDiv}>
         {/* #TODO: Connect the rest of these buttons */}
         {/*Category Directory*/}
-        <input type="radio" value={ButtonTitle.CampusSeeking} name="select" /> Directory
+
+        <input type="radio" value={ButtonTitle.CampusSeeking} name="select" /> <text style={radios}> Directory  </text>
         {/*Category: Food*/}
-        <input type="radio" value={ButtonTitle.FoodSeeking} name="select" /> Food
+        <input type="radio" value={ButtonTitle.FoodSeeking} name="select" /> <text style={radios}> Food  </text>
         {/*Category Student Services*/}
-        <input type="radio" value={ButtonTitle.StudentServicesSeeking} name="select" /> Student Services
+        <input type="radio" value={ButtonTitle.StudentServicesSeeking} name="select"/>  <text style={radios}> Student Services </text>
         {/*Category Health Services*/}
-        <input type="radio" value={ButtonTitle.HealthServicesSeeking} name="select" /> Health Services
+        <input type="radio" value={ButtonTitle.HealthServicesSeeking} name="select"/> <text style={radios}>Health Services</text>
         {/*Add a button for Category Research  */}
-        <input type="radio" value={ButtonTitle.TransportationSeeking} name="select" /> Transportation
+        <input type="radio" value={ButtonTitle.TransportationSeeking} name="select" /> <text style={radios}>Transportation</text>
       </div>
       <div style={{ height: "100vh", width: "100%" }}>
         {/*#TODO: Hide API key*/}
