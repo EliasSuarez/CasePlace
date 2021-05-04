@@ -10,19 +10,18 @@ const Map = ({ loc, setLoc }) => {
   // #TODO: Clean up this file
   // #TODO: Change up categories - Discuss with group
 
-  const AnyReactComponent = ({ text }) => <PinOutline
-  color={cwruBlue} 
-  height="25px"
-  width="25px"
-  ></PinOutline>;
+  //const AnyReactComponent = ({ text }) => <PinOutline
+ // ></PinOutline>;
   const directory = places.map((data) => {
     //category - Directory
     if (data.category === ButtonTitle.CampusSeeking)
       return (
-        <AnyReactComponent
+        <SchoolOutline
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
   });
@@ -30,10 +29,12 @@ const Map = ({ loc, setLoc }) => {
   const food = places.map((data) => {
     if (data.category === ButtonTitle.FoodSeeking)
       return (
-        <AnyReactComponent
+        <FastFoodOutline
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
   });
@@ -41,10 +42,12 @@ const Map = ({ loc, setLoc }) => {
   const studentServices = places.map((data) => {
     if (data.category === ButtonTitle.StudentServicesSeeking)
       return (
-        <AnyReactComponent
+        <SchoolOutline
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
   });
@@ -52,22 +55,26 @@ const Map = ({ loc, setLoc }) => {
   const healthServices = places.map((data) => {
     if (data.category === ButtonTitle.HealthServicesSeeking)
       return (
-          <AnyReactComponent
-              lat={data.latitude}
-              lng={data.longitude}
-              text={data.name}
-          />
+        <BandageOutline
+        lat={data.latitude}
+        lng={data.longitude}
+        color={cwruBlue} 
+        height="25px"
+        width="25px"
+      />
       );
   });
 
   const transportation = places.map((data) => {
     if (data.category === ButtonTitle.TransportationSeeking)
       return (
-          <AnyReactComponent
-              lat={data.latitude}
-              lng={data.longitude}
-              text={data.name}
-          />
+        <BusOutline
+        lat={data.latitude}
+        lng={data.longitude}
+        color={cwruBlue} 
+        height="25px"
+        width="25px"
+      />
       );
   });
 
