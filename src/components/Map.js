@@ -78,10 +78,11 @@ const Map = ({ loc, setLoc }) => {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    background: '#0A304E',
+    background: cwruBlue,
   };
 
   const radios = {
+    fontWeight: "400",
     color: 'white',
     marginRight: '12px',
     marginLeft: '2px'
