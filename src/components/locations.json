@@ -2248,16 +2248,6 @@
   {
     "name": "BlueLink - Ford and Juniper",
     "address": "",
-    "latitude": "41.51146342554704",
-    "longitude": "-81.60886512282777",
-    "info": "BlueLink Bustop",
-    "open": false,
-    "category": "Find Transportation",
-    "deptMarker": "BlueLink"
-  },
-  {
-    "name": "BlueLink - Ford and Juniper",
-    "address": "",
     "latitude": "41.512956936953316",
     "longitude": "-81.60873050044697",
     "info": "BlueLink Bustop",
@@ -2468,16 +2458,6 @@
   {
     "name": "GreenLink - 1-2-1 Fitness/Veale",
     "address": "",
-    "latitude": "41.50155319963591",
-    "longitude": "-81.60329517341785",
-    "info": "GreenLink Bustop",
-    "open": false,
-    "category": "Find Transportation",
-    "deptMarker": "GreenLink"
-  },
-  {
-    "name": "GreenLink - 1-2-1 Fitness/Veale",
-    "address": "",
     "latitude": "41.503486868096914",
     "longitude": "-81.60566758194035",
     "info": "GreenLink Bustop",
@@ -2597,16 +2577,6 @@
   },
   {
     "name": "GreenLink - Juniper Dorms",
-    "address": "",
-    "latitude": "41.51248503595945",
-    "longitude": "-81.60664703578924",
-    "info": "GreenLink Bustop",
-    "open": false,
-    "category": "Find Transportation",
-    "deptMarker": "GreenLink"
-  },
-  {
-    "name": "GreenLink - CWRU NRV South",
     "address": "",
     "latitude": "41.51248503595945",
     "longitude": "-81.60664703578924",

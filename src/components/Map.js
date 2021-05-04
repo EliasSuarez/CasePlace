@@ -3,6 +3,7 @@ import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
 import Accordion from "./Accordion";
+import "../styles/Radio.scss";
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
@@ -72,38 +73,21 @@ const Map = ({ loc, setLoc }) => {
     // #TODO: Use this to set initial radio button???
   };
 
-  const radioDiv = {
-    fontSize: '24px',
-    color: 'white',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    background: cwruBlue,
-  };
-
-  const radios = {
-    fontWeight: "400",
-    color: 'white',
-    marginRight: '12px',
-    marginLeft: '2px'
-  };
-
-
   return (
     <div>
-      <div onChange={radioHandle} style={radioDiv}>
+      <div className="radioDiv" onChange={radioHandle} >
         {/* #TODO: Connect the rest of these buttons */}
         {/*Category Directory*/}
-
-        <input type="radio" value={ButtonTitle.CampusSeeking} name="select" /> <text style={radios}> Directory  </text>
+        <input className="button" type="radio" value={ButtonTitle.CampusSeeking} name="select" /> <text className="radios"> Directory  </text>
         {/*Category: Food*/}
-        <input type="radio" value={ButtonTitle.FoodSeeking} name="select" /> <text style={radios}> Food  </text>
+        <input type="radio" value={ButtonTitle.FoodSeeking} name="select" /> <text className="radios"> Food  </text>
         {/*Category Student Services*/}
-        <input type="radio" value={ButtonTitle.StudentServicesSeeking} name="select"/>  <text style={radios}> Student Services </text>
+        <input type="radio" value={ButtonTitle.StudentServicesSeeking} name="select"/>  <text className="radios"> Student Services </text>
         {/*Category Health Services*/}
-        <input type="radio" value={ButtonTitle.HealthServicesSeeking} name="select"/> <text style={radios}>Health Services</text>
+        <input type="radio" value={ButtonTitle.HealthServicesSeeking} name="select"/> <text className="radios">Health Services</text>
+        {/*Category Transportation*/}
+        <input type="radio" value={ButtonTitle.TransportationSeeking} name="select" /> <text className="radios">Transportation</text>
         {/*Add a button for Category Research  */}
-        <input type="radio" value={ButtonTitle.TransportationSeeking} name="select" /> <text style={radios}>Transportation</text>
       </div>
       <div style={{ height: "100vh", width: "100%" }}>
         {/*#TODO: Hide API key*/}
