@@ -18,7 +18,6 @@ function App() {
 
   useEffect(() => {
     // eslint-disable-next-line default-case
-    document.title = "Case Place"
     switch (modalSelection) {
       case ButtonTitle.ProspyWelcome:
         setShowProspySeekingModal(true);
