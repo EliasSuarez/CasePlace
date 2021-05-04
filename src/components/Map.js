@@ -3,7 +3,7 @@ import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
 import Accordion from "./Accordion";
-import { FastFood, Pin, Bandage, Bed, Barbell, School, BagHandle, Car, Bus } from 'react-ionicons'
+import { FastFood, Pin, Bandage, Home, Barbell, School, BagHandle, Car, Bus } from 'react-ionicons'
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
@@ -26,7 +26,7 @@ const Map = ({ loc, setLoc }) => {
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "housing")
       return (
-        <Bed
+        <Home
           lat={data.latitude}
           lng={data.longitude}
           color= {cwruBlue}
@@ -50,6 +50,36 @@ const Map = ({ loc, setLoc }) => {
           lat={data.latitude}
           lng={data.longitude}
           color={'red'} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "phed")
+      return (
+        <Barbell
+          lat={data.latitude}
+          lng={data.longitude}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "health")
+      return (
+        <Bandage
+          lat={data.latitude}
+          lng={data.longitude}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "business")
+      return (
+        <School
+          lat={data.latitude}
+          lng={data.longitude}
+          color={cwruBlue} 
           height="25px"
           width="25px"
         />
