@@ -15,6 +15,7 @@ const Map = ({ loc, setLoc }) => {
       <h1 className ={"toolTipName"}>{name}</h1>
       <p className={"toolTipAddress"}>{address}</p>
       <p className={"toolTipInfo"}>{info}</p>
+      <p className={"toolTipLink"}>LINK</p>
     </div>;
   
   const directory = places.map((data) => {

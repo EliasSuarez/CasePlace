@@ -2,28 +2,47 @@
     width: fit-content;
     min-width: 300px;
     height: fit-content;
-    background-color:#0A304E;
+    background-color:#C4C4C4;
     padding: 10px;
     border-radius: 24px;
     position: relative;
-    right: 50px;
-    top: 15px;
+    right: 51px;
+    top: 5px;
+    box-shadow: 7px 7px;
+    z-index: 100;
 };
+
+.toolTip::after {
+    content: " ";
+    position: absolute;
+    bottom: 100%;  /* At the top of the tooltip */
+    left: 20%;
+    margin-left: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent #0A304E transparent;
+  }
 
 .toolTipName {
     font-size: 15px;
-    color:#C4C4C4;
+    color:#0A304E;
     text-align: left;
 };
 
 .toolTipAddress {
     font-size: 15px;
-    color:#C4C4C4;
+    color:#0A304E;
     text-align: left;
 }
 
 .toolTipInfo {
     font-size: 15px;
-    color:#C4C4C4;
+    color:#0A304E;
+    text-align: left;
+}
+
+.toolTipLink {
+    font-size: 15px;
+    color:#0A304E;
     text-align: left;
 }
