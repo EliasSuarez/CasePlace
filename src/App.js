@@ -79,7 +79,7 @@ function App() {
           modalTitle={"I'm looking for"}
           setShowModal={setShowStudentSeekingModal}
           buttonTitles={[
-            ButtonTitle.CampusBuildingSeeking,
+            ButtonTitle.CampusSeeking,
             ButtonTitle.ClubsSeeking,
             ButtonTitle.HealthServicesSeeking,
             ButtonTitle.StudentServicesSeeking,

@@ -7,11 +7,24 @@ import { FastFood, Pin, Bandage, Home, Barbell, School, BagHandle, Car, Bus } fr
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
-  // #TODO: Clean up this file
-  // #TODO: Change up categories - Discuss with group
+  const ToolTip = ({name, address, info}) => <div>
+    <h1>{name}</h1>
+    <h2>{address}</h2>
+    <p>{info}</p>
+    </div>;
   
-  //const AnyReactComponent = ({ text }) => <PinOutline
- // ></PinOutline>;
+  const showToolTip = (longitude, latitude, name, address, info) =>  {
+    return (
+      <ToolTip
+        lat = {latitude}
+        lng = {longitude}
+        name = {name}
+        address = {address}
+        info = {info}
+      ></ToolTip>
+    )
+  }
+
   const directory = places.map((data) => {
     //category - Directory
     if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "")
@@ -22,6 +35,7 @@ const Map = ({ loc, setLoc }) => {
           color={cwruBlue} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "housing")
@@ -32,6 +46,7 @@ const Map = ({ loc, setLoc }) => {
           color= {cwruBlue}
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CAS")
@@ -42,6 +57,7 @@ const Map = ({ loc, setLoc }) => {
           color={'green'} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CSE")
@@ -52,6 +68,7 @@ const Map = ({ loc, setLoc }) => {
           color={'red'} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "phed")
@@ -62,6 +79,7 @@ const Map = ({ loc, setLoc }) => {
           color={cwruBlue} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "health")
@@ -72,6 +90,7 @@ const Map = ({ loc, setLoc }) => {
           color={cwruBlue} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "business")
@@ -82,6 +101,7 @@ const Map = ({ loc, setLoc }) => {
           color={cwruBlue} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
   });
@@ -95,6 +115,7 @@ const Map = ({ loc, setLoc }) => {
           color={cwruBlue} 
           height="25px"
           width="25px"
+          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
   });
@@ -108,6 +129,7 @@ const Map = ({ loc, setLoc }) => {
           color={cwruBlue} 
           height="25px"
           width="25px"
+          onClick = {showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
         />
       );
   });
@@ -121,6 +143,7 @@ const Map = ({ loc, setLoc }) => {
         color={cwruBlue} 
         height="25px"
         width="25px"
+        onClick = {showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
       />
       );
   });
@@ -134,6 +157,7 @@ const Map = ({ loc, setLoc }) => {
         color={cwruBlue} 
         height="25px"
         width="25px"
+        onClick = {showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
       />
       );
   });
