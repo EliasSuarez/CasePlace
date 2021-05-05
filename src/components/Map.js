@@ -15,7 +15,7 @@ const Map = ({ loc, setLoc }) => {
       <h1 className ={"toolTipName"}>{name}</h1>
       <p className={"toolTipAddress"}>{address}</p>
       <p className={"toolTipInfo"}>{info}</p>
-      <p className={"toolTipLink"}>LINK</p>
+      <a href={"https://www.google.com/maps/search/?api=1&query=cwru+" + name.replace(' ', '+')}>See in Google Maps</a>
     </div>;
   
   const directory = places.map((data) => {
