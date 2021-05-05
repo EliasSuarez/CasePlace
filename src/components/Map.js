@@ -3,108 +3,139 @@ import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
 import Accordion from "./Accordion";
+import "../styles/Radio.scss";
+import { FastFood, Pin, Bandage, Home, Barbell, School, BagHandle, Car, Bus } from 'react-ionicons'
 
 const Map = ({ loc, setLoc }) => {
   const cwruBlue = "#0A304E";
   // #TODO: Clean up this file
   // #TODO: Change up categories - Discuss with group
-
-  const AnyReactComponent = ({ text }) => <div>{text}</div>;
-  const locations = places.map((data) => {
-    return (
-      <AnyReactComponent
-        lat={data.latitude}
-        lng={data.longitude}
-        text={data.name}
-      />
-    );
-  });
-
-  const engineering = places.map((data) => {
-    if (data.category === "CSE")
+  
+  //const AnyReactComponent = ({ text }) => <PinOutline
+ // ></PinOutline>;
+  const directory = places.map((data) => {
+    //category - Directory
+    if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "")
       return (
-        <AnyReactComponent
+        <Pin
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
-  });
-
-  const business = places.map((data) => {
-    if (data.category === "Business")
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "housing")
       return (
-        <AnyReactComponent
+        <Home
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color= {cwruBlue}
+          height="25px"
+          width="25px"
         />
       );
-  });
-
-  const arts = places.map((data) => {
-    if (data.category === "CAS")
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CAS")
       return (
-        <AnyReactComponent
+        <School
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={'green'} 
+          height="25px"
+          width="25px"
         />
       );
-  });
-
-  const housing = places.map((data) => {
-    if (data.category === "Housing")
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CSE")
       return (
-        <AnyReactComponent
+        <School
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={'red'} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "phed")
+      return (
+        <Barbell
+          lat={data.latitude}
+          lng={data.longitude}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "health")
+      return (
+        <Bandage
+          lat={data.latitude}
+          lng={data.longitude}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
+        />
+      );
+      if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "business")
+      return (
+        <School
+          lat={data.latitude}
+          lng={data.longitude}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
   });
 
   const food = places.map((data) => {
-    if (data.category === "Food")
+    if (data.category === ButtonTitle.FoodSeeking)
       return (
-        <AnyReactComponent
+        <FastFood
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
   });
 
-  const medical = places.map((data) => {
-    if (data.category === "Medical")
+  const studentServices = places.map((data) => {
+    if (data.category === ButtonTitle.StudentServicesSeeking)
       return (
-        <AnyReactComponent
+        <School
           lat={data.latitude}
           lng={data.longitude}
-          text={data.name}
+          color={cwruBlue} 
+          height="25px"
+          width="25px"
         />
       );
   });
 
-  const phys = places.map((data) => {
-    if (data.category === "Phys")
+  const healthServices = places.map((data) => {
+    if (data.category === ButtonTitle.HealthServicesSeeking)
       return (
-        <AnyReactComponent
-          lat={data.latitude}
-          lng={data.longitude}
-          text={data.name}
-        />
+        <Bandage
+        lat={data.latitude}
+        lng={data.longitude}
+        color={cwruBlue} 
+        height="25px"
+        width="25px"
+      />
       );
   });
 
-  const services = places.map((data) => {
-    if (data.category === "Services")
+  const transportation = places.map((data) => {
+    if (data.category === ButtonTitle.TransportationSeeking)
       return (
-        <AnyReactComponent
-          lat={data.latitude}
-          lng={data.longitude}
-          text={data.name}
-        />
+        <Bus
+        lat={data.latitude}
+        lng={data.longitude}
+        color={cwruBlue} 
+        height="25px"
+        width="25px"
+      />
       );
   });
 
@@ -115,24 +146,19 @@ const Map = ({ loc, setLoc }) => {
 
   return (
     <div>
-      {/*<div style={{backgroundColor: cwruBlue}}>*/}
-      {/*    <customRadioButton inValue={"Test"} inName = {"select"} inSetLoc ={setLoc}></customRadioButton> Test*/}
-      {/*</div>*/}
-      <div onChange={radioHandle}>
+      <div className="radioDiv" onChange={radioHandle} >
         {/* #TODO: Connect the rest of these buttons */}
-        <input type="radio" value="Housing" name="select" /> Housing
-        <input
-          type="radio"
-          value={ButtonTitle.FoodSeeking}
-          name="select"
-        />{" "}
-        Food
-        <input type="radio" value="Medical" name="select" /> Medical
-        <input type="radio" value="Phys" name="select" /> Phys
-        <input type="radio" value="Services" name="select" /> Services
-        <input type="radio" value="Business" name="select" /> Business
-        <input type="radio" value="CSE" name="select" /> Engineering
-        <input type="radio" value="CAS" name="select" /> Arts and Sciences
+        {/*Category Directory*/}
+        <input className="button" type="radio" value={ButtonTitle.CampusSeeking} name="select" /> <text className="radios"> Directory  </text>
+        {/*Category: Food*/}
+        <input type="radio" value={ButtonTitle.FoodSeeking} name="select" /> <text className="radios"> Food  </text>
+        {/*Category Student Services*/}
+        <input type="radio" value={ButtonTitle.StudentServicesSeeking} name="select"/>  <text className="radios"> Student Services </text>
+        {/*Category Health Services*/}
+        <input type="radio" value={ButtonTitle.HealthServicesSeeking} name="select"/> <text className="radios">Health Services</text>
+        {/*Category Transportation*/}
+        <input type="radio" value={ButtonTitle.TransportationSeeking} name="select" /> <text className="radios">Transportation</text>
+        {/*Add a button for Category Research  */}
       </div>
       <div style={{ height: "100vh", width: "100%" }}>
         {/*#TODO: Hide API key*/}
@@ -141,15 +167,11 @@ const Map = ({ loc, setLoc }) => {
           defaultCenter={{ lat: 41.508186, lng: -81.608665 }}
           defaultZoom={17}
         >
-          {loc === "All" && locations}
-          {loc === "CSE" && engineering}
-          {loc === "Business" && business}
-          {loc === "CAS" && arts}
-          {loc === "Housing" && housing}
+          {loc === ButtonTitle.CampusSeeking && directory}
           {loc === ButtonTitle.FoodSeeking && food}
-          {loc === "Medical" && medical}
-          {loc === "Phys" && phys}
-          {loc === "Services" && services}
+          {loc === ButtonTitle.StudentServicesSeeking && studentServices}
+          {loc === ButtonTitle.HealthServicesSeeking && healthServices}
+          {loc === ButtonTitle.TransportationSeeking && transportation}
         </GoogleMapReact>
         <Accordion pins={places?.filter((x) => x.category === loc)} />
       </div>

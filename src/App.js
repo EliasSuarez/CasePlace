@@ -14,22 +14,22 @@ function App() {
   const [showGuestSeekingModal, setShowGuestSeekingModal] = useState(false);
   const [showAccordion, setShowAccordion] = useState(true);
   const [locations, setLocations] = useState(PinData);
-  const [loc, setLoc] = useState("CSE");
+  const [loc, setLoc] = useState(ButtonTitle.CampusSeeking);
 
   useEffect(() => {
     // eslint-disable-next-line default-case
     switch (modalSelection) {
       case ButtonTitle.ProspyWelcome:
-        setShowProspySeekingModal(false);
+        setShowProspySeekingModal(true);
         break;
       case ButtonTitle.GuestWelcome:
-        setShowGuestSeekingModal(false);
+        setShowGuestSeekingModal(true);
         break;
       case ButtonTitle.CurrentStudentWelcome:
-        setShowStudentSeekingModal(false);
+        setShowStudentSeekingModal(true);
         break;
       case "Welcome":
-        setShowWelcomeModal(false);
+        setShowWelcomeModal(true);
         break;
       default:
         setLoc(modalSelection);
@@ -62,7 +62,7 @@ function App() {
 
       {showProspySeekingModal && (
         <ButtonModal
-          modalTitle={"What Would You Like to Do?"}
+          modalTitle={"What would you like to do?"}
           setShowModal={setShowProspySeekingModal}
           buttonTitles={[
             ButtonTitle.CampusSeeking,
@@ -92,7 +92,7 @@ function App() {
 
       {showGuestSeekingModal && (
         <ButtonModal
-          modalTitle={"What Would You Like to Do?"}
+          modalTitle={"What would you like to do?"}
           setShowModal={setShowGuestSeekingModal}
           buttonTitles={[
             ButtonTitle.CampusSeeking,
