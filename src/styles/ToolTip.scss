@@ -1,0 +1,29 @@
+.toolTip {
+    width: fit-content;
+    min-width: 300px;
+    height: fit-content;
+    background-color:#0A304E;
+    padding: 10px;
+    border-radius: 24px;
+    position: relative;
+    right: 50px;
+    top: 15px;
+};
+
+.toolTipName {
+    font-size: 15px;
+    color:#C4C4C4;
+    text-align: left;
+};
+
+.toolTipAddress {
+    font-size: 15px;
+    color:#C4C4C4;
+    text-align: left;
+}
+
+.toolTipInfo {
+    font-size: 15px;
+    color:#C4C4C4;
+    text-align: left;
+}

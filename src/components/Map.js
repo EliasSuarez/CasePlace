@@ -3,16 +3,20 @@ import places from "./locations.json";
 import GoogleMapReact from "google-map-react";
 import * as ButtonTitle from "../util/ButtonTitles.js";
 import Accordion from "./Accordion";
+import "../styles/ToolTip.scss"
 import { FastFood, Pin, Bandage, Home, Barbell, School, BagHandle, Car, Bus } from 'react-ionicons'
 
 const Map = ({ loc, setLoc }) => {
   const [currentToolTip, setCurrentToolTip] = React.useState(null);
   const cwruBlue = "#0A304E";
-  const ToolTip = ({name, address, info}) => <div>
-    <h1>{name}</h1>
-    <h2>{address}</h2>
-    <p>{info}</p>
+  
+  const ToolTip = ({name, address, info}) => 
+    <div className ={"toolTip"}>
+      <h1 className ={"toolTipName"}>{name}</h1>
+      <p className={"toolTipAddress"}>{address}</p>
+      <p className={"toolTipInfo"}>{info}</p>
     </div>;
+  
   const directory = places.map((data) => {
     //category - Directory
     if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "")
