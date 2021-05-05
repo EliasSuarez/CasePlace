@@ -6,159 +6,281 @@ import Accordion from "./Accordion";
 import { FastFood, Pin, Bandage, Home, Barbell, School, BagHandle, Car, Bus } from 'react-ionicons'
 
 const Map = ({ loc, setLoc }) => {
+  const [currentToolTip, setCurrentToolTip] = React.useState(null);
   const cwruBlue = "#0A304E";
   const ToolTip = ({name, address, info}) => <div>
     <h1>{name}</h1>
     <h2>{address}</h2>
     <p>{info}</p>
     </div>;
-  
-  const showToolTip = (longitude, latitude, name, address, info) =>  {
-    return (
-      <ToolTip
-        lat = {latitude}
-        lng = {longitude}
-        name = {name}
-        address = {address}
-        info = {info}
-      ></ToolTip>
-    )
-  }
-
   const directory = places.map((data) => {
     //category - Directory
     if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <Pin
-          lat={data.latitude}
-          lng={data.longitude}
+        lat={data.latitude}
+        lng={data.longitude}
           color={cwruBlue} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+        <ToolTip
+        lat={data.latitude}
+        lng={data.longitude}
+        name = {data.name}
+        address = {data.address}
+        info = {data.info}
+        >
+        </ToolTip>}
+        </div>
+        
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "housing")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <Home
           lat={data.latitude}
           lng={data.longitude}
           color= {cwruBlue}
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+          <ToolTip
+          lat={data.latitude}
+          lng={data.longitude}
+          name = {data.name}
+          address = {data.address}
+          info = {data.info}
+          >
+          </ToolTip>}
+          </div>
+        
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CAS")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <School
           lat={data.latitude}
           lng={data.longitude}
           color={'green'} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+          <ToolTip
+          lat={data.latitude}
+          lng={data.longitude}
+          name = {data.name}
+          address = {data.address}
+          info = {data.info}
+          >
+          </ToolTip>}
+          </div>
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "CSE")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <School
           lat={data.latitude}
           lng={data.longitude}
           color={'red'} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+        <ToolTip
+        lat={data.latitude}
+        lng={data.longitude}
+        name = {data.name}
+        address = {data.address}
+        info = {data.info}
+        >
+        </ToolTip>}
+        </div>
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "phed")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <Barbell
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+        <ToolTip
+        lat={data.latitude}
+        lng={data.longitude}
+        name = {data.name}
+        address = {data.address}
+        info = {data.info}
+        >
+        </ToolTip>}
+        </div>
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "health")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <Bandage
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+          <ToolTip
+          lat={data.latitude}
+          lng={data.longitude}
+          name = {data.name}
+          address = {data.address}
+          info = {data.info}
+          >
+          </ToolTip>}
+          </div>
       );
       if ((data.category === ButtonTitle.CampusSeeking) && data.deptMarker === "business")
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <School
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+        <ToolTip
+        lat={data.latitude}
+        lng={data.longitude}
+        name = {data.name}
+        address = {data.address}
+        info = {data.info}
+        >
+        </ToolTip>}
+        </div>
       );
   });
 
   const food = places.map((data) => {
     if (data.category === ButtonTitle.FoodSeeking)
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <FastFood
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
           height="25px"
           width="25px"
-          onClick = {() => showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+          <ToolTip
+          lat={data.latitude}
+          lng={data.longitude}
+          name = {data.name}
+          address = {data.address}
+          info = {data.info}
+          >
+          </ToolTip>}
+          </div>
       );
   });
 
   const studentServices = places.map((data) => {
     if (data.category === ButtonTitle.StudentServicesSeeking)
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <School
           lat={data.latitude}
           lng={data.longitude}
           color={cwruBlue} 
           height="25px"
           width="25px"
-          onClick = {showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+          onClick = {() => {setCurrentToolTip(data.name)}}
         />
+        {currentToolTip === data.name &&
+          <ToolTip
+          lat={data.latitude}
+          lng={data.longitude}
+          name = {data.name}
+          address = {data.address}
+          info = {data.info}
+          >
+          </ToolTip>}
+          </div>
       );
   });
 
   const healthServices = places.map((data) => {
     if (data.category === ButtonTitle.HealthServicesSeeking)
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <Bandage
         lat={data.latitude}
         lng={data.longitude}
         color={cwruBlue} 
         height="25px"
         width="25px"
-        onClick = {showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+        onClick = {() => {setCurrentToolTip(data.name)}}
       />
+      {currentToolTip === data.name &&
+        <ToolTip
+        lat={data.latitude}
+        lng={data.longitude}
+        name = {data.name}
+        address = {data.address}
+        info = {data.info}
+        >
+        </ToolTip>}
+        </div>
       );
   });
 
   const transportation = places.map((data) => {
     if (data.category === ButtonTitle.TransportationSeeking)
       return (
+        <div lat={data.latitude}
+        lng={data.longitude}>
         <Bus
         lat={data.latitude}
         lng={data.longitude}
         color={cwruBlue} 
         height="25px"
         width="25px"
-        onClick = {showToolTip(data.longitude, data.latitude, data.name, data.address, data.info)}
+        onClick = {() => {setCurrentToolTip(data.name)}}
       />
+      {currentToolTip === data.name &&
+        <ToolTip
+        lat={data.latitude}
+        lng={data.longitude}
+        name = {data.name}
+        address = {data.address}
+        info = {data.info}
+        >
+        </ToolTip>}
+        </div>
       );
   });
 
