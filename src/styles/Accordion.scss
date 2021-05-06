@@ -1,10 +1,13 @@
 .accordionItems {
+  height: 95%;
   width: 45%;
   max-width: 768px;
   margin: 0 auto;
   padding: 15px;
   bottom: 0%;
+  top: 4%;
   position: fixed;
+  overflow: auto;
 
   @media screen and (max-width: 768px){
     display: none;
@@ -61,7 +64,8 @@
 //idk how to fix this bug where the minus sign only goes to the right place for the 1st element
 .accordionItems .mapPinopen .mapPin_name::after {
   content: '';
-  position: absolute;
+  position: relative;
+  z-index: 100;
   top: 50%;
   right: 0px;
   width: 30px;
