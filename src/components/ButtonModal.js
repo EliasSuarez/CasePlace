@@ -1,4 +1,5 @@
 import React from "react";
+import { Back } from "../util/ButtonTitles";
 
 const ButtonModal = ({
   modalTitle,
@@ -8,18 +9,30 @@ const ButtonModal = ({
 }) => {
   const onButtonClickHandler = (title) => {
     setShowModal(false);
-    setModalSelection(title);
+    if(title == Back)
+      setModalSelection("Welcome");
+    else
+      setModalSelection(title);
   };
 
   return (
     <div className={"buttonContainer"}>
       <h1>{modalTitle}</h1>
       {buttonTitles.map((title) => {
-        return (
-          <button onClick={() => onButtonClickHandler(title)} key={title}>
-            {title}
-          </button>
-        );
+        if(title != Back){
+          return (
+            <button onClick={() => onButtonClickHandler(title)} key={title}>
+              {title}
+            </button>
+          );
+        }
+        else{
+          return (
+            <button className={"backButton"} onClick={() => onButtonClickHandler(title)} key={title}>
+              {title}
+            </button>
+          );
+        }
       })}
     </div>
   );

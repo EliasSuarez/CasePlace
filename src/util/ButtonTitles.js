@@ -11,3 +11,4 @@ export const HealthServicesSeeking = "Health Services";
 export const StudentServicesSeeking = "Student Services";
 export const ShoppingSeeking = "Shopping Locations";
 export const StudySeeking = "Study Locations";
+export const Back = "< Back"

@@ -68,6 +68,7 @@ function App() {
             ButtonTitle.CampusSeeking,
             ButtonTitle.FoodSeeking,
             ButtonTitle.TransportationSeeking,
+            ButtonTitle.Back
           ]}
           setModalSelection={setModalSelection}
         />
@@ -84,6 +85,7 @@ function App() {
             ButtonTitle.StudentServicesSeeking,
             ButtonTitle.ShoppingSeeking,
             ButtonTitle.StudySeeking,
+            ButtonTitle.Back
           ]}
           setModalSelection={setModalSelection}
         />
@@ -97,6 +99,7 @@ function App() {
             ButtonTitle.CampusSeeking,
             ButtonTitle.FoodSeeking,
             ButtonTitle.TransportationSeeking,
+            ButtonTitle.Back
           ]}
           setModalSelection={setModalSelection}
         />

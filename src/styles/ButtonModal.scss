@@ -7,12 +7,16 @@
   justify-content: center;
   flex-wrap: wrap;
   left: 10%;
-  padding-bottom: 5%;
+  padding-bottom: 1%;
   position: absolute;
   text-align: center;
   top: 25%;
   //margin-top: 4rem;
   width: 80%;
+
+  .backButton{
+    width: 9%;
+  }
 
   @media screen and (max-width: 768px) {
     border-radius: 24px 24px 0 0;
