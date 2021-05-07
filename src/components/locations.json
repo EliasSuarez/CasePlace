@@ -120,16 +120,6 @@
     "deptMarker": ""
   },
   {
-    "name": "Apartment - 1720-28 East 116th The Noble",
-    "address": "1728 East 116 Street 1720 - Cleveland, OH 44106",
-    "latitude": "41.5116",
-    "longitude": "-81.60354799999999",
-    "info": "",
-    "open": false,
-    "category": "Campus Buildings",
-    "deptMarker": "housing"
-  },
-  {
     "name": "Apartment - East 116th 1719 ",
     "address": "1719 East 116 Street Cleveland, OH 44106",
     "latitude": "41.510551",
@@ -218,16 +208,6 @@
     "open": false,
     "category": "Campus Buildings",
     "deptMarker": "CSE"
-  },
-  {
-    "name": "Dental Research Building",
-    "address": "2124 Cornell Road Cleveland, OH 44106",
-    "latitude": "41.505359999999996",
-    "longitude": "-81.603173",
-    "info": "",
-    "open": false,
-    "category": "Campus Buildings",
-    "deptMarker": "dental"
   },
   {
     "name": "Biomedical Research Building",
@@ -2024,16 +2004,6 @@
     "open": false,
     "category": "Campus Buildings",
     "deptMarker": ""
-  },
-  {
-    "name": "Village at 115 - House 3A",
-    "address": "1677 East 115 Street Cleveland, OH 44106",
-    "latitude": "41.5125421",
-    "longitude": "-81.60418689",
-    "info": "",
-    "open": false,
-    "category": "Campus Buildings",
-    "deptMarker": "housing"
   },
   {
     "name": "Wyant Athletic and Wellness Center",
