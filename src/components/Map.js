@@ -317,6 +317,7 @@ const Map = ({ loc, setLoc }) => {
           bootstrapURLKeys={{ key: "AIzaSyBqiKidu6V4PTb8YZJdQET9qVjYTWFSG1o" }}
           defaultCenter={{ lat: 41.508186, lng: -81.608665 }}
           defaultZoom={17}
+          onClick={() => setCurrentToolTip(null)}
         >
           {loc === ButtonTitle.CampusSeeking && directory}
           {loc === ButtonTitle.FoodSeeking && food}
