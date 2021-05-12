@@ -1,13 +1,14 @@
 export const ProspyWelcome = "Parent or Prospective Student";
 export const GuestWelcome = "Guest";
 export const CurrentStudentWelcome = "Current Student";
-export const CampusSeeking = "Directory";
+export const CampusSeeking = "Campus Buildings";
 export const FoodSeeking = "Food";
 export const DirectionsSeeking = "Directions";
-export const TransportationSeeking = "Find Transportation";
+export const TransportationSeeking = "Transportation Options";
 export const CampusBuildingSeeking = "Campus Directory";
 export const ClubsSeeking = "Clubs and Student Orgs";
 export const HealthServicesSeeking = "Health Services";
 export const StudentServicesSeeking = "Student Services";
 export const ShoppingSeeking = "Shopping Locations";
 export const StudySeeking = "Study Locations";
+export const Back = "< Back"

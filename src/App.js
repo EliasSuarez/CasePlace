@@ -62,13 +62,13 @@ function App() {
 
       {showProspySeekingModal && (
         <ButtonModal
-          modalTitle={"What would you like to do?"}
+          modalTitle={"I'm looking for"}
           setShowModal={setShowProspySeekingModal}
           buttonTitles={[
             ButtonTitle.CampusSeeking,
             ButtonTitle.FoodSeeking,
-            ButtonTitle.DirectionsSeeking,
             ButtonTitle.TransportationSeeking,
+            ButtonTitle.Back
           ]}
           setModalSelection={setModalSelection}
         />
@@ -79,12 +79,13 @@ function App() {
           modalTitle={"I'm looking for"}
           setShowModal={setShowStudentSeekingModal}
           buttonTitles={[
-            ButtonTitle.CampusBuildingSeeking,
+            ButtonTitle.CampusSeeking,
             ButtonTitle.ClubsSeeking,
             ButtonTitle.HealthServicesSeeking,
             ButtonTitle.StudentServicesSeeking,
             ButtonTitle.ShoppingSeeking,
             ButtonTitle.StudySeeking,
+            ButtonTitle.Back
           ]}
           setModalSelection={setModalSelection}
         />
@@ -92,13 +93,13 @@ function App() {
 
       {showGuestSeekingModal && (
         <ButtonModal
-          modalTitle={"What would you like to do?"}
+          modalTitle={"I'm looking for"}
           setShowModal={setShowGuestSeekingModal}
           buttonTitles={[
             ButtonTitle.CampusSeeking,
             ButtonTitle.FoodSeeking,
-            ButtonTitle.DirectionsSeeking,
             ButtonTitle.TransportationSeeking,
+            ButtonTitle.Back
           ]}
           setModalSelection={setModalSelection}
         />

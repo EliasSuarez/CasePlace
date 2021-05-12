@@ -6,7 +6,7 @@
     "longitude": "-81.60552799999999",
     "info": "28,000 square foot gym on CWRU campus that offers a variety of health and training services with membership",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -16,7 +16,7 @@
     "longitude": "-81.608667",
     "info": "The University Center houses six departments, nine events spaces, and six dining locations. It is the ideal meeting space for students to study, collaborate, and socialize.",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -26,7 +26,7 @@
     "longitude": "-81.60686",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -36,7 +36,7 @@
     "longitude": "-81.6098",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -46,7 +46,7 @@
     "longitude": "-81.60592",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "phed"
   },
   {
@@ -56,7 +56,7 @@
     "longitude": "-81.608216666667",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -66,7 +66,7 @@
     "longitude": "-81.60690799999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -76,7 +76,7 @@
     "longitude": "-81.607106",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "biology"
   },
   {
@@ -86,7 +86,7 @@
     "longitude": "-81.607494",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "chemistry"
   },
   {
@@ -96,8 +96,8 @@
     "longitude": "-81.60844",
     "info": "",
     "open": false,
-    "category": "Directory",
-    "deptMarker": "?"
+    "category": "Campus Buildings",
+    "deptMarker": ""
   },
   {
     "name": "Alumni House",
@@ -106,7 +106,7 @@
     "longitude": "-81.60242199999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -120,23 +120,13 @@
     "deptMarker": ""
   },
   {
-    "name": "Apartment - 1720-28 East 116th The Noble",
-    "address": "1728 East 116 Street 1720 - Cleveland, OH 44106",
-    "latitude": "41.5116",
-    "longitude": "-81.60354799999999",
-    "info": "",
-    "open": false,
-    "category": "Directory",
-    "deptMarker": "housing"
-  },
-  {
     "name": "Apartment - East 116th 1719 ",
     "address": "1719 East 116 Street Cleveland, OH 44106",
     "latitude": "41.510551",
     "longitude": "-81.60354799999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -146,7 +136,7 @@
     "longitude": "-81.60315",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -156,7 +146,7 @@
     "longitude": "-81.6029",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -166,7 +156,7 @@
     "longitude": "-81.60417699999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -176,7 +166,7 @@
     "longitude": "-81.60307399999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -186,7 +176,7 @@
     "longitude": "-81.60836599999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -196,7 +186,7 @@
     "longitude": "-81.60749",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -206,7 +196,7 @@
     "longitude": "-81.6090149",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -216,18 +206,8 @@
     "longitude": "-81.60694",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
-  },
-  {
-    "name": "Dental Research Building",
-    "address": "2124 Cornell Road Cleveland, OH 44106",
-    "latitude": "41.505359999999996",
-    "longitude": "-81.603173",
-    "info": "",
-    "open": false,
-    "category": "Directory",
-    "deptMarker": "dental"
   },
   {
     "name": "Biomedical Research Building",
@@ -236,7 +216,7 @@
     "longitude": "-81.604407",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -246,7 +226,7 @@
     "longitude": "-81.605791",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -256,7 +236,7 @@
     "longitude": "-81.60472899999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -266,7 +246,7 @@
     "longitude": "-81.60119",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -276,7 +256,7 @@
     "longitude": "-81.6017622",
     "info": "Southside dining hall",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "Student Services"
   },
   {
@@ -286,7 +266,7 @@
     "longitude": "-81.5998",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -326,7 +306,7 @@
     "longitude": "-81.6055",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -336,7 +316,7 @@
     "longitude": "-81.609524",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -346,7 +326,7 @@
     "longitude": "-81.617633",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "biology"
   },
   {
@@ -356,7 +336,7 @@
     "longitude": "-81.60208999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "slp"
   },
   {
@@ -366,7 +346,7 @@
     "longitude": "-81.6097",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -376,7 +356,7 @@
     "longitude": "-81.6087",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -386,7 +366,7 @@
     "longitude": "-81.61200000000001",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -396,7 +376,7 @@
     "longitude": "-81.6134",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -406,7 +386,7 @@
     "longitude": "-81.62786",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -426,7 +406,7 @@
     "longitude": "-81.60504",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -446,7 +426,7 @@
     "longitude": "-81.60540499999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -456,7 +436,7 @@
     "longitude": "-81.6053",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -466,7 +446,7 @@
     "longitude": "-81.60795",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -476,7 +456,7 @@
     "longitude": "-81.60095",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -486,7 +466,7 @@
     "longitude": "-81.60510000000001",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "music"
   },
   {
@@ -496,7 +476,7 @@
     "longitude": "-81.62033699999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -506,7 +486,7 @@
     "longitude": "-81.603173",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "dental"
   },
   {
@@ -526,7 +506,7 @@
     "longitude": "-81.6079",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -536,7 +516,7 @@
     "longitude": "-81.60781999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -555,7 +535,7 @@
     "longitude": "-81.59761",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -565,7 +545,7 @@
     "longitude": "-81.604106",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -585,7 +565,7 @@
     "longitude": "-81.60634999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -595,7 +575,7 @@
     "longitude": "-81.60857999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -605,7 +585,7 @@
     "longitude": "-81.60048544",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -615,7 +595,7 @@
     "longitude": "-81.60719",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "compsci"
   },
   {
@@ -625,7 +605,7 @@
     "longitude": "-81.60757699999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -635,7 +615,7 @@
     "longitude": "-81.61818799999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -645,7 +625,7 @@
     "longitude": "-81.69473699999999",
     "info": "",
     "open": false,
-    "category": "Directory"
+    "category": "Campus Buildings"
   },
   {
     "name": "Guilford House",
@@ -654,7 +634,7 @@
     "longitude": "-81.60815099999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -664,7 +644,7 @@
     "longitude": "-81.60725",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -674,7 +654,7 @@
     "longitude": "-81.60750999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -684,7 +664,7 @@
     "longitude": "-81.60770000000001",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -704,7 +684,7 @@
     "longitude": "-81.60786",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -724,7 +704,7 @@
     "longitude": "-81.60502",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -734,7 +714,7 @@
     "longitude": "-81.6021323",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -744,7 +724,7 @@
     "longitude": "-81.60950277777",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -754,7 +734,7 @@
     "longitude": "-81.60656",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -764,7 +744,7 @@
     "longitude": "-81.60002947",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -784,7 +764,7 @@
     "longitude": "-81.606166",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -804,7 +784,7 @@
     "longitude": "-81.60690000000001",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -823,7 +803,7 @@
     "longitude": "-81.60754",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -833,7 +813,7 @@
     "longitude": "-81.609111",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -843,7 +823,7 @@
     "longitude": "-81.6076952",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -853,7 +833,7 @@
     "longitude": "-81.602175",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -863,7 +843,7 @@
     "longitude": "-81.60624",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -873,7 +853,7 @@
     "longitude": "-81.6060859",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -883,7 +863,7 @@
     "longitude": "-81.61340799999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -893,7 +873,7 @@
     "longitude": "-81.607556",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -903,7 +883,7 @@
     "longitude": "-81.608188",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -913,7 +893,7 @@
     "longitude": "-81.61856",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -923,7 +903,7 @@
     "longitude": "-81.60630599999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -933,7 +913,7 @@
     "longitude": "-81.60494899999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -943,7 +923,7 @@
     "longitude": "-81.601789",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -953,7 +933,7 @@
     "longitude": "-81.6049755",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -963,7 +943,7 @@
     "longitude": "-81.604396",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -973,7 +953,7 @@
     "longitude": "-81.6071963",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -983,7 +963,7 @@
     "longitude": "-81.6079849",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -993,7 +973,7 @@
     "longitude": "-81.603546",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1003,7 +983,7 @@
     "longitude": "-81.603455",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1013,7 +993,7 @@
     "longitude": "-81.607883",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1033,7 +1013,7 @@
     "longitude": "-81.6057372",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1043,7 +1023,7 @@
     "longitude": "-81.606832",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1053,7 +1033,7 @@
     "longitude": "-81.605288",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1063,7 +1043,7 @@
     "longitude": "-81.60782999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1073,7 +1053,7 @@
     "longitude": "-81.606622",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1093,7 +1073,7 @@
     "longitude": "-81.6106242",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1103,7 +1083,7 @@
     "longitude": "-81.6103774",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1113,7 +1093,7 @@
     "longitude": "-81.613784",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1123,7 +1103,7 @@
     "longitude": "-81.612995",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1133,7 +1113,7 @@
     "longitude": "-81.60370999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1143,7 +1123,7 @@
     "longitude": "-81.596752",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1153,7 +1133,7 @@
     "longitude": "-81.603539",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1163,7 +1143,7 @@
     "longitude": "-81.617164",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1173,7 +1153,7 @@
     "longitude": "-81.606276",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1183,7 +1163,7 @@
     "longitude": "-81.604236",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1193,7 +1173,7 @@
     "longitude": "-81.621184",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1203,7 +1183,7 @@
     "longitude": "-81.60537243",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1213,7 +1193,7 @@
     "longitude": "-81.6095352",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1223,7 +1203,7 @@
     "longitude": "-81.61729199999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1233,7 +1213,7 @@
     "longitude": "-81.60961999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1243,7 +1223,7 @@
     "longitude": "-81.6043639",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1253,7 +1233,7 @@
     "longitude": "-81.6026956",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1263,7 +1243,7 @@
     "longitude": "-81.6068745",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1273,7 +1253,7 @@
     "longitude": "-81.6048521",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1283,7 +1263,7 @@
     "longitude": "-81.603551",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1293,7 +1273,7 @@
     "longitude": "-81.602111",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1303,7 +1283,7 @@
     "longitude": "-81.602679",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1313,7 +1293,7 @@
     "longitude": "-81.60563499999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -1332,7 +1312,7 @@
     "longitude": "-81.607218",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -1342,7 +1322,7 @@
     "longitude": "-81.60560000000001",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -1352,7 +1332,7 @@
     "longitude": "-81.6039187",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "nursing"
   },
   {
@@ -1362,7 +1342,7 @@
     "longitude": "-81.60815",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "dance"
   },
   {
@@ -1372,7 +1352,7 @@
     "longitude": "-81.607078",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CAS"
   },
   {
@@ -1382,7 +1362,7 @@
     "longitude": "-81.606692",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "phed"
   },
   {
@@ -1392,7 +1372,7 @@
     "longitude": "-81.704942",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -1402,7 +1382,7 @@
     "longitude": "-81.60101116",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1412,7 +1392,7 @@
     "longitude": "-81.607",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -1422,7 +1402,7 @@
     "longitude": "-81.604911",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1432,7 +1412,7 @@
     "longitude": "-81.604467",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "phed"
   },
   {
@@ -1442,7 +1422,7 @@
     "longitude": "-81.6057",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1452,7 +1432,7 @@
     "longitude": "-81.60777999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -1462,7 +1442,7 @@
     "longitude": "-81.492559",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -1472,7 +1452,7 @@
     "longitude": "-81.60600000000001",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1482,7 +1462,7 @@
     "longitude": "-81.6079",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "business"
   },
   {
@@ -1492,7 +1472,7 @@
     "longitude": "-81.6066",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "greek"
   },
   {
@@ -1502,7 +1482,7 @@
     "longitude": "-81.61",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "greek"
   },
   {
@@ -1512,7 +1492,7 @@
     "longitude": "-81.60544999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1522,7 +1502,7 @@
     "longitude": "-81.60584399999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -1532,7 +1512,7 @@
     "longitude": "-81.60524",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1542,7 +1522,7 @@
     "longitude": "-81.60784",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -1552,7 +1532,7 @@
     "longitude": "-81.619743",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1562,7 +1542,7 @@
     "longitude": "-81.605115",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1582,7 +1562,7 @@
     "longitude": "-81.60934999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1592,7 +1572,7 @@
     "longitude": "-81.60578",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1602,7 +1582,7 @@
     "longitude": "-81.60743",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1612,7 +1592,7 @@
     "longitude": "-81.6027573",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1622,7 +1602,7 @@
     "longitude": "-81.60491999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1632,7 +1612,7 @@
     "longitude": "-81.60767",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "services"
   },
   {
@@ -1642,7 +1622,7 @@
     "longitude": "-81.60601",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1652,7 +1632,7 @@
     "longitude": "-81.6074699",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -1662,7 +1642,7 @@
     "longitude": "-81.607046",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1672,7 +1652,7 @@
     "longitude": "-81.6072",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1682,7 +1662,7 @@
     "longitude": "-81.61684199999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "parking"
   },
   {
@@ -1692,7 +1672,7 @@
     "longitude": "-81.60354799999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1702,7 +1682,7 @@
     "longitude": "-81.6029182",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1712,7 +1692,7 @@
     "longitude": "-81.604199",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1722,7 +1702,7 @@
     "longitude": "-81.603527",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1732,7 +1712,7 @@
     "longitude": "-81.603479",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1742,7 +1722,7 @@
     "longitude": "-81.612825",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1752,7 +1732,7 @@
     "longitude": "-81.60614",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1762,7 +1742,7 @@
     "longitude": "-81.605764",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1772,7 +1752,7 @@
     "longitude": "-81.612595",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1782,7 +1762,7 @@
     "longitude": "-81.603377",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1792,7 +1772,7 @@
     "longitude": "-81.603977",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1802,7 +1782,7 @@
     "longitude": "-81.614369",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1812,7 +1792,7 @@
     "longitude": "-81.61511999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1822,7 +1802,7 @@
     "longitude": "-81.606166",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "phed"
   },
   {
@@ -1832,7 +1812,7 @@
     "longitude": "-81.6031945",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1842,7 +1822,7 @@
     "longitude": "-81.6032749",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1852,7 +1832,7 @@
     "longitude": "-81.60372",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1862,7 +1842,7 @@
     "longitude": "-81.60418689",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1872,7 +1852,7 @@
     "longitude": "-81.6044337",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1882,7 +1862,7 @@
     "longitude": "-81.60444975",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1892,7 +1872,7 @@
     "longitude": "-81.604455",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1902,7 +1882,7 @@
     "longitude": "-81.60412252",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "housing"
   },
   {
@@ -1912,7 +1892,7 @@
     "longitude": "-81.613962",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -1932,7 +1912,7 @@
     "longitude": "-81.56839",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1942,7 +1922,7 @@
     "longitude": "-81.605721",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "health"
   },
   {
@@ -1952,7 +1932,7 @@
     "longitude": "-81.61071",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1962,7 +1942,7 @@
     "longitude": "-81.60746",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -1972,7 +1952,7 @@
     "longitude": "-81.608452777778",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "CSE"
   },
   {
@@ -1982,7 +1962,7 @@
     "longitude": "-81.60593999999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -1992,7 +1972,7 @@
     "longitude": "-81.603168",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -2002,7 +1982,7 @@
     "longitude": "-81.60465359687801",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -2012,7 +1992,7 @@
     "longitude": "-81.605007648468",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -2022,18 +2002,8 @@
     "longitude": "-81.422805",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
-  },
-  {
-    "name": "Village at 115 - House 3A",
-    "address": "1677 East 115 Street Cleveland, OH 44106",
-    "latitude": "41.5125421",
-    "longitude": "-81.60418689",
-    "info": "",
-    "open": false,
-    "category": "Directory",
-    "deptMarker": "housing"
   },
   {
     "name": "Wyant Athletic and Wellness Center",
@@ -2042,7 +2012,7 @@
     "longitude": "-81.60341199999999",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": "phed"
   },
   {
@@ -2052,7 +2022,7 @@
     "longitude": "-81.60897777777801",
     "info": "",
     "open": false,
-    "category": "Directory",
+    "category": "Campus Buildings",
     "deptMarker": ""
   },
   {
@@ -2192,7 +2162,7 @@
     "longitude": "-81.60797222127144",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2202,7 +2172,7 @@
     "longitude": "-81.61050162121973",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2212,7 +2182,7 @@
     "longitude": "-81.61262999777964",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2222,7 +2192,7 @@
     "longitude": "-81.61254431784093",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2232,7 +2202,7 @@
     "longitude": "-81.6116068791566",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2242,7 +2212,7 @@
     "longitude": "-81.6090919225172",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2252,7 +2222,7 @@
     "longitude": "-81.60873050044697",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2262,7 +2232,7 @@
     "longitude": "-81.60743231124466",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2272,7 +2242,7 @@
     "longitude": "-81.60613412209833",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2282,7 +2252,7 @@
     "longitude": "-81.60603756258065",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2292,7 +2262,7 @@
     "longitude": "-81.6026705561586",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2302,7 +2272,7 @@
     "longitude": "-81.60266519174095",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2312,7 +2282,7 @@
     "longitude": "-81.60013011713838",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2322,7 +2292,7 @@
     "longitude": "-81.60002819320309",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2332,7 +2302,7 @@
     "longitude": "-81.59620336319333",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2342,7 +2312,7 @@
     "longitude": "-81.5959244134757",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2352,7 +2322,7 @@
     "longitude": "-81.58851502085285",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2362,7 +2332,7 @@
     "longitude": "-81.58765134961162",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2372,7 +2342,7 @@
     "longitude": "-81.58434982606053",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2382,7 +2352,7 @@
     "longitude": "-81.58391530823113",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2392,7 +2362,7 @@
     "longitude": "-81.58032986003757",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2402,7 +2372,7 @@
     "longitude": "-81.5800616391552",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2412,7 +2382,7 @@
     "longitude": "-81.57990220071542",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2422,7 +2392,7 @@
     "longitude": "-81.579917320721992",
     "info": "BlueLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "BlueLink"
   },
   {
@@ -2432,7 +2402,7 @@
     "longitude": "-81.60457210495953",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2442,7 +2412,7 @@
     "longitude": "-81.60331365971699",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2452,7 +2422,7 @@
     "longitude": "-81.60329517341785",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2462,7 +2432,7 @@
     "longitude": "-81.60566758194035",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2472,7 +2442,7 @@
     "longitude": "-81.60649946546437",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2482,7 +2452,7 @@
     "longitude": "-81.60736215942408",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2492,7 +2462,7 @@
     "longitude": "-81.60736215942408",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2502,7 +2472,7 @@
     "longitude": "-81.60887187396844",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2512,7 +2482,7 @@
     "longitude": "-81.61024906232774",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2522,7 +2492,7 @@
     "longitude": "-81.61071639612902",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2532,7 +2502,7 @@
     "longitude": "-81.60866099286946",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2542,7 +2512,7 @@
     "longitude": "-81.60726331866033",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2552,7 +2522,7 @@
     "longitude": "-81.60561653489084",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2562,7 +2532,7 @@
     "longitude": "-81.60463859559799",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2572,7 +2542,7 @@
     "longitude": "-81.60888946565684",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2582,7 +2552,7 @@
     "longitude": "-81.60664703578924",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2592,7 +2562,7 @@
     "longitude": "-81.60480799074875",
     "info": "GreenLink Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "GreenLink"
   },
   {
@@ -2602,7 +2572,7 @@
     "longitude": "-81.60836815124372",
     "info": "Nursing Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Nursing"
   },
   {
@@ -2612,7 +2582,7 @@
     "longitude": "-81.61067754323354",
     "info": "Nursing Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Nursing"
   },
   {
@@ -2622,7 +2592,7 @@
     "longitude": "-81.60813367745756",
     "info": "Nursing Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Nursing"
   },
   {
@@ -2632,7 +2602,7 @@
     "longitude": "-81.60521840733935",
     "info": "Nursing Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Nursing"
   },
   {
@@ -2642,7 +2612,7 @@
     "longitude": "-81.60325263253992",
     "info": "Nursing Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Nursing"
   },
   {
@@ -2652,7 +2622,7 @@
     "longitude": "-81.61846485747985",
     "info": "Nursing Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Nursing"
   },
   {
@@ -2662,7 +2632,7 @@
     "longitude": "-81.60616323587465",
     "info": "Route B Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Route B"
   },
   {
@@ -2672,7 +2642,7 @@
     "longitude": "-81.60575017571583",
     "info": "Route B Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Route B"
   },
   {
@@ -2682,7 +2652,7 @@
     "longitude": "-81.60529420017718",
     "info": "Route B Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Route B"
   },
   {
@@ -2692,7 +2662,7 @@
     "longitude": "-81.60258516916508",
     "info": "Route B Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Route B"
   },
   {
@@ -2702,7 +2672,7 @@
     "longitude": "-81.60233545784817",
     "info": "Route B Bustop",
     "open": false,
-    "category": "Find Transportation",
+    "category": "Transportation Options",
     "deptMarker": "Route B"
   }
 ]
