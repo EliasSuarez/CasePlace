@@ -24,7 +24,7 @@ const RadioButton = ({ buttonValue, buttonTitle }) => {
   );
 };
 
-const Map = ({ loc, setLoc }) => {
+const Map = ({ loc, setLoc, curStudent }) => {
   const [currentToolTip, setCurrentToolTip] = React.useState(null);
   const cwruBlue = "#0A304E";
 
@@ -363,16 +363,18 @@ const Map = ({ loc, setLoc }) => {
         />
 
         {/*Category Student Services*/}
+          {curStudent &&
         <RadioButton
           buttonTitle={"Student Services"}
           buttonValue={ButtonTitle.StudentServicesSeeking}
-        />
+        />}
 
         {/*Category Health Services*/}
+          { curStudent &&
         <RadioButton
           buttonTitle={"Health Services"}
           buttonValue={ButtonTitle.HealthServicesSeeking}
-        />
+        />}
 
         {/*Category Transportation*/}
         <RadioButton

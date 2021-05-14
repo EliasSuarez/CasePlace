@@ -9,7 +9,7 @@ const ButtonModal = ({
 }) => {
   const onButtonClickHandler = (title) => {
     setShowModal(false);
-    if(title == Back)
+    if(title === Back)
       setModalSelection("Welcome");
     else
       setModalSelection(title);
@@ -19,7 +19,7 @@ const ButtonModal = ({
     <div className={"buttonContainer"}>
       <h1>{modalTitle}</h1>
       {buttonTitles.map((title) => {
-        if(title != Back){
+        if(title !== Back){
           return (
             <button onClick={() => onButtonClickHandler(title)} key={title}>
               {title}
