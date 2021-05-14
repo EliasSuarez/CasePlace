@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./styles/App.scss";
 import ButtonModal from "./components/ButtonModal";
 import * as ButtonTitle from "./util/ButtonTitles.js";
-import { PinData } from "./util/SampleMapPinData.js";
 import Map from "./components/Map.js";
 
 function App() {
@@ -11,9 +10,8 @@ function App() {
   const [showWelcomeModal, setShowWelcomeModal] = useState(false);
   const [showProspySeekingModal, setShowProspySeekingModal] = useState(false);
   const [showStudentSeekingModal, setShowStudentSeekingModal] = useState(false);
+  const [isCurrentStudent, setIsCurrentStudent] = useState(false);
   const [showGuestSeekingModal, setShowGuestSeekingModal] = useState(false);
-  const [showAccordion, setShowAccordion] = useState(true);
-  const [locations, setLocations] = useState(PinData);
   const [loc, setLoc] = useState(ButtonTitle.CampusSeeking);
 
   useEffect(() => {
@@ -27,9 +25,11 @@ function App() {
         break;
       case ButtonTitle.CurrentStudentWelcome:
         setShowStudentSeekingModal(true);
+        setIsCurrentStudent(true);
         break;
       case "Welcome":
         setShowWelcomeModal(true);
+        setIsCurrentStudent(false);
         break;
       default:
         setLoc(modalSelection);
@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className={"App"}>
-      <Map loc={loc} setLoc={setLoc} />
+      <Map loc={loc} setLoc={setLoc} curStudent={isCurrentStudent}/>
       <div className={modalActive ? "dim-background" : ""} />
       {showWelcomeModal && (
         <ButtonModal
